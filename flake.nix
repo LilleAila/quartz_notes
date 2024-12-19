@@ -22,6 +22,7 @@
               nixfmt-rfc-style
               nodejs
               nodePackages.npm
+              python312
             ];
           };
         }
