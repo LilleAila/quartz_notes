@@ -8,6 +8,7 @@ OBSIDIAN_NOTES_PATH = "/home/olai/notes/obsidian"
 QUARTZ_NOTES_PATH = "/home/olai/devel/quartz_notes/content"
 EXCLUDED_FOLDERS = {"Daily", ".obsidian", ".stfolder", ".trash"}
 EXCLUDED_TAGS = {"#oppgave", "#innlevering", "#private"}
+EXCLUDED_EXTENSIONS = {".excalidraw.md"}
 
 def ignore_files(dir, files):
     """
@@ -20,14 +21,21 @@ def ignore_files(dir, files):
         if folder in dir:
             return files  # Ignore everything in this folder
 
-    # Ignore files containing excluded tags
+    # Ignore files based on tags and extensions
     for file in files:
         full_path = os.path.join(dir, file)
-        if os.path.isfile(full_path) and file.endswith(".md"):
-            with open(full_path, "r", encoding="utf-8") as f:
-                content = f.read()
-                if any(tag in content for tag in EXCLUDED_TAGS):
-                    ignored.append(file)
+        if os.path.isfile(full_path):
+            # Exclude based on extension
+            if any(file.endswith(ext) for ext in EXCLUDED_EXTENSIONS):
+                ignored.append(file)
+                continue
+
+            # Exclude based on tags
+            if file.endswith(".md"):
+                with open(full_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                    if any(tag in content for tag in EXCLUDED_TAGS):
+                        ignored.append(file)
     return ignored
 
 def sync_quartz():
