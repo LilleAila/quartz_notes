@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "nb-NO",
+    locale: "en-US",
     baseUrl: "olai.dev/quartz_notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
