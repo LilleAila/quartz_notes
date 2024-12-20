@@ -10,7 +10,7 @@ tags: []
 # derivasjonsregler
 
 $$
-\begin{flalign*}
+\begin{align}
     \left( k \right)' &= 0 \\
 	\left(ax + b\right)' &= a  \\
 	\left(x^{n}\right)' &= nx^{n-1}  \\
@@ -23,7 +23,7 @@ $$
 	\left( e^{ax} \right)' &= ae^{ax} & \\
 	\left( \ln{x} \right)' &= \frac{1}{x} & \\
 	\left( \log_{n}x \right)' &= \frac{1}{x\ln{n}} &
-\end{flalign*}
+\end{align}
 $$
 
 Mange av dem er beskrevet i [[20240616T1007-3blue1brown|3blue1brown]] sine videoer.
