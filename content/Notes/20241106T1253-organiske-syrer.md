@@ -3,7 +3,7 @@ id: 20241106T1253-organiske-syrer
 aliases:
   - organiske syrer
 tags: []
-title: organiske syrer
+title: Organiske syrer
 date: 2024-11-06
 ---
 

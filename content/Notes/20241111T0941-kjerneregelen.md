@@ -3,7 +3,7 @@ id: 20241111T0941-kjerneregelen
 aliases:
   - kjerneregelen
 tags: []
-title: kjerneregelen
+title: Kjerneregelen
 date: 2024-11-11
 ---
 

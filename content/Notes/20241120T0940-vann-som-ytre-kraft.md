@@ -3,7 +3,7 @@ id: 20241120T0940-vann-som-ytre-kraft
 aliases:
   - vann som ytre kraft
 tags: []
-title: vann som ytre kraft
+title: Vann som ytre kraft
 date: 2024-11-20
 ---
 

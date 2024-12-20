@@ -3,7 +3,7 @@ id: 20241111T0834-velferdsstaten
 aliases:
   - velferdsstaten
 tags: []
-title: velferdsstaten
+title: Velferdsstaten
 date: 2024-11-11
 ---
 

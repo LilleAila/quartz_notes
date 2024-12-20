@@ -4,7 +4,7 @@ aliases:
   - sammensatte funksjoner
   - komposisjon
 tags: []
-title: sammensatte funksjoner
+title: Sammensatte funksjoner
 date: 2024-11-04
 ---
 

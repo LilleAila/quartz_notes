@@ -3,7 +3,7 @@ id: 20241003T1236-platetektonikk
 aliases:
   - platetektonikk
 tags: []
-title: platetektonikk
+title: Platetektonikk
 date: 2024-10-03
 ---
 

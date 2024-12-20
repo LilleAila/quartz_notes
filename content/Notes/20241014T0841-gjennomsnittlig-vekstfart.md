@@ -3,7 +3,7 @@ id: 20241014T0841-gjennomsnittlig-vekstfart
 aliases:
   - gjennomsnittlig vekstfart
 tags: []
-title: gjennomsnittlig vekstfart
+title: Gjennomsnittlig vekstfart
 date: 2024-10-14
 ---
 

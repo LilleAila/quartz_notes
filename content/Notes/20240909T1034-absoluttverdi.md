@@ -4,7 +4,7 @@ aliases:
   - absoluttverdi
   - absoluttverdifunksjon
 tags: []
-title: absoluttverdi
+title: Absoluttverdi
 date: 2024-09-09
 ---
 

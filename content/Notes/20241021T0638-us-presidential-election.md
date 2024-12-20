@@ -3,7 +3,7 @@ id: 20241021T0638-us-presidential-election
 aliases:
   - us-presidential-election
 tags: []
-title: us-presidential-election
+title: Us-presidential-election
 date: 2024-10-21
 ---
 

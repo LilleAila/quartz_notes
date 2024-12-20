@@ -3,7 +3,7 @@ id: 20240905T0928-media-literacy
 aliases:
   - media literacy
 tags: []
-title: media literacy
+title: Media literacy
 date: 2024-09-05
 ---
 

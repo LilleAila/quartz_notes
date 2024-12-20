@@ -3,7 +3,7 @@ id: 20241112T0932-landskapstyper
 aliases:
   - landskapstyper
 tags: []
-title: landskapstyper
+title: Landskapstyper
 date: 2024-11-12
 ---
 

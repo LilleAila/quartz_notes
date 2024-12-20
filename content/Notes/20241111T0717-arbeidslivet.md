@@ -3,7 +3,7 @@ id: 20241111T0717-arbeidslivet
 aliases:
   - arbeidslivet
 tags: []
-title: arbeidslivet
+title: Arbeidslivet
 date: 2024-11-11
 ---
 

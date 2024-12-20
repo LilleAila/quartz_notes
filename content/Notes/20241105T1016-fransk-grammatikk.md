@@ -3,7 +3,7 @@ id: 20241105T1016-fransk-grammatikk
 aliases:
   - fransk grammatikk
 tags: []
-title: fransk grammatikk
+title: Fransk grammatikk
 date: 2024-11-05
 ---
 

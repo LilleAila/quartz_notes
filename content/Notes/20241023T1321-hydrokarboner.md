@@ -3,7 +3,7 @@ id: 20241023T1321-hydrokarboner
 aliases:
   - hydrokarboner
 tags: []
-title: hydrokarboner
+title: Hydrokarboner
 date: 2024-10-23
 ---
 

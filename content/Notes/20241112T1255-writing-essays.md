@@ -3,7 +3,7 @@ id: 20241112T1255-writing-essays
 aliases:
   - writing essays
 tags: []
-title: writing essays
+title: Writing essays
 date: 2024-11-12
 ---
 

@@ -3,7 +3,7 @@ id: 20241105T1411-arbeidsmarkedet
 aliases:
   - arbeidsmarkedet
 tags: []
-title: arbeidsmarkedet
+title: Arbeidsmarkedet
 date: 2024-11-05
 ---
 

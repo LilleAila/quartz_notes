@@ -3,7 +3,7 @@ id: 20241105T0923-miljøskildring
 aliases:
   - miljøskildring
 tags: []
-title: miljøskildring
+title: Miljøskildring
 date: 2024-11-05
 ---
 

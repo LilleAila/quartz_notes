@@ -3,7 +3,7 @@ id: 20241028T0959-derivasjon-av-logaritmer
 aliases:
   - derivasjon av logaritmer
 tags: []
-title: derivasjon av logaritmer
+title: Derivasjon av logaritmer
 date: 2024-10-28
 ---
 

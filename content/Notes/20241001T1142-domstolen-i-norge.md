@@ -3,7 +3,7 @@ id: 20241001T1142-domstolen-i-norge
 aliases:
   - domstolen i norge
 tags: []
-title: domstolen i norge
+title: Domstolen i norge
 date: 2024-10-01
 ---
 

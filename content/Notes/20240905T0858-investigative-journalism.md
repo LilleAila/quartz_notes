@@ -3,7 +3,7 @@ id: 20240905T0858-investigative-journalism
 aliases:
   - investigative journalism
 tags: []
-title: investigative journalism
+title: Investigative journalism
 date: 2024-09-05
 ---
 

@@ -3,7 +3,7 @@ id: 20241021T1215-systemutviklingsmetoder
 aliases:
   - systemutviklingsmetoder
 tags: []
-title: systemutviklingsmetoder
+title: Systemutviklingsmetoder
 date: 2024-10-21
 ---
 

@@ -3,7 +3,7 @@ id: 20241105T1016-fransk-stum-lyd
 aliases:
   - fransk stum lyd
 tags: []
-title: fransk stum lyd
+title: Fransk stum lyd
 date: 2024-11-05
 ---
 

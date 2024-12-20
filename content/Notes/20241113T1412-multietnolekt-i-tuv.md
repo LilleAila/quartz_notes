@@ -3,7 +3,7 @@ id: 20241113T1412-multietnolekt-i-tuv
 aliases:
   - multietnolekt i TUV
 tags: []
-title: multietnolekt i TUV
+title: Multietnolekt i TUV
 date: 2024-11-13
 ---
 

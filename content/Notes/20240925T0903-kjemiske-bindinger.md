@@ -3,7 +3,7 @@ id: 20240925T0903-kjemiske-bindinger
 aliases:
   - kjemiske bindinger
 tags: []
-title: kjemiske-bindinger
+title: Kjemiske-bindinger
 date: 2024-09-25
 ---
 

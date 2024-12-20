@@ -3,7 +3,7 @@ id: 20240906T0638-laserdiffraksjon-hår-tykkelse
 aliases:
   - hårbredde forsøk
 tags: []
-title: hårbredde forsøk
+title: Hårbredde forsøk
 date: 2024-09-06
 ---
 

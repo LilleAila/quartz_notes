@@ -3,7 +3,7 @@ id: 20241125T0718-skred-som-ytre-kraft
 aliases:
   - skred som ytre kraft
 tags: []
-title: skred som ytre kraft
+title: Skred som ytre kraft
 date: 2024-11-25
 ---
 

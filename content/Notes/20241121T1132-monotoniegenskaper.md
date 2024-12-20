@@ -3,7 +3,7 @@ id: 20241121T1132-monotoniegenskaper
 aliases:
   - monotoniegenskaper
 tags: []
-title: monotoniegenskaper
+title: Monotoniegenskaper
 date: 2024-11-21
 ---
 

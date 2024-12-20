@@ -3,7 +3,7 @@ id: 20240909T0727-amalie-skram-vgs
 aliases:
   - amalie skram
 tags: []
-title: amalie skram
+title: Amalie skram
 date: 2024-09-09
 ---
 

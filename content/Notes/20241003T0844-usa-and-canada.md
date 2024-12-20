@@ -3,7 +3,7 @@ id: 20241003T0844-usa-and-canada
 aliases:
   - usa and canada
 tags: []
-title: usa and canada
+title: Usa and canada
 date: 2024-10-03
 ---
 

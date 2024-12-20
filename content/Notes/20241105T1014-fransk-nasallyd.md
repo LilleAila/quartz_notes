@@ -3,7 +3,7 @@ id: 20241105T1014-fransk-nasallyd
 aliases:
   - fransk nasallyd
 tags: []
-title: fransk nasallyd
+title: Fransk nasallyd
 date: 2024-11-05
 ---
 

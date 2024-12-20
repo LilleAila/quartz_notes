@@ -3,7 +3,7 @@ id: 20240926T0900-academic-writing
 aliases:
   - academic writing
 tags: []
-title: academic writing
+title: Academic writing
 date: 2024-09-26
 ---
 

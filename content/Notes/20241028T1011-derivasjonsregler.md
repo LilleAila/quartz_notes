@@ -3,7 +3,7 @@ id: 20241028T1011-derivasjonsregler
 aliases:
   - derivasjonsregler
 tags: []
-title: derivasjonsregler
+title: Derivasjonsregler
 date: 2024-10-28
 ---
 

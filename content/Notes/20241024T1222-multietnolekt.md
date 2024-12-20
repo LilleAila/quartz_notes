@@ -3,7 +3,7 @@ id: 20241024T1222-multietnolekt
 aliases:
   - multietnolekt
 tags: []
-title: multietnolekt
+title: Multietnolekt
 date: 2024-10-24
 ---
 

@@ -3,7 +3,7 @@ id: 20241023T1201-numerical-multiplier
 aliases:
   - numerical-multiplier
 tags: []
-title: numerical-multiplier
+title: Numerical-multiplier
 date: 2024-10-23
 ---
 

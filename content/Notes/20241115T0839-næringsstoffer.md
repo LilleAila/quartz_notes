@@ -3,7 +3,7 @@ id: 20241115T0839-næringsstoffer
 aliases:
   - næringsstoffer
 tags: []
-title: næringsstoffer
+title: Næringsstoffer
 date: 2024-11-15
 ---
 

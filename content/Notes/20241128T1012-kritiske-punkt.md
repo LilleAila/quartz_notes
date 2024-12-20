@@ -3,7 +3,7 @@ id: 20241128T1012-kritiske-punkt
 aliases:
   - kritiske punkt
 tags: []
-title: kritiske punkt
+title: Kritiske punkt
 date: 2024-11-28
 ---
 

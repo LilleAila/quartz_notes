@@ -5,7 +5,7 @@ aliases:
   - normer
   - verdier
 tags: []
-title: normer og regler
+title: Normer og regler
 date: 2024-09-09
 ---
 

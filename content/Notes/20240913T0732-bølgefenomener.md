@@ -3,7 +3,7 @@ id: 20240913T0732-bølgefenomener
 aliases:
   - bølgefenomener
 tags: []
-title: bølgefenomener
+title: Bølgefenomener
 date: 2024-09-13
 ---
 

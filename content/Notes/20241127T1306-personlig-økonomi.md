@@ -3,7 +3,7 @@ id: 20241127T1306-personlig-økonomi
 aliases:
   - personlig økonomi
 tags: []
-title: personlig økonomi
+title: Personlig økonomi
 date: 2024-11-27
 ---
 

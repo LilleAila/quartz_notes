@@ -3,7 +3,7 @@ id: 20241118T0827-karbohydrater
 aliases:
   - karbohydrater
 tags: []
-title: karbohydrater
+title: Karbohydrater
 date: 2024-11-18
 ---
 

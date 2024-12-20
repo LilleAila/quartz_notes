@@ -3,7 +3,7 @@ id: 20240916T1104-polynomdivisjon
 aliases:
   - polynomdivisjon
 tags: []
-title: polynomdivisjon
+title: Polynomdivisjon
 date: 2024-09-16
 ---
 

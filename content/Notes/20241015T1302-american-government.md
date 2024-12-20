@@ -3,7 +3,7 @@ id: 20241015T1302-american-government
 aliases:
   - american-government
 tags: []
-title: american-government
+title: American-government
 date: 2024-10-15
 ---
 

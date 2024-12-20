@@ -3,7 +3,7 @@ id: 20240830T0838-norges-urfolk
 aliases:
   - norges urfolk
 tags: []
-title: norges urfolk
+title: Norges urfolk
 date: 2024-08-30
 ---
 

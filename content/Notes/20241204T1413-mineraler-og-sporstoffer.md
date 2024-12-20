@@ -3,7 +3,7 @@ id: 20241204T1413-mineraler-og-sporstoffer
 aliases:
   - mineraler og sporstoffer
 tags: []
-title: mineraler og sporstoffer
+title: Mineraler og sporstoffer
 date: 2024-12-04
 ---
 

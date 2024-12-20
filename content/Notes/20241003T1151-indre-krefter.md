@@ -3,7 +3,7 @@ id: 20241003T1151-indre-krefter
 aliases:
   - indre krefter
 tags: []
-title: indre og ytre krefter
+title: Indre og ytre krefter
 date: 2024-10-03
 ---
 

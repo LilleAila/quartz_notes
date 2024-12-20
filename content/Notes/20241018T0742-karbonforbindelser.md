@@ -3,7 +3,7 @@ id: 20241018T0742-karbonforbindelser
 aliases:
   - karbonforbindelser
 tags: []
-title: karbonforbindelser
+title: Karbonforbindelser
 date: 2024-10-18
 ---
 

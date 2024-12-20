@@ -3,7 +3,7 @@ id: 20241209T1237-bærekraftig-utvikling
 aliases:
   - bærekraftig utvikling
 tags: []
-title: bærekraftig utvikling
+title: Bærekraftig utvikling
 date: 2024-12-09
 ---
 

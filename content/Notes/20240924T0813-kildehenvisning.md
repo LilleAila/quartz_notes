@@ -4,7 +4,7 @@ aliases:
   - kildehenvisning
   - kildeføring
 tags: []
-title: kildehenvisning
+title: Kildehenvisning
 date: 2024-09-24
 ---
 

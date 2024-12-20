@@ -3,7 +3,7 @@ id: 20241128T1148-den-dobbelderiverte
 aliases:
   - den dobbelderiverte
 tags: []
-title: den dobbelderiverte
+title: Den dobbelderiverte
 date: 2024-11-28
 ---
 

@@ -3,7 +3,7 @@ id: 20241030T0827-deriverbarhet
 aliases:
   - deriverbarhet
 tags: []
-title: deriverbarhet
+title: Deriverbarhet
 date: 2024-10-30
 ---
 

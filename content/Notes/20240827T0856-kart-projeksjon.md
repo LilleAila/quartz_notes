@@ -3,7 +3,7 @@ id: 20240827T0856-kart-projeksjon
 aliases:
   - kart projeksjon
 tags: []
-title: kart projeksjon
+title: Kart projeksjon
 date: 2024-08-27
 ---
 

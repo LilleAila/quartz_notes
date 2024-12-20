@@ -3,7 +3,7 @@ id: 20241004T0813-nynorsk-eiendomsord
 aliases:
   - nynorsk-eiendomsord
 tags: []
-title: nynorsk-eiendomsord
+title: Nynorsk-eiendomsord
 date: 2024-10-04
 ---
 

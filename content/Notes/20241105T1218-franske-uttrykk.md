@@ -3,7 +3,7 @@ id: 20241105T1218-franske-uttrykk
 aliases:
   - franske uttrykk
 tags: []
-title: franske uttrykk
+title: Franske uttrykk
 date: 2024-11-05
 ---
 

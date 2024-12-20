@@ -3,7 +3,7 @@ id: 20240925T0849-kjemisk-reaksjon
 aliases:
   - kjemisk reaksjon
 tags: []
-title: kjemisk reaksjon
+title: Kjemisk reaksjon
 date: 2024-09-25
 ---
 

@@ -3,7 +3,7 @@ id: 20241118T0940-movie-analysis
 aliases:
   - movie analysis
 tags: []
-title: movie analysis
+title: Movie analysis
 date: 2024-11-18
 ---
 

@@ -3,7 +3,7 @@ id: 20240917T0607-literary-devices
 aliases:
   - literary-devices
 tags: []
-title: literary-devices
+title: Literary-devices
 date: 2024-09-17
 ---
 

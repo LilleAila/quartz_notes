@@ -3,7 +3,7 @@ id: 20241209T1004-mennesket-som-ytre-kraft
 aliases:
   - mennesket som ytre kraft
 tags: []
-title: mennesket som ytre kraft
+title: Mennesket som ytre kraft
 date: 2024-12-09
 ---
 

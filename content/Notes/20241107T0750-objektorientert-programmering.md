@@ -4,7 +4,7 @@ aliases:
   - objektorientert programmering
   - oop
 tags: []
-title: objektorientert programmering
+title: Objektorientert programmering
 date: 2024-11-07
 ---
 
