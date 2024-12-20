@@ -4,6 +4,8 @@ aliases:
   - sammensatte funksjoner
   - komposisjon
 tags: []
+title: sammensatte funksjoner
+date: 2024-11-04
 ---
 
 #matte [[20240616T1007-matte|matte]]

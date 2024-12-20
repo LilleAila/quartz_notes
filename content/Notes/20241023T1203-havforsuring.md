@@ -3,6 +3,8 @@ id: 20241023T1203-havforsuring
 aliases:
   - havforsuring
 tags: []
+title: havforsuring
+date: 2024-10-23
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240920T0723-kjemi|kjemi]]

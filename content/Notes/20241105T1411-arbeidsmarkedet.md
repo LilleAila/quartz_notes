@@ -3,6 +3,8 @@ id: 20241105T1411-arbeidsmarkedet
 aliases:
   - arbeidsmarkedet
 tags: []
+title: arbeidsmarkedet
+date: 2024-11-05
 ---
 
 #samfunnskunnskap [[20241105T1405-økonomi|økonomi]]

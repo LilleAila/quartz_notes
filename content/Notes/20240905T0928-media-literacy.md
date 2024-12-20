@@ -3,9 +3,11 @@ id: 20240905T0928-media-literacy
 aliases:
   - media literacy
 tags: []
+title: media literacy
+date: 2024-09-05
 ---
 
-Tags: [[20240901T0811-engelsk]] #engelsk
+[[20240901T0811-engelsk]] #engelsk
 Related topics: [[20240829T1102-the-medias-role-in-a-democracy|the media's role in a democracy]], [[20240905T0858-investigative-journalism|investigative journalism]]
 
 # media literacy

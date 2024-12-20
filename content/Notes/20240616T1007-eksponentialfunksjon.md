@@ -3,11 +3,13 @@ id: 20240616T1007-eksponentialfunksjon
 aliases:
   - eksponentialfunksjon
 tags: []
+title: Eksponentialfunksjoner
+date: 2024-06-16
 ---
 
-Tags: #matte
+#matte
 
-## Eksponentialfunksjoner
+# Eksponentialfunksjoner
 
 En eksponentialfunksjon kan skrives på formen
 
@@ -34,4 +36,3 @@ grid: true
 ---
 f(x)=2*1.2^x
 ```
-

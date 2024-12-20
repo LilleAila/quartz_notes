@@ -3,9 +3,11 @@ id: 20240616T1007-fullstendig-kvadrat
 aliases:
   - fullstendig kvadrat
 tags: []
+title: Fullstendig kvadrat
+date: 2024-06-16
 ---
 
-Tags: #matte [[20240616T1007-andregradsligning]]
+#matte [[20240616T1007-andregradsligning]]
 
 # Fullstendig kvadrat
 
@@ -26,4 +28,3 @@ $$
 $$
 
 Her bruker jeg [[20240616T1007-produktregelen]] i det siste steget for å finne løsningen.
-

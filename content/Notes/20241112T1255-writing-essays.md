@@ -3,6 +3,8 @@ id: 20241112T1255-writing-essays
 aliases:
   - writing essays
 tags: []
+title: writing essays
+date: 2024-11-12
 ---
 
 #engelsk [[20240926T0900-academic-writing|academic writing]] [[20241113T1246-fagartikkel|fagartikkel]]

@@ -3,6 +3,8 @@ id: 20241024T1222-multietnolekt
 aliases:
   - multietnolekt
 tags: []
+title: multietnolekt
+date: 2024-10-24
 ---
 
 #norsk [[20240901T0808-norsk|norsk]]

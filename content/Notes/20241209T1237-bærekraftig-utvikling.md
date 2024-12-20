@@ -3,6 +3,8 @@ id: 20241209T1237-bærekraftig-utvikling
 aliases:
   - bærekraftig utvikling
 tags: []
+title: bærekraftig utvikling
+date: 2024-12-09
 ---
 
 #samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20240905T1311-bærekraft|bærekraft]]

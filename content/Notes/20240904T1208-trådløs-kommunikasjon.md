@@ -3,6 +3,8 @@ id: 20240904T1208-trådløs-kommunikasjon
 aliases:
   - trådløs kommunikasjon
 tags: []
+title: trådløs kommunikasjon
+date: 2024-09-04
 ---
 
 # trådløs kommunikasjon

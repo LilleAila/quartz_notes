@@ -4,6 +4,8 @@ aliases:
   - fransk nektelse
   - nektelse
 tags: []
+title: Nektelse
+date: 2024-09-23
 ---
 
 #fransk [[20241105T1016-fransk-grammatikk|fransk grammatikk]]

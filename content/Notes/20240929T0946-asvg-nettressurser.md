@@ -3,6 +3,8 @@ id: 20240929T0946-asvg-nettressurser
 aliases:
   - asvg-nettressurser
 tags: []
+title: asvg-nettressurser
+date: 2024-09-29
 ---
 
 #skole [[20240616T1007-skole|skole]] [[20240909T0727-amalie-skram-vgs|amalie skram]]

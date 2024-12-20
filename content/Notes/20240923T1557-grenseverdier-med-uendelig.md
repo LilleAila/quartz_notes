@@ -3,11 +3,13 @@ id: 20240923T1557-grenseverdier-med-uendelig
 aliases:
   - grenseverdier med uendelig
 tags: []
+title: Grenseverdier med uendelig
+date: 2024-09-23
 ---
 
 #matte [[20240616T1007-matte|matte]] [[20240916T0853-grenseverdi|grenseverdi]]
 
-## Grenseverdier med uendelig
+# Grenseverdier med uendelig
 
 $$
 f \left( x \right) = \frac{1}{x}

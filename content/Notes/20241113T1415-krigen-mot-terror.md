@@ -3,6 +3,8 @@ id: 20241113T1415-krigen-mot-terror
 aliases:
   - krigen mot terror
 tags: []
+title: Krigen mot terror
+date: 2024-11-13
 ---
 
 #norsk [[20240901T0808-norsk|norsk]] [[20241016T1142-tante-ulrikkes-vei|T.U.V]]

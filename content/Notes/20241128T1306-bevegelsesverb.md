@@ -3,6 +3,8 @@ id: 20241128T1306-bevegelsesverb
 aliases:
   - bevegelsesverb
 tags: []
+title: bevegelsesverb
+date: 2024-11-28
 ---
 
 #fransk [[20241105T1016-fransk-grammatikk|fransk grammatikk]]

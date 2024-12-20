@@ -3,6 +3,8 @@ id: 20241028T1009-definisjonen-av-den-deriverte
 aliases:
   - definisjonen av den deriverte
 tags: []
+title: definisjonen av den deriverte
+date: 2024-10-28
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]]

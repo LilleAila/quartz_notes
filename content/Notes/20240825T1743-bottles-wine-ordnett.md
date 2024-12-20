@@ -3,6 +3,8 @@ id: 20240825T1743-bottles-wine-ordnett
 aliases:
   - bottles wine ordnett
 tags: []
+title: Bottles wine ordnett
+date: 2024-08-25
 ---
 
 #linux [[20240901T0613-linux|linux]]

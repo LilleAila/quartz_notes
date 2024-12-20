@@ -3,6 +3,8 @@ id: 20241003T1151-indre-krefter
 aliases:
   - indre krefter
 tags: []
+title: indre og ytre krefter
+date: 2024-10-03
 ---
 
 #geografi [[20240901T0809-geografi|geografi]]
@@ -47,4 +49,3 @@ Jordskorpen finnes i to typer: havbunnsskorpe og kontinentalskorpe.
 Havbunnsskorpe blir dannet av tektoniske plater som går fra hverandre, og er nedkjølt magma. Jordskorpen pluss den øvre delen av mantelen utgjør litosfæren. Litosfæreplater kan "gli" på astenosfæren, som fører til jordskjelv, vulkaner, fjellkjeder etc. De fleste havbunnsskorpene er 5-10 km tykke.
 
 ![20241003T1230-jordens-oppbygging-2.png](Assets/20241003T1230-jordens-oppbygging-2.png)
-

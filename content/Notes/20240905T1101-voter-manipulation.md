@@ -3,8 +3,12 @@ id: 20240905T1101-voter-manipulation
 aliases:
   - voter manipulation
 tags: []
+title: "Facebook's role in Brexit -- and the threat to democracy"
+date: 2024-09-05
 ---
+
 #engelsk [[20240901T0811-engelsk]] [[20240905T0858-investigative-journalism|investigative journalism]]
+
 # "Facebook's role in Brexit -- and the threat to democracy"
 
 62% of people there voted to leave EU (Ebbw Vale)

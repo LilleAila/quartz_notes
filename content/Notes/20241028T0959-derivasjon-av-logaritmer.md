@@ -3,6 +3,8 @@ id: 20241028T0959-derivasjon-av-logaritmer
 aliases:
   - derivasjon av logaritmer
 tags: []
+title: derivasjon av logaritmer
+date: 2024-10-28
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]] [[20240821T0931-logaritmer|logaritmer]]

@@ -3,6 +3,8 @@ id: 20241113T1416-zeshan-shakar
 aliases:
   - Zeshan Shakar
 tags: []
+title: Zeshan Shakar
+date: 2024-11-13
 ---
 
 #norsk [[20241016T1142-tante-ulrikkes-vei|tante ulrikkes vei]]

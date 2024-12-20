@@ -3,6 +3,8 @@ id: 20240916T0636-reading-literature
 aliases:
   - reading literature
 tags: []
+title: reading literature
+date: 2024-09-16
 ---
 
 # reading literature

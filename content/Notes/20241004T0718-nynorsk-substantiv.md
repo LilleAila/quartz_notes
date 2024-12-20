@@ -3,6 +3,8 @@ id: 20241004T0718-nynorsk-substantiv
 aliases:
   - nynorsk-substantiv
 tags: []
+title: nynorsk-substantiv
+date: 2024-10-04
 ---
 
 #nynorsk [[20240906T1117-nynorsk|nynorsk]]

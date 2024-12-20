@@ -3,6 +3,8 @@ id: 20241118T1121-black-lives-matter
 aliases:
   - black lives matter
 tags: []
+title: black lives matter
+date: 2024-11-18
 ---
 
 #engelsk [[20240901T0811-engelsk|engelsk]]

@@ -3,6 +3,8 @@ id: 20241111T0717-arbeidslivet
 aliases:
   - arbeidslivet
 tags: []
+title: arbeidslivet
+date: 2024-11-11
 ---
 
 #samfunnskunnskap [[20241105T1405-økonomi|økonomi]] [[20241105T1411-arbeidsmarkedet|arbeidsmarkedet]]

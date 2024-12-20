@@ -3,6 +3,8 @@ id: 20240909T1022-delt-forskrift
 aliases:
   - delt forskrift
 tags: []
+title: Funksjoner med delt forskrift
+date: 2024-09-09
 ---
 
 #matte [[20240616T1007-matte|matte]] [[20240616T1007-funksjon|funksjon]]

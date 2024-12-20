@@ -3,6 +3,8 @@ id: 20241105T1016-fransk-grammatikk
 aliases:
   - fransk grammatikk
 tags: []
+title: fransk grammatikk
+date: 2024-11-05
 ---
 
 #fransk [[20240616T1007-fransk|fransk]] #MOC

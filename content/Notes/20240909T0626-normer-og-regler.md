@@ -5,6 +5,8 @@ aliases:
   - normer
   - verdier
 tags: []
+title: normer og regler
+date: 2024-09-09
 ---
 
 #samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20240819T0846-samfunn|samfunn]]

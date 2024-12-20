@@ -3,6 +3,8 @@ id: 20241115T0839-næringsstoffer
 aliases:
   - næringsstoffer
 tags: []
+title: næringsstoffer
+date: 2024-11-15
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]]
@@ -105,6 +107,7 @@ Enumettet fett:
 - Nøtter
 
 Karbohydrater:
+
 - Brød: Stivelse (polysakkarid), Kostfiber (polysakkarid)
 - Yoghurt: Laktose (disakkarid)
 - Frokostblanding: Stivelse (polysakkarid), Kostfiber (polysakkarid)

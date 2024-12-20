@@ -3,6 +3,8 @@ id: 20241128T1012-kritiske-punkt
 aliases:
   - kritiske punkt
 tags: []
+title: kritiske punkt
+date: 2024-11-28
 ---
 
 #matte [[20240616T1007-matte|matte]] [[20240616T1007-derivasjon|derivasjon]]

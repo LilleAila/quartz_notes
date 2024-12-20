@@ -3,6 +3,8 @@ id: 20240913T0732-bølgefenomener
 aliases:
   - bølgefenomener
 tags: []
+title: bølgefenomener
+date: 2024-09-13
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240828T0840-bølger|bølger]]

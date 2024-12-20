@@ -3,8 +3,12 @@ id: 20241001T1142-domstolen-i-norge
 aliases:
   - domstolen i norge
 tags: []
+title: domstolen i norge
+date: 2024-10-01
 ---
+
 #samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20240923T0618-kriminalitet|kriminalitet]]
+
 # domstolen i norge
 
 Den norske domstolen består av tre nivåer:

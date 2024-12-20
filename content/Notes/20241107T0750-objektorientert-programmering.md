@@ -4,6 +4,8 @@ aliases:
   - objektorientert programmering
   - oop
 tags: []
+title: objektorientert programmering
+date: 2024-11-07
 ---
 
 #it2 [[20240912T0621-it2|it2]]

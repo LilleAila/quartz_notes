@@ -3,6 +3,8 @@ id: 20241105T0923-miljøskildring
 aliases:
   - miljøskildring
 tags: []
+title: miljøskildring
+date: 2024-11-05
 ---
 
 #norsk [[20240901T0808-norsk|norsk]]

@@ -3,6 +3,8 @@ id: 20241112T0932-landskapstyper
 aliases:
   - landskapstyper
 tags: []
+title: landskapstyper
+date: 2024-11-12
 ---
 
 #geografi [[20241108T0938-ytre-krefter|ytre krefter]]

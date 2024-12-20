@@ -3,6 +3,8 @@ id: 20241125T0718-skred-som-ytre-kraft
 aliases:
   - skred som ytre kraft
 tags: []
+title: skred som ytre kraft
+date: 2024-11-25
 ---
 
 #geografi [[20240901T0809-geografi|geografi]] [[20241108T0938-ytre-krefter|ytre krefter]]

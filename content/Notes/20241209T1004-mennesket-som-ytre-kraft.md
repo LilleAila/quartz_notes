@@ -3,9 +3,12 @@ id: 20241209T1004-mennesket-som-ytre-kraft
 aliases:
   - mennesket som ytre kraft
 tags: []
+title: mennesket som ytre kraft
+date: 2024-12-09
 ---
 
 #geografi [[20240901T0809-geografi|geografi]] [[20241108T0938-ytre-krefter|ytre krefter]]
+
 # mennesket som ytre kraft
 
 Graving og sprenging

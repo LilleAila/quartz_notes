@@ -3,6 +3,8 @@ id: 20241028T1011-derivasjonsregler
 aliases:
   - derivasjonsregler
 tags: []
+title: derivasjonsregler
+date: 2024-10-28
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]] [[20241028T1009-definisjonen-av-den-deriverte|definisjonen av den deriverte]]

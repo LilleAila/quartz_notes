@@ -3,6 +3,8 @@ id: 20240925T0903-kjemiske-bindinger
 aliases:
   - kjemiske bindinger
 tags: []
+title: kjemiske-bindinger
+date: 2024-09-25
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240920T0642-atom|atom]] [[20240925T0849-kjemisk-reaksjon|kjemisk reaksjon]]

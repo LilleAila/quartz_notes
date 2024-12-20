@@ -3,9 +3,14 @@ id: 20240616T1007-andregradsligning
 aliases:
   - andregradslikning
 tags: []
+title: Andregradslikninger
+date: 2024-06-16
 ---
 
-Tags: #matte [[20240616T1007-matte]] [[20240616T1007-ligning]] [[20240616T1007-andregradsfunksjon]]
+#matte [[20240616T1007-matte]] [[20240616T1007-ligning]] [[20240616T1007-andregradsfunksjon]]
+
+# Andregradslikninger
+
 Ligninger på formen
 
 $$

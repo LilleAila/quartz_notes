@@ -3,6 +3,8 @@ id: 20241128T0844-ikke-energigivende-næringsstoffer
 aliases:
   - ikke-energigivende næringsstoffer
 tags: []
+title: ikke-energigivende næringsstoffer
+date: 2024-11-28
 ---
 
 #naturfag [[20241115T0839-næringsstoffer|næringsstoffer]]

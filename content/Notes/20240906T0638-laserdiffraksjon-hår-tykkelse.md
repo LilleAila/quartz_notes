@@ -3,6 +3,8 @@ id: 20240906T0638-laserdiffraksjon-hår-tykkelse
 aliases:
   - hårbredde forsøk
 tags: []
+title: hårbredde forsøk
+date: 2024-09-06
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240906T0640-forsøk|forsøk]] [[20240828T0840-bølger|bølger]]

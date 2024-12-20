@@ -3,9 +3,11 @@ id: 20240616T1007-innsettingsmetoden
 aliases:
   - innsettingsmetoden
 tags: []
+title: Innsettingsmetoden
+date: 2024-06-16
 ---
 
-Tags: #matte [[20240616T1007-ligning]] [[20240616T1007-ligningssett]]
+#matte [[20240616T1007-ligning]] [[20240616T1007-ligningssett]]
 
 # Innsettingsmetoden
 
@@ -74,4 +76,3 @@ $$
 & \underline{\underline{x = 3 \land y = -4 \lor x = -1 \land y = 4}} &
 \end{align}
 $$
-

@@ -3,6 +3,8 @@ id: 20241018T0742-karbonforbindelser
 aliases:
   - karbonforbindelser
 tags: []
+title: karbonforbindelser
+date: 2024-10-18
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240920T0723-kjemi|kjemi]]

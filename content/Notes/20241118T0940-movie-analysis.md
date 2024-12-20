@@ -3,6 +3,8 @@ id: 20241118T0940-movie-analysis
 aliases:
   - movie analysis
 tags: []
+title: movie analysis
+date: 2024-11-18
 ---
 
 #engelsk [[20241112T1402-the-hate-u-give-movie|analysis of the hate u give movie]]

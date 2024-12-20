@@ -3,9 +3,11 @@ id: 20240616T1007-andregradsfunksjon
 aliases:
   - andregradsfunksjon
 tags: []
+title: Andregradsfunksjon
+date: 2024-06-16
 ---
 
-Tags: #matte [[20240616T1007-matte]] [[20240616T1007-funksjon]]
+#matte [[20240616T1007-matte]] [[20240616T1007-funksjon]]
 
 # Andregradsfunksjoner
 

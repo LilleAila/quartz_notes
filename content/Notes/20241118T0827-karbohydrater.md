@@ -3,6 +3,8 @@ id: 20241118T0827-karbohydrater
 aliases:
   - karbohydrater
 tags: []
+title: karbohydrater
+date: 2024-11-18
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]]

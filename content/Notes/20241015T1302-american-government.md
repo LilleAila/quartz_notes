@@ -3,6 +3,8 @@ id: 20241015T1302-american-government
 aliases:
   - american-government
 tags: []
+title: american-government
+date: 2024-10-15
 ---
 
 #engelsk [[20240901T0811-engelsk|engelsk]] [[20241003T0844-usa-and-canada|usa and canada]]

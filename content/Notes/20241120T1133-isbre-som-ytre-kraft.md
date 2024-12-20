@@ -3,6 +3,8 @@ id: 20241120T1133-isbre-som-ytre-kraft
 aliases:
   - isbre som ytre kraft
 tags: []
+title: isbre som ytre kraft
+date: 2024-11-20
 ---
 
 #geografi [[20241108T0938-ytre-krefter|ytre krefter]]

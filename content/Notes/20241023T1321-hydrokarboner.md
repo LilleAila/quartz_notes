@@ -3,6 +3,8 @@ id: 20241023T1321-hydrokarboner
 aliases:
   - hydrokarboner
 tags: []
+title: hydrokarboner
+date: 2024-10-23
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240920T0723-kjemi|kjemi]] [[20241018T0742-karbonforbindelser|karbonforbindelser]]

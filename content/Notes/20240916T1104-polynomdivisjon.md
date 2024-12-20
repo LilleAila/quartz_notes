@@ -3,8 +3,12 @@ id: 20240916T1104-polynomdivisjon
 aliases:
   - polynomdivisjon
 tags: []
+title: polynomdivisjon
+date: 2024-09-16
 ---
-[[20240616T1007-andregradsligning|andregradslikning]] [[20240616T1007-matte|matte]] [[20240616T1007-ligninger|ligning]] #matte 
+
+[[20240616T1007-andregradsligning|andregradslikning]] [[20240616T1007-matte|matte]] [[20240616T1007-ligninger|ligning]] #matte
+
 # polynomdivisjon
 
 - [ ] TODO skrive om polynomdivisjon

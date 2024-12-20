@@ -3,11 +3,13 @@ id: 20240616T1007-potensfunksjon
 aliases:
   - potensfunksjon
 tags: []
+title: Potensfunksjoner
+date: 2024-06-16
 ---
 
-Tags: #matte
+#matte
 
-## Potensfunksjoner
+# Potensfunksjoner
 
 En potensfunksjon kan skrives på formen
 
@@ -40,4 +42,3 @@ En rot er et tilfelle av en potensfunksjon der uttrykket inneholder et rottegn:
 $$
 g(x) = \sqrt{ x } = x^{1/2}
 $$
-

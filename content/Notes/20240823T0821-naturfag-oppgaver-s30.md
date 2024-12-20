@@ -3,9 +3,11 @@ id: 20240823T0821-naturfag-oppgaver-s30
 aliases:
   - naturfag oppgaver s30
 tags: []
+title: Oppgaver naturfag s. 30
+date: 2024-08-23
 ---
 
-tags: #naturfag [[20240828T0840-naturfag|naturfag]]
+#naturfag [[20240828T0840-naturfag|naturfag]]
 
 # Oppgaver naturfag s. 30
 
@@ -176,4 +178,3 @@ En kulepinnemodell i kjemi kan være bra til å se hvilke ulike grunnstoffer et 
 
 Let's learn everything - "Superseded theories"
 [Lamarckismen - SNL](https://snl.no/lamarckismen)
-

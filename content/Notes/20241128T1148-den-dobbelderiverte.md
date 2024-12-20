@@ -3,6 +3,8 @@ id: 20241128T1148-den-dobbelderiverte
 aliases:
   - den dobbelderiverte
 tags: []
+title: den dobbelderiverte
+date: 2024-11-28
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]]

@@ -3,9 +3,11 @@ id: 20240905T0858-investigative-journalism
 aliases:
   - investigative journalism
 tags: []
+title: investigative journalism
+date: 2024-09-05
 ---
 
-Tags: [[20240901T0811-engelsk]] #engelsk
+[[20240901T0811-engelsk]] #engelsk
 Related topics: [[20240829T1102-the-medias-role-in-a-democracy|the media's role in a democracy]]
 
 # investigative journalism

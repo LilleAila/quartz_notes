@@ -3,9 +3,13 @@ id: 20240616T1007-uregelrette-verb
 aliases:
   - uregelrette verb
 tags: []
+title: Franske uregelrette verb
+date: 2024-06-16
 ---
 
-Tags: #fransk [[20240616T1007-franske-verb]]
+# Franske uregelrette verb
+
+#fransk [[20240616T1007-franske-verb]]
 De mest brukte uregelrette verbene er
 
 - Aller

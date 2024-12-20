@@ -3,11 +3,13 @@ id: 20240616T1007-rasjonal-funksjon
 aliases:
   - rasjonal funksjon
 tags: []
+title: Rasjonale funksjoner
+date: 2024-06-16
 ---
 
-Tags: #matte
+#matte
 
-## Rasjonale funksjoner
+# Rasjonale funksjoner
 
 En rasjonal funksjon kan skrives som
 
@@ -68,4 +70,3 @@ y &= \lim_{ x \to \infty } \frac{ax+b}{cx+d} \\
 &= \underline{\underline{\frac{a}{c}}}
 \end{align}
 $$
-

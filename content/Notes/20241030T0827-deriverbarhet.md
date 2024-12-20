@@ -3,6 +3,8 @@ id: 20241030T0827-deriverbarhet
 aliases:
   - deriverbarhet
 tags: []
+title: deriverbarhet
+date: 2024-10-30
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]] [[20240925T0628-kontinuitet|kontinuitet]]

@@ -3,6 +3,8 @@ id: 20241003T0844-usa-and-canada
 aliases:
   - usa and canada
 tags: []
+title: usa and canada
+date: 2024-10-03
 ---
 
 #engelsk [[20240901T0811-engelsk|engelsk]]

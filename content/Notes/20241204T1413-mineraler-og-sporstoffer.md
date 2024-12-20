@@ -3,6 +3,8 @@ id: 20241204T1413-mineraler-og-sporstoffer
 aliases:
   - mineraler og sporstoffer
 tags: []
+title: mineraler og sporstoffer
+date: 2024-12-04
 ---
 
 #naturfag [[20241128T0844-ikke-energigivende-næringsstoffer|ikke-energigivende næringsstoffer]]

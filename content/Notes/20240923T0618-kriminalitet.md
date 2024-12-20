@@ -3,6 +3,8 @@ id: 20240923T0618-kriminalitet
 aliases:
   - kriminalitet
 tags: []
+title: Kriminalitet
+date: 2024-09-23
 ---
 
 #samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]]

@@ -4,6 +4,8 @@ aliases:
   - absoluttverdi
   - absoluttverdifunksjon
 tags: []
+title: absoluttverdi
+date: 2024-09-09
 ---
 
 #matte [[20240616T1007-matte|matte]] [[20240616T1007-funksjon|funksjon]]

@@ -3,6 +3,8 @@ id: 20240917T0607-literary-devices
 aliases:
   - literary-devices
 tags: []
+title: literary-devices
+date: 2024-09-17
 ---
 
 [[20240916T0636-reading-literature|reading literature]] #engelsk [[20240901T0811-engelsk|engelsk]]

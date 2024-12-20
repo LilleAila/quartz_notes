@@ -3,9 +3,11 @@ id: 20240616T1007-terrassepunkt
 aliases:
   - terrassepunkt
 tags: []
+title: Terrassepunkt
+date: 2024-06-16
 ---
 
-Tags: #matte
+#matte
 
 # Terrassepunkt
 
@@ -24,4 +26,3 @@ f(x)=x^3 + 2
 ```
 
 , har den et terrassepunkt på $(0, 2)$. Dette er ikke et [[20240616T1007-ekstremalpunkt]] fordi funksjonsverdien, eller [[20240616T1007-derivasjon|den deriverte]] ikke snur retning, men den fortsetter oppover.
-

@@ -3,6 +3,8 @@ id: 20240923T1557-ensidige-grenseverdier
 aliases:
   - ensidige grenseverdier
 tags: []
+title: Ensidige grenseverdier
+date: 2024-09-23
 ---
 
 #matte [[20240616T1007-matte|matte]] [[20240916T0853-grenseverdi|grenseverdi]]

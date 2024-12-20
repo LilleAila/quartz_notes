@@ -3,6 +3,8 @@ id: 20241107T1245-personskildring
 aliases:
   - personskildring
 tags: []
+title: personskildring
+date: 2024-11-07
 ---
 
 #norsk [[20240901T0808-norsk|norsk]]

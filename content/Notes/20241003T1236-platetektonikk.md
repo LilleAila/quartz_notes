@@ -3,6 +3,8 @@ id: 20241003T1236-platetektonikk
 aliases:
   - platetektonikk
 tags: []
+title: platetektonikk
+date: 2024-10-03
 ---
 
 #geografi [[20241003T1151-indre-krefter|indre krefter]] [[20240901T0809-geografi|geografi]]

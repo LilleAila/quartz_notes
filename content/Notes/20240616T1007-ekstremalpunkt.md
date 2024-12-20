@@ -3,9 +3,11 @@ id: 20240616T1007-ekstremalpunkt
 aliases:
   - ekstremalpunkt
 tags: []
+title: Ekstremalpunkt
+date: 2024-06-16
 ---
 
-Tags: #matte
+#matte
 
 # Ekstremalpunkt
 

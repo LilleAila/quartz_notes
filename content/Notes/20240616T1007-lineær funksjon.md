@@ -3,11 +3,13 @@ id: 20240616T1007-lineær-funksjon
 aliases:
   - lineær funksjon
 tags: []
+title: Lineære funksjoner
+date: 2024-06-16
 ---
 
-Tags: #matte
+#matte
 
-## Lineære funksjoner
+# Lineære funksjoner
 
 Lineære funksjoner er en vanlig type funksjon. Den er en rett linje, og er på formen
 
@@ -34,4 +36,3 @@ grid: true
 ---
 f(x)=2x+4
 ```
-

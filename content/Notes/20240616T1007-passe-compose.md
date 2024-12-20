@@ -3,9 +3,11 @@ id: 20240616T1007-passe-compose
 aliases:
   - passé composé
 tags: []
+title: Passé Composé
+date: 2024-06-16
 ---
 
-Tags: #fransk [[20240616T1007-franske-verb]]
+#fransk [[20240616T1007-franske-verb]]
 
 # Passé Composé
 

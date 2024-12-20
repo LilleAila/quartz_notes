@@ -3,6 +3,8 @@ id: 20241004T0818-nynorsk-spørjeord
 aliases:
   - nynorsk-spørjeord
 tags: []
+title: nynorsk-spørjeord
+date: 2024-10-04
 ---
 
 #nynorsk [[20240906T1117-nynorsk|nynorsk]]

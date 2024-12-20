@@ -3,6 +3,8 @@ id: 20241111T0834-velferdsstaten
 aliases:
   - velferdsstaten
 tags: []
+title: velferdsstaten
+date: 2024-11-11
 ---
 
 #samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20241105T1405-økonomi|økonomi]] [[20241111T0717-arbeidslivet|arbeidslivet]]

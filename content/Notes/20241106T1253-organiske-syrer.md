@@ -3,6 +3,8 @@ id: 20241106T1253-organiske-syrer
 aliases:
   - organiske syrer
 tags: []
+title: organiske syrer
+date: 2024-11-06
 ---
 
 #naturfag [[20241018T0742-karbonforbindelser|karbonforbindelser]]
@@ -21,9 +23,11 @@ Maursyre brukes mye i landbruk, for eksempel til dyrefôr av gress.
 Fortynnet eddiksyre i matlaging og som konserveringsmiddel
 
 Følger strukturen til [[[20241023T1321-hydrokarboner|hydrokarboner]], men siste $CH_{3}$-gruppe er erstattet med en $COOH$-gruppe. Dermed blir formelen for de vanligste organiske syrene nesten det samme som for alkaner:
+
 $$
 C_{n-1}H_{2n-1}COOH
 $$
+
 Propansyre: $C_{2}H_{5}COOH$
 
 Organiske syrer er også kalt karboksylsyrer

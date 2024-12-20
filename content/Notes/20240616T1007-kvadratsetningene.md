@@ -3,9 +3,13 @@ id: 20240616T1007-kvadratsetningene
 aliases:
   - kvadratsetningene
 tags: []
+title: Kvadratsetningene
+date: 2024-06-16
 ---
 
-Tags: #matte [[20240616T1007-matte]] [[20240616T1007-faktorisering]] [[20240616T1007-fullstendig-kvadrat]]
+#matte [[20240616T1007-matte]] [[20240616T1007-faktorisering]] [[20240616T1007-fullstendig-kvadrat]]
+
+# Kvadratsetningene
 
 Første kvadratsetning:
 

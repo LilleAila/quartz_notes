@@ -3,9 +3,11 @@ id: 20240616T1007-fortegnslinje
 aliases:
   - fortegnslinje
 tags: []
+title: Fortegnslinje
+date: 2024-06-16
 ---
 
-Tags: #matte [[20240616T1007-ulikhet|ulikhet]] [[20240616T1007-faktorisering|faktorisering]]
+#matte [[20240616T1007-ulikhet|ulikhet]] [[20240616T1007-faktorisering|faktorisering]]
 
 # Fortegnslinje
 

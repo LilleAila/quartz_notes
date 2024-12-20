@@ -3,6 +3,8 @@ id: 20240616T1007-momentan-vekstfart
 aliases:
   - momentan vekstfart
 tags: []
+title: Momentan vekstfart
+date: 2024-06-16
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]] [[20240616T1007-tangent|tangent]]

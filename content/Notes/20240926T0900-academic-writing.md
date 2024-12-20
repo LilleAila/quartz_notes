@@ -3,6 +3,8 @@ id: 20240926T0900-academic-writing
 aliases:
   - academic writing
 tags: []
+title: academic writing
+date: 2024-09-26
 ---
 
 [[20240901T0811-engelsk|english]] #engelsk

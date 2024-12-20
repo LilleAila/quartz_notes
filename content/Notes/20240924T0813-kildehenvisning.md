@@ -4,6 +4,8 @@ aliases:
   - kildehenvisning
   - kildeføring
 tags: []
+title: kildehenvisning
+date: 2024-09-24
 ---
 
 #skole [[20240616T1007-skole|skole]]

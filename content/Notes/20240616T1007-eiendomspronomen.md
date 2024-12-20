@@ -3,9 +3,13 @@ id: 20240616T1007-eiendomspronomen
 aliases:
   - eiendomspronomen
 tags: []
+title: Franske eiendomspronomen
+date: 2024-06-16
 ---
 
-Tags: #fransk [[20241105T1016-fransk-grammatikk|fransk grammatikk]]
+#fransk [[20241105T1016-fransk-grammatikk|fransk grammatikk]]
+
+# Eiendomspronomen
 
 "Les pronoms possessifs"
 

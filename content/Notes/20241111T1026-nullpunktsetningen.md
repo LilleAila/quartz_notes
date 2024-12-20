@@ -3,6 +3,8 @@ id: 20241111T1026-nullpunktsetningen
 aliases:
   - nullpunktsetningen
 tags: []
+title: Nullpunktsetningen
+date: 2024-11-11
 ---
 
 #matte [[20240616T1007-andregradsligning|andregradsligning]] [[20240616T1007-ligning|ligning]]
