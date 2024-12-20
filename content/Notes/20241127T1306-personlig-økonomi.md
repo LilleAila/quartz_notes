@@ -3,11 +3,11 @@ id: 20241127T1306-personlig-økonomi
 aliases:
   - personlig økonomi
 tags: []
+date: "2024-11-27"
 title: Personlig økonomi
-date: 2024-11-27
 ---
 
-#safunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20241105T1405-økonomi|økonomi]]
+#samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20241105T1405-økonomi|økonomi]]
 
 # personlig økonomi
 
