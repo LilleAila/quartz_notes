@@ -2,6 +2,8 @@
 id: 20241216T1226-it2-refleksjonsoppgaver
 aliases: []
 tags: []
+date: "2024-12-16"
+title: Notater
 ---
 
 # Mine notater fra skolen
