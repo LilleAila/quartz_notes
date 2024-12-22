@@ -8,7 +8,13 @@ title: Notater
 
 # Mine notater fra skolen
 
-- [[20240616T1007-skole|skole]]
+Alle skolerelaterte notater ligget her: [[20240616T1007-skole|skole]]
+
+Notatene er organisert ved hjelp av lenker mellom dem. På bunnen av alle sider kan du se relevante notater. Man kan også søke etter notater ved både navn og innhold.
+
+Det er ingen garanti for at alt som er skrevet er korrekt, og det kan være manglende informasjon, bilder eller tegninger i noen av notatene.
+
+## Bilder
 
 Disse notatene inneholder bilder og annet innhold som kan være beskyttet av opphavsrett. Alt slikt materiale er inkludert kun for læringsformål og personlig bruk.
 
