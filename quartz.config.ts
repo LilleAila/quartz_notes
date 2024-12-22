@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "IBM Plex Serif",
+        header: "IBM Plex Sans",
         body: "IBM Plex Sans",
         code: "JetBrains Mono",
       },
@@ -44,7 +44,7 @@ const config: QuartzConfig = {
           gray: "#665c54",
           darkgray: "#d5c4a1",
           dark: "#ebdbb2",
-          secondary: "#d3869b",
+          secondary: "#83a598",
           tertiary: "#fabd2f",
           highlight: "#83a59888",
           textHighlight: "#83a59888",
