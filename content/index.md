@@ -8,7 +8,7 @@ title: Notater
 
 # Mine notater fra skolen
 
-Alle skolerelaterte notater ligget her: [[20240616T1007-skole|skole]]
+Alle skolerelaterte notater ligger her: [[20240616T1007-skole|skole]]
 
 Notatene er organisert ved hjelp av lenker mellom dem. På bunnen av alle sider kan du se relevante notater. Man kan også søke etter notater ved både navn og innhold.
 
