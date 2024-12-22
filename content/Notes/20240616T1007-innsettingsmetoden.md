@@ -3,15 +3,15 @@ id: 20240616T1007-innsettingsmetoden
 aliases:
   - innsettingsmetoden
 tags: []
+date: "2024-06-16"
 title: Innsettingsmetoden
-date: 2024-06-16
 ---
 
-#matte [[20240616T1007-ligning]] [[20240616T1007-ligningssett]]
+#matte [[20240616T1007-likning|likning]] [[20240616T1007-likningssett|likningssett]]
 
 # Innsettingsmetoden
 
-Insettingsmetoden brukes for å løse [[20240616T1007-ligningssett]]. Den brukes ved å skrive om en av [[20240616T1007-ligning|likningene]] slik at en av variablene skrives ved hjelp av de / den andre.
+Insettingsmetoden brukes for å løse [[20240616T1007-likningssett|likningssett]]. Den brukes ved å skrive om en av [[20240616T1007-likning|likningene]] slik at en av variablene skrives ved hjelp av de / den andre.
 
 ## Eksempel:
 
@@ -69,7 +69,7 @@ $$
 \end{align}
 $$
 
-Det er en [[20240616T1007-andregradsligning|20240616T1007-andregradsligning]] som gir svarene $x=3\lor x=-1$. $y$-verdiene kan vi finne ved $II$. Da blir svaret:
+Det er en [[20240616T1007-andregradslikning|andregradslikning]] som gir svarene $x=3\lor x=-1$. $y$-verdiene kan vi finne ved $II$. Da blir svaret:
 
 $$
 \begin{align}

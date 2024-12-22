@@ -2,9 +2,10 @@
 id: 20240819T0937-samfunnskunnskap
 aliases:
   - samfunnskunnskap
+  - samfunnsfag
 tags: []
+date: "2024-08-19"
 title: Samfunnskunnskap
-date: 2024-08-19
 ---
 
 #MOC [[20240616T1007-skole|skole]]

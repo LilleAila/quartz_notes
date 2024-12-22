@@ -3,11 +3,11 @@ id: 20240829T1102-the-medias-role-in-a-democracy
 aliases:
   - the media's role in a democracy
 tags: []
+date: "2024-08-29"
 title: The media's role in a democracy
-date: 2024-08-29
 ---
 
-#engelsk [[20240901T0811-engelsk]]
+#engelsk [[20240901T0811-engelsk|engelsk]]
 
 # the media's role in a democracy
 

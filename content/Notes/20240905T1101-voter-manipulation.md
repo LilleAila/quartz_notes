@@ -3,11 +3,11 @@ id: 20240905T1101-voter-manipulation
 aliases:
   - voter manipulation
 tags: []
-title: "Facebook's role in Brexit -- and the threat to democracy"
-date: 2024-09-05
+date: "2024-09-05"
+title: Facebook's role in Brexit -- and the threat to democracy
 ---
 
-#engelsk [[20240901T0811-engelsk]] [[20240905T0858-investigative-journalism|investigative journalism]]
+#engelsk [[20240901T0811-engelsk|engelsk]] [[20240905T0858-investigative-journalism|investigative journalism]]
 
 # "Facebook's role in Brexit -- and the threat to democracy"
 

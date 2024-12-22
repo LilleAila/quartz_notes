@@ -3,11 +3,11 @@ id: 20241111T1026-nullpunktsetningen
 aliases:
   - nullpunktsetningen
 tags: []
+date: "2024-11-11"
 title: Nullpunktsetningen
-date: 2024-11-11
 ---
 
-#matte [[20240616T1007-andregradsligning|andregradsligning]] [[20240616T1007-ligning|ligning]]
+#matte [[20240616T1007-andregradslikning|andregradslikning]] [[20240616T1007-likning|likning]]
 
 # Nullpunktsetningen
 

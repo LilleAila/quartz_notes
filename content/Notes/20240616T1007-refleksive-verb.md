@@ -4,11 +4,11 @@ aliases:
   - refleksive verb
   - refleksivt verb
 tags: []
+date: "2024-06-16"
 title: Refleksive verb
-date: 2024-06-16
 ---
 
-#fransk [[20240616T1007-franske-verb]]
+#fransk [[20240616T1007-franske-verb|franske verb]]
 
 # Refleksive verb
 

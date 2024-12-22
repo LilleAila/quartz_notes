@@ -3,15 +3,15 @@ id: 20240616T1007-fortegnslinje
 aliases:
   - fortegnslinje
 tags: []
+date: "2024-06-16"
 title: Fortegnslinje
-date: 2024-06-16
 ---
 
 #matte [[20240616T1007-ulikhet|ulikhet]] [[20240616T1007-faktorisering|faktorisering]]
 
 # Fortegnslinje
 
-Fortegnslinjer er en måte å løse [[20240616T1007-ulikhet|ulikhet]]er. Da skriver man opp alle faktorene i uttrykket på en linje, og ser hvor produktet deres blir et partall og et oddetall. I [[20240616T1007-intervall|intervall]]ene der produktet er et oddetall, vil verdien være negativ, og andre steder positiv.
+Fortegnslinjer er en måte å løse [[20240616T1007-ulikhet|ulikheter]]. Da skriver man opp alle faktorene i uttrykket på en linje, og ser hvor produktet deres blir et partall og et oddetall. I [[20240616T1007-intervall|intervallene]] der produktet er et oddetall, vil verdien være negativ, og andre steder positiv.
 
 ## Eksempel
 
@@ -68,7 +68,7 @@ Nå har jeg et uttrykk der $0$ står alene på en side, og kan tegne opp en fort
 \end{document}
 ```
 
-Nederst har jeg tegnet fortegnslinjen for produktet av de tre andre funksjonene. Sirklene markerer nullpunktene til [[20240616T1007-funksjon]]ene, og prikket linje symboliserer negativ funksjonsverdi. Ut fra om produktet til de tre øverste linjene er negativt eller positivt, finner jeg fortegnslinjen til hele uttrykket. Dette betyr at løsningen på ulikheten er:
+Nederst har jeg tegnet fortegnslinjen for produktet av de tre andre funksjonene. Sirklene markerer nullpunktene til [[20240616T1007-funksjon|funksjonene]], og prikket linje symboliserer negativ funksjonsverdi. Ut fra om produktet til de tre øverste linjene er negativt eller positivt, finner jeg fortegnslinjen til hele uttrykket. Dette betyr at løsningen på ulikheten er:
 
 $$
 \frac{x-4}{(x-3)(x+3)} \leq 0 \implies \underline{\underline{x \in \langle\leftarrow, -3\rangle \cup \langle 3, 4]}}

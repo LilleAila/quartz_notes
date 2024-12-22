@@ -3,11 +3,11 @@ id: 20240827T0856-kart-projeksjon
 aliases:
   - kart projeksjon
 tags: []
+date: "2024-08-27"
 title: Kart projeksjon
-date: 2024-08-27
 ---
 
-#geografi [[20240901T0809-geografi]]
+#geografi [[20240901T0809-geografi|geografi]]
 
 # kart projeksjon
 

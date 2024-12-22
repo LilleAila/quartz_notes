@@ -3,11 +3,11 @@ id: 20240616T1007-ekstremalpunkt
 aliases:
   - ekstremalpunkt
 tags: []
+date: "2024-06-16"
 title: Ekstremalpunkt
-date: 2024-06-16
 ---
 
-#matte
+#matte [[20240616T1007-matte|matte]] [[20240616T1007-funksjon|funksjoner]]
 
 # Ekstremalpunkt
 
@@ -43,7 +43,7 @@ grid: true
 f(x)=x^2
 ```
 
-For [[20240616T1007-funksjon]]er som "peker oppover", vil det være et bunnpunkt, og funksjoner som "peker nedover", vil ha et toppunkt, for eksempel denne:
+For [[20240616T1007-funksjon|funksjoner]] som "peker oppover", vil det være et bunnpunkt, og funksjoner som "peker nedover", vil ha et toppunkt, for eksempel denne:
 
 ```functionplot
 ---
@@ -61,10 +61,10 @@ Denne funksjonen har topppunktet $x=0$.
 
 ## Finne ekstremalpunkt
 
-Ekstremalpunkt kan finnes ved hjelp av [[20240616T1007-derivasjon]]. Man løser likningen
+Ekstremalpunkt kan finnes ved hjelp av [[20240616T1007-derivasjon|derivasjon]]. Man løser likningen
 
 $$
 f'(x)=0
 $$
 
-Dette gir deg alle $x$-verdiene hvor funksjonsverdien ikke øker eller synker på akkurat dette punktet, altså ==stasjonære punkter==. Dette inkluderer både ekstremalpunkter, og [[20240616T1007-terrassepunkt]].
+Dette gir deg alle $x$-verdiene hvor funksjonsverdien ikke øker eller synker på akkurat dette punktet, altså ==stasjonære punkter==. Dette inkluderer både ekstremalpunkter, og [[20240616T1007-terrassepunkt|terrassepunkt]].

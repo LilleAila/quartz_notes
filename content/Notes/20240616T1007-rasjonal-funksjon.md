@@ -3,8 +3,8 @@ id: 20240616T1007-rasjonal-funksjon
 aliases:
   - rasjonal funksjon
 tags: []
+date: "2024-06-16"
 title: Rasjonale funksjoner
-date: 2024-06-16
 ---
 
 #matte
@@ -17,7 +17,7 @@ $$
 f(x)=\frac{p(x)}{q(x)}
 $$
 
-, der $p(x)$ og $q(x)$ er [[20240616T1007-polynom]]er.
+, der $p(x)$ og $q(x)$ er [[20240616T1007-polynom|polynomer]].
 
 Grafen til en rasjonal funksjon på formen
 

@@ -1,10 +1,10 @@
 ---
-id: 20240616T1007-lineær-funksjon
+id: 20240616T1007-lineær funksjon
 aliases:
   - lineær funksjon
 tags: []
+date: "2024-06-16"
 title: Lineære funksjoner
-date: 2024-06-16
 ---
 
 #matte
