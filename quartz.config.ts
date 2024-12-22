@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "IBM Plex Serif",
+        body: "IBM Plex Sans",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -44,10 +44,10 @@ const config: QuartzConfig = {
           gray: "#665c54",
           darkgray: "#d5c4a1",
           dark: "#ebdbb2",
-          secondary: "#83a598",
-          tertiary: "#8ec07c",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          secondary: "#d3869b",
+          tertiary: "#fabd2f",
+          highlight: "#83a59888",
+          textHighlight: "#83a59888",
         },
       },
     },
