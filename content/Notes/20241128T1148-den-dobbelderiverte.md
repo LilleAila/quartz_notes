@@ -3,8 +3,8 @@ id: 20241128T1148-den-dobbelderiverte
 aliases:
   - den dobbelderiverte
 tags: []
+date: "2024-11-28"
 title: Den dobbelderiverte
-date: 2024-11-28
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]]
@@ -27,3 +27,5 @@ Vendepunkt når $f'' \left( x \right) = 0$
 - Grafen endrer krumming. Størst vekst eller minst vekst.
 
 ![20241128T1219-dobbeltderivert-vendepunkt.png](Assets/20241128T1219-dobbeltderivert-vendepunkt.png)
+
+Hvis den dobbeltderiverte er negativ, er grafen konkav. Hvis den dobbeltderiverte er positiv, er grafen konveks.

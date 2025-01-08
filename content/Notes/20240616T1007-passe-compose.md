@@ -13,6 +13,8 @@ title: Passé Composé
 
 avoir / être bøyd i presens + partisipp av hovedverb. [[20240616T1007-refleksive-verb|Refleksive verb]] og [[20241128T1306-bevegelsesverb|bevegelsesverb]] med être
 
+Det bøyde verbet kalles "participe passé". Dette er likt som på norsk: "har gjort", etc.
+
 > J'ai parlé
 > Tu as fini
 > Ils ont repondu

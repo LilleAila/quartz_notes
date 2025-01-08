@@ -3,11 +3,10 @@ id: 20241121T1132-monotoniegenskaper
 aliases:
   - monotoniegenskaper
 tags: []
+date: "2024-11-21"
 title: Monotoniegenskaper
-date: 2024-11-21
 ---
 
-j
 #matte [[20240616T1007-matte|matte]] [[20240616T1007-derivasjon|derivasjon]]
 
 # monotoniegenskaper
@@ -27,6 +26,8 @@ x_2 > x_1 \implies f \left( x_2 \right) < f \left( x_1 \right)
 $$
 
 Dette kalles monotoniegenskaper.
+
+Hvis en funksjon er strengt voksende _eller_ strengt avtakende, kaller vi det strengt monoton.
 
 > [!INFO] Monotoniegenskaper
 > Gitt en funksjon $f$ og et intervall $I$ som er en del av eller lik $D_f$.
