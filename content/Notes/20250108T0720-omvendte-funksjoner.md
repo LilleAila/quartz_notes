@@ -289,3 +289,151 @@ $\left( 5, 3 \right)$ og $\left( 8, -2 \right)$
 Den lineære funksjonen $f$ går gjennom punktene $\left( 2, -3 \right)$ og $\left( 4, 7 \right)$.
 Tegn grafen til $f$ og graden til den omvendte funksjonen $g$ i det samme koordinatsystemet.
 ![[20250108T0720-omvendte-funksjoner 2025-01-08 10.26.03.excalidraw]]
+
+## Eksempel - oppsummering / repetisjon
+
+$f \left( x \right)$ og $g \left( x \right)$ er omvendte funksjoner hvis det er slik at $f \left( x \left( x \right) \right) = x$ og $g \left( f \left( x \right) \right) = x$
+
+$g \left( f \left( x \right) \right) = x$
+La $f \left( x \right) = y$
+$g \left( y \right) = x$
+
+### Oppgave 1
+
+$$
+f \left( x \right) = 2x - 8, D_{f} = \mathbb{R}
+$$
+
+Finn den omvendte funksjonen, g.
+
+---
+
+La $f \left( x \right) = y$. Finner x uttrykt ved y
+
+$$
+\begin{align}
+    y &= 2x - 8 & \\
+    y + 8 &= 2x & \\
+    x &= \frac{1}{2}y + 4 & \\
+    g \left( y \right) & = \frac{1}{2}y + 4 & \\
+    g \left( x \right) & = \frac{1}{2}x + 4 &
+\end{align}
+$$
+
+Den omvendte funksjonen: $g \left( x \right) = \frac{1}{2} x + 4, D_{g} = \mathbb{R} = V_{f}$
+
+### Oppgave 2
+
+$$
+f \left( x \right) = 10^{x}, D_{f} = \mathbb{R}, V_{f} = \left\langle 0, \rightarrow \right\rangle
+$$
+
+$$
+f^{-1} \left( x \right) = \lg{10}, D_{f} = \left\langle 0, \rightarrow \right\rangle, V_{f} = \mathbb{R}
+$$
+
+### Oppgave 3
+
+$$
+f \left( x \right) = 3 - \sqrt{x}, D_{f} = \left[ 0, \rightarrow \right\rangle
+$$
+
+$$
+\begin{align}
+    y & = 3 - \sqrt{x} & \\
+    \sqrt{x} &= 3 - y & \\
+    x &= \left( 3 - y \right)^{2} & \\
+    x &= y^{2} - 6y + 9 & \\
+    f^{-1} &= x^{2} - 6x + 9, D_{f^{-1}} = V_{f} = \left\langle \leftarrow, 3 \right] &
+\end{align}
+$$
+
+3 er bunnpunktet til funksjonen. Dermed er $f^{-1}$ entydig, altså finnes den omvendte funksjonen.
+
+### Oppgave 4
+
+$f \left( x \right) = x^{2} - 4x$. Bestem $f^{-1}$ med størst mulig definisjonsmengde når du får oppgitt at $-1 \in V_{f^{-1}} = D_{f}$
+
+$$
+\begin{align}
+    y & = x^{2} - 4x & \\
+    x^{2} - 4x - y & = 0 & \\
+    x & = \frac{4 \pm \sqrt{16 - 4y}}{2} & \\
+    x & = \frac{4 \pm \sqrt{4 \left( 4 + y \right)}}{2} & \\
+    x & = \frac{4 \pm \sqrt{4} \cdot \sqrt{4 + y}}{2} & \\
+    x & = \frac{4 \pm 2 \cdot \sqrt{4 + y}}{2} & \\
+    x & = 2 \pm \sqrt{4 + y} &
+\end{align}
+$$
+
+---
+
+$$
+f \left( x \right) = x^{2} - 4x = x \left( x - 4 \right)
+$$
+
+Nullpunkt i $x=0$ og $x=4$. Symmetrisk om midtpunktet, dermed ekstremalpunkt i $\left( 2, f \left( 2 \right) \right) = \left( 2, -4 \right)$
+
+Vet at funksjonen må være entydig, altså kan jeg kun velge $\left\langle \leftarrow, 2 \right]$, eller $\left[ 2, \rightarrow \right\rangle$
+
+Kan også finne ved derivasjon, ved at $f' \left( x \right) = 2x - 4$.
+
+Strengt avtakende i $\left\langle \leftarrow, 2 \right]$
+Strengt voksende i $\left[ 2, \rightarrow \right\rangle$
+
+Siden $-1 \in V_{f^{-1}} = D_{f}$, må vi bruke $D_{f} = \left\langle \leftarrow, 2 \right]$.
+
+---
+
+$$
+x = 2 \pm \sqrt{4 + y}
+$$
+
+Velger den med minus.
+
+$$
+\begin{align}
+    f^{-1} \left( y \right) & = 2 - \sqrt{4 + y} & \\
+    f^{-1} \left( x \right) & = 2 - \sqrt{4 + y} & \\
+    F_{f^{-1}} & = V_{f} = \left[ -4, \rightarrow \right\rangle &
+\end{align}
+$$
+
+## Sammenheng med den deriverte
+
+![20250113T1156-omvendt-funksjon-derivasjon.png](Assets/20250113T1156-omvendt-funksjon-derivasjon.png)
+
+$n$ og $m$ er to linjer, symmetriske om linjen $y = x$ og ikke sammenfallende med koordinataksene.
+
+Stigningstallet til $m$ er $\displaystyle a_{m} = \frac{y_{2} - y_{1}}{x_{2} - x_{1}}$.
+Stigningstallet til $n$ er $\displaystyle a_{n} = \frac{x_{2} - x_{1}}{y_{2} - y_{1}}$.
+
+$$
+\boxed{a_{n} = \frac{1}{a_{m}}}
+$$
+
+$\displaystyle a_{n} \cdot a_{m} = 1 \frac{\left( y_{2} - y_{1} \right) \left( x_{2} - x_{1} \right)}{\left( x_{2} - x_{1} \right) \left( y_{2} - y_{1} \right)}$
+
+---
+
+Ex.
+
+$$
+f \left( x \right) = 3x - 2
+$$
+
+$$
+f' \left( x \right) = 3 \implies {f^{-1}}' \left( x \right) = \frac{1}{3}
+$$
+
+Denne sammenhengen gjelder for alle deriverbare funksjoner som har en omvendt funksjon.
+
+![20250113T1203-omvendt-funksjon-derivasjon-tangent.png](Assets/20250113T1203-omvendt-funksjon-derivasjon-tangent.png)
+
+> [!NOTE] Definisjon
+> La $f$ være en deriverbar funksjon., $f \left( x \right) = y$, der $g \left( y \right) = x$ er den omvendte funksjonen.
+> Da er
+>
+> $$
+> g' \left( y \right) = \frac{1}{f' \left( x \right)} \forall f' \left( x \right) \neq 0
+> $$

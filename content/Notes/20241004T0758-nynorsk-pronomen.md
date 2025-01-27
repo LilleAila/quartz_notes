@@ -3,11 +3,11 @@ id: 20241004T0758-nynorsk-pronomen
 aliases:
   - nynorsk-pronomen
 tags: []
+date: "2024-10-04"
 title: Nynorsk-pronomen
-date: 2024-10-04
 ---
 
-#nynorsk [[20240906T1117-nynorsk|nynorsk]]
+#norsk #nynorsk [[20250123T1415-nynorsk-grammatikk|nynorsk grammatikk]]
 
 # nynorsk-pronomen
 
@@ -21,3 +21,5 @@ date: 2024-10-04
 | vi - oss        | vi - oss                    |
 | dere - dere     | dokker - dokker / de - dykk |
 | de - dem        | dei - dei                   |
+
+Man kan ikke bruke det ubestemte pronomenet "man". I stedet bruker man "ein", eller "vi" eller "du".

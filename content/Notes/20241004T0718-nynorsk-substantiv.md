@@ -3,11 +3,11 @@ id: 20241004T0718-nynorsk-substantiv
 aliases:
   - nynorsk-substantiv
 tags: []
+date: "2024-10-04"
 title: Nynorsk-substantiv
-date: 2024-10-04
 ---
 
-#nynorsk [[20240906T1117-nynorsk|nynorsk]]
+#norsk #nynorsk [[20250123T1415-nynorsk-grammatikk|nynorsk grammatikk]]
 
 # nynorsk-substantiv
 
@@ -33,7 +33,7 @@ Sett eit ord i bestemt form eintal. Viss det høyres bra ut med a-ending, er det
 
 ## -ing
 
-Ord på -ing er hokjønnsort.
+Ord på -ing er hokjønnsord.
 
 Bøyning: ei meining - meininga - meiningar - meiningane
 

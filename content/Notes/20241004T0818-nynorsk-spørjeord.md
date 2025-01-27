@@ -3,11 +3,11 @@ id: 20241004T0818-nynorsk-spørjeord
 aliases:
   - nynorsk-spørjeord
 tags: []
+date: "2024-10-04"
 title: Nynorsk-spørjeord
-date: 2024-10-04
 ---
 
-#nynorsk [[20240906T1117-nynorsk|nynorsk]]
+#norsk #nynorsk [[20250123T1415-nynorsk-grammatikk|nynorsk grammatikk]]
 
 # nynorsk-spørjeord
 

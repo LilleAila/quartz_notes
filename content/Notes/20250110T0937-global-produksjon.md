@@ -95,3 +95,6 @@ Produkter blir billigere når de produseres i land som Kina, men dette kommer ik
 2. Kan dere se noen trender i datamaterialet deres? Hvordan har disse sammenheng med lokaliseringsfaktorer?
 
 Vi ser at mesteparten av produktene i datamaterialet vårt er produsert i asiatiske land, deretter i Europa. Asiatiske land har billigere arbeidskraft, fordi det er et større behov for arbeidsplasser, og dermed lavere forventninger til arbeidsvilkår.
+
+Mye av tekstiler kommer fra Asia, sørøst-Asia
+Kina har tidligere produsert mye klær, nå produserer de mye elektronikk, kontor
