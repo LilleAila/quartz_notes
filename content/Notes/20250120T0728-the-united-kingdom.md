@@ -62,8 +62,48 @@ The organization of Parliament and the House of Commons follow old traditions, a
 Some judges wear white wigs in court.
 Many still informally use non-metric standards for measurement.
 
+Parliament system:
+
+Monarch
+Prime Minister
+Parliament:
+
+- House of Commons
+- House of Lords
+
 ---
 
 Politeness is very important in the British culture.
-They are taught o say "please" and "thank you".
+They are taught to say "please" and "thank you".
+Holding the door open or the next person
 Queue discipline, with very few jumping in a queue.
+
+Dress codes
+School uniforms in schools, each school with its own colors
+Slowly phased out, but dress codes widely used in britain
+
+---
+
+Verbal humor
+Puns and irony
+Understatements
+Monty Python, Mr Bean, etc.
+
+---
+
+Pub (public house)
+Nearly 50 000 in Britain
+Meeting place and social centre for the local community
+
+---
+
+Multicultural - "nation of nations"
+English, Scottish, Welsh and Irish
+In addition to immigrants from abroad.
+
+87% white, 13% black, Asian, mixed or other ethnic group, according to 2011 censuses.
+Many from former colonies have come to Britain.
+
+British ruled over 1/4 of the world between late 1800s and early 1900s
+Most immigrants from West Indies and the Indian subcontinent, 1950s and 1960s.
+More than 300 different mother tongues
