@@ -11,7 +11,7 @@ title: Etisk produksjon
 
 # etisk produksjon
 
-Planlagt foreldelse
+Planlagt foreldelse (planned obsolescence)
 Bedrifter lager produktene sine og planlegger for at det skal slutte å fungere etter en viss tid
 Dette gjøres for å tjene så mye penger som mulig, ved at kundene kjøper nytt
 Det er dårlig for miljøet og for økonomien til forbrukere

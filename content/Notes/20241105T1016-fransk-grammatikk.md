@@ -3,8 +3,8 @@ id: 20241105T1016-fransk-grammatikk
 aliases:
   - fransk grammatikk
 tags: []
+date: "2024-11-05"
 title: Fransk grammatikk
-date: 2024-11-05
 ---
 
 #fransk [[20240616T1007-fransk|fransk]] #MOC
@@ -12,6 +12,8 @@ date: 2024-11-05
 # fransk grammatikk
 
 Mer informasjon om grammatikk ligger i pdf-filer under sources.
+
+https://www.bescherelle.com/ - bøyning av verb og slikt - ex. https://conjugaison.bescherelle.com/verbes/venir
 
 ## Ting uten et notat å putte i
 
