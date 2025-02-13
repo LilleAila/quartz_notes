@@ -36,7 +36,7 @@ Resultatet er en skalar, ikke en vektor. Dette er et slags mål på hvor mye de 
 Hvis vektorene står vinkelrette på hverandre, kaller vi dem ortogonale. Det vil si at $\alpha = 90 ^{\circ}$
 
 $$
-\vec{a} \perp \vec{b} \iff \vec{a} \cdot \vec{b} = 0
+\vec{a} \perp \vec{b} \iff \vec{a} \cdot \vec{b} = 0 \land \left| \vec{a} \right| \neq 0 \land \left| \vec{b} \right| \neq 0
 $$
 
 ## Regneregler
@@ -263,5 +263,125 @@ $$
 \begin{align}
   2 \vec{v} \cdot \vec{u} + \vec{u} \cdot \left( 3 \vec{v} + \vec{u} \right) &= 2 \cdot \vec{v} \cdot \vec{u} + 3 \cdot \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{u} & \\
   &= 5 \cdot 5 + 17 = 22 &
+\end{align}
+$$
+
+### 6.70
+
+Avgjør om vektorene er ortogonale.
+
+#### a
+
+$$
+\begin{align}
+  \left[ 4, 1 \right] \perp \left[ -4, 16 \right] &\iff \left[ 4, 1 \right] \cdot \left[ -4, 16 \right] = 0 & \\
+  4 \cdot -4 - 1 \cdot 16 = 0 & \implies \left[ 4, 1 \right] \perp \left[ -4, 16 \right] &
+\end{align}
+$$
+
+Ingen av vektorene er nullvektorer, og skalarproduktet er lik 0. Dermed er vektorene ortogonale.
+
+#### b
+
+$$
+\begin{align}
+  \left[ -2, 5 \right] \cdot \left[ 14, 6 \right] &= -2 \cdot 14 + 5 \cdot 6 = 2 &
+\end{align}
+$$
+
+Vektorene er ikke orgononale, siden skalarproduktet $\neq 0$
+
+#### c
+
+$$
+\begin{align}
+  \left[ \ln{2}, 2 \ln{2} \right] \cdot \left[ \ln{2}, -1 \right] & = \ln{2} \cdot \ln{2} + 2 \ln{2} \cdot -1 & \\
+  & = \left( \ln{2} \right)^{2} - 2 \ln{2} &
+\end{align}
+$$
+
+Vektorene er ikke orgononale, siden skalarproduktet $\neq 0$
+
+### 6.71
+
+Bestem $k$ slik at vektorene $\vec{u}$ og $\vec{v}$ er ortogonale uten hjelpemidler.
+
+#### a
+
+$$
+\begin{align}
+  \vec{u} = \left[ 2, 5 \right] &\land \vec{v} = \left[ k, 2 \right] & \\
+  \vec{u} \cdot \vec{v} &= 2 \cdot k + 5 \cdot 2 = 2k + 10 & \\
+  2k + 10 = 0 &\implies k = -5 &
+\end{align}
+$$
+
+#### b
+
+$$
+\begin{align}
+  \vec{u} = \left[ 2k, 4 \right] &\land \vec{v} = \left[ k, -2 \right] & \\
+  \vec{u} \cdot \vec{v} &= 2k^{2} - 8 & \\
+  k^{2} - 4 & = 0 & \\
+  k^{2} & = 4 & \\
+  k &= \pm 2 &
+\end{align}
+$$
+
+### 6.68
+
+Bestem skalarproduktet av $\vec{u}$ og $\vec{v}$ når $\left| \vec{u} \right| = 2$, $\left| \vec{v} \right| = 3 $ og vinkelen mellom vektorene er:
+
+#### a: $0\degree$
+
+$$
+2 \cdot 3 \cdot \cos{0\degree} = 6 \cdot 1 = 6
+$$
+
+#### b: $30\degree$
+
+$$
+2 \cdot 3 \cdot \cos{30\degree} = 6 \cdot \frac{\sqrt{3}}{2}
+$$
+
+#### c: $45\degree$
+
+$$
+2 \cdot 3 \cdot \cos{45\degree} = 6 \cdot \frac{\sqrt{2}}{2}
+$$
+
+#### d: $60\degree$
+
+$$
+2 \cdot 3 \cdot \cos{60\degree} = 6 \cdot \frac{1}{2} = 3
+$$
+
+#### e: $90\degree$
+
+$$
+2 \cdot 3 \cdot \cos{90\degree} = 6 \cdot 0 = 0
+$$
+
+### 6.73
+
+Finn vinkelen mellom vektorene ved å bruke skalarproduktet.
+
+#### a
+
+$$
+\begin{align}
+  \left[ 4, 1 \right] \cdot \left[ -4, 16 \right] &= -16 + 16 = 0 \implies \vec{u} \perp \vec{v} \implies \alpha = 0 &
+\end{align}
+$$
+
+#### b
+
+$$
+\begin{align}
+  & \left[ -2, 5 \right] \cdot \left[ 14, 6 \right] = -28 + 30 = 2 & \\
+  \left| \left[ -2, 5 \right] \right| &= \sqrt{\left( -2 \right)^{2} + 5^{2}} = \sqrt{29} & \\
+  \left| \left[ 14, 6 \right] \right| &= \sqrt{14^{2} + 6^{2}} = \sqrt{232} & \\
+  \left[ -2, 5 \right] \cdot \left[ 14, 6 \right] &= \sqrt{29} \cdot \sqrt{232} \cdot \cos{\alpha} = \sqrt{6728} \cdot \cos\alpha & \\
+  \sqrt{6728} \cdot \cos{\alpha} &= 2 &
 \end{align}
 $$
