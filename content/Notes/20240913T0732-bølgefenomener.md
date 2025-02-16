@@ -3,8 +3,8 @@ id: 20240913T0732-bølgefenomener
 aliases:
   - bølgefenomener
 tags: []
+date: "2024-09-13"
 title: Bølgefenomener
-date: 2024-09-13
 ---
 
 #naturfag [[20240828T0840-naturfag|naturfag]] [[20240828T0840-bølger|bølger]]
@@ -46,3 +46,7 @@ $$
 $$
 
 Dette er _refleksjonsloven_, som betyr at vinkelen på begge sider av innfallsloddet vil være like.
+
+## Dopplereffekten
+
+Når kilden til bølgene beveger seg i en retning, vil bølgene oppfattes som å ha en høyere eller en lavere frekvens. Et eksempel på dette er når en sykebil beveger seg nærmere, øker frekvensen på lyden den lager, fordi bølgekilden flytter seg fremover sammen med bølgen. Når den har passert deg, vil bølgene oppfattes som å ha lavere frekvens, fordi kilden beveger seg i motsatt retning fra bølgen som går mot deg.
