@@ -27,7 +27,6 @@ $$
 	& x = 1 &  \\[5pt]
 	& 2y = -2 & \text{Setter verdien til $ x $ inn i likningen}  \\[5pt]
 	& \underline{\underline{x = 1 \land y = -1}} &
-
 \end{align}
 $$
 

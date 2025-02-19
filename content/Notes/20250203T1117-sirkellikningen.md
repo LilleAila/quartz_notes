@@ -22,7 +22,7 @@ $$
 \end{align}
 $$
 
-## Eksempeloppgave
+## Oppgave 1
 
 > [!NOTE] Eksempel 22 (fra boken)
 > En sirkel har sentrum i $\left( 2, -3 \right)$ og radius $5$.
@@ -56,3 +56,65 @@ $$
 $$
 
 $25 \neq 52 \implies$ Punkt $B$ ligger ikke på sirkelen.
+
+## Oppgave 2
+
+Finn sentrum og radius i sirkelen gitt ved likningen $x^{2} + y^{2} - 4x + 6y = 12$
+
+> [!NOTE]
+> Bruker [[20240616T1007-fullstendig-kvadrat|Fullstendig kvadrat]] og [[20240616T1007-kvadratsetningene|Kvadratsetningene]]
+
+$$
+\begin{align}
+  x^{2} + y^{2} - 4x + 6y &= 12 & \\
+  x^{2} - 4x + 4 - 4 + y^{2} + 6y + 9 - 9 &= 12 & \\
+  \left( x - 2 \right)^{2} - 4 + \left( y + 3 \right)^{2} - 9 &= 12 & \\
+  \left( x - 2 \right)^{2} + \left( y + 3 \right)^{2} &= 25 & \\
+  \left( x - 2 \right)^{2} + \left( y + 3 \right)^{2} &= 5^{2} &
+\end{align}
+$$
+
+Vet dermed ut fra den generelle sirkellikningen $\displaystyle \left( x - x_{0} \right) + \left( y - y_{0} \right) = r^{2}$ at sirkelen har sentrum i $\left( 2, -3 \right)$ og radius $5$.
+
+## 6.91
+
+Finn sentrum og radius i sirkelen uten hjelpemidler.
+
+### a
+
+$$
+\begin{align}
+  x^{2} + y^{2} - 6x + 10y &= 15 & \\
+  x^{2} - 6x + 9 - 9 + y^{2} + 10y + 25 - 25 &= 15 & \\
+  \left( x-3 \right)^{2} + \left( y + 5 \right)^{2} &= 15 + 9 + 25 & \\
+  \left( x - 3 \right)^{2} +  \left( y + 5 \right)^{2} &= 49 = 7^{2} &
+\end{align}
+$$
+
+Sirkelen har sentrum i $\left( 3, -5 \right)$ og radius $7$.
+
+### b
+
+$$
+\begin{align}
+  x^{2} + y^{2} + 2x - 8y &= 64 & \\
+  x^{2} + 2x + 1 - 1 + y^{2} - 8y + 16 - 16 &= 64 & \\
+  \left( x + 1 \right)^{2} + \left( y - 4 \right)^{2} &= 64 + 1 + 16 & \\
+  \left( x + 1 \right)^{2} + \left( y - 4 \right)^{2} &= 81 = 9^{2} &
+\end{align}
+$$
+
+Sirkelen har sentrum i $\left( -1, 4 \right)$ og radius $9$.
+
+### c
+
+$$
+\begin{align}
+  x^{2} + y^{2} + 8x &= -11 & \\
+  x^{2} + 8x + 16 - 16 + y^{2} + 0y + 0 &= -11 & \\
+  \left( x + 4 \right)^{2} + \left( y + 0 \right)^{2} &= -11 + 16 & \\
+  \left( x + 4 \right)^{2} + y^{2} &= 5 &
+\end{align}
+$$
+
+Sirkelen har sentrum i $\left( -4, 0 \right)$ og radius $\sqrt{5}$.

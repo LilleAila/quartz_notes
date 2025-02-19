@@ -3,8 +3,8 @@ id: 20241118T0940-movie-analysis
 aliases:
   - movie analysis
 tags: []
+date: "2024-11-18"
 title: Movie analysis
-date: 2024-11-18
 ---
 
 #engelsk [[20241112T1402-the-hate-u-give-movie|analysis of the hate u give movie]]
@@ -48,6 +48,8 @@ Focus on setting, characters, mood, structure, themes and messages.
 > Contrast, Starr's feelings
 
 (økende til inciting incident, hopp ved rising action, spenningstopp, synkende ved falling action)
+
+![20250217T0742-film-spenning.png](Assets/20250217T0742-film-spenning.png)
 
 > Exposition: Introduction to Starr's dual life: Family and community
 > Inciting incident: Khalil's Shooting
