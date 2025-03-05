@@ -4,8 +4,8 @@ import re
 import subprocess
 
 # Paths for the Obsidian notes and Quartz notes repositories
-OBSIDIAN_NOTES_PATH = "/home/olai/notes/obsidian"
-QUARTZ_NOTES_PATH = "/home/olai/devel/quartz_notes/content"
+OBSIDIAN_NOTES_PATH = os.path.expanduser("~/notes/obsidian")
+QUARTZ_NOTES_PATH = os.path.expanduser("~/devel/quartz_notes/content")
 EXCLUDED_FOLDERS = {"Daily", ".obsidian", ".stfolder", ".trash"}
 EXCLUDED_TAGS = {"#oppgave", "#innlevering", "#private"}
 EXCLUDED_EXTENSIONS = {".excalidraw.md"}
