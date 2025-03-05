@@ -30,7 +30,7 @@ $O_{2}$, $O::O$, $O=O$
 $N_{2}$, $N\vdots\vdots N$, $N\equiv N$
 
 Slik ser modellen ut i en binding mellom to oksygenatomer. Symbolet $::$ kommer fra de elektronene som deles. Det tegnes kun det ytterste skallet, som i dette tilfellet er oksygen med 8 totalt, der 6 av dem er i det ytterste skallet, og vil nå edelgasstruktur med 8 i ytterste skall.
-![[20240925T0903-kjemiske-bindinger 2024-09-27 09.30.23.excalidraw]]
+![[20240925T0903-kjemiske-bindinger 2024-09-27 09.30.23.excalidraw.svg]]
 
 $O_{2}$, $N_{2}$ og $CO_{2}$ er molekyler som finnes i atmosfæren og har elektronparbindinger. De er fargeløse og luktfrie, men kan påvises ved hjelp av noen egenskaper de har. $O_{2}$ vil få en glødende fyrstikk til flamme opp, mens $N_{2}$ og $CO_{2}$ vil slukke en fyrstikk. $CO_{2}$ vil gjøre vann surt, som kan observeres ved hjelp av BTB. Gult betyr surt (pH under 7), grønt er nøytralt og pH over 7 er basisk (blått). $CO_{2}$ vil også blakke kalkvann, som består av saltet kalsiumhydroksid ($Ca \left( OH \right)_{2}$) oppløst i vann. Når man lar $CO_{2}$ boble i kalkvann, for eksempel ved å blåse ned i et sugerør, vel den gå fra gjennomsiktig til hvit når det dannes kalk ($CaCO_{3}$ - kalsiumkarbonat): et fast, hvitt stoff.
 

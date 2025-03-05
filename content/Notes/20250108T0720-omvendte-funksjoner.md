@@ -47,11 +47,11 @@ Verdimengden fra den funksjonen blir definisjonsmengden til den omvendte funksjo
 
 ![20250108T0832-omvendte-funksjoner-definisjonsmengde-verdimengde.png](Assets/20250108T0832-omvendte-funksjoner-definisjonsmengde-verdimengde.png)
 
-![[20250108T0720-omvendte-funksjoner 2025-01-08 09.33.14.excalidraw]]
+![[20250108T0720-omvendte-funksjoner 2025-01-08 09.33.14.excalidraw.svg]]
 
 Det er ikke alle funksjoner som har omvendte funksjoner:
 
-![[20250108T0720-omvendte-funksjoner 2025-01-08 09.37.30.excalidraw]]
+![[20250108T0720-omvendte-funksjoner 2025-01-08 09.37.30.excalidraw.svg]]
 
 Hvis det er flere utverdier med samme verdi, er det ikke mulig å lage en omvendt funksjon, da dette fører til at en innverdi har flere utverdier. Altså må hver innverdi kun ha en funksjonsverdi, og hver funksjonsverdi må ha kun en innverdi. Dette kalles at funksjonen er "en-entydig".
 
@@ -84,7 +84,7 @@ $$
 
 Dette leses som "**f invers**" (den omvendte funksjonen til f)
 
-![[20250108T0720-omvendte-funksjoner 2025-01-08 08.31.20.excalidraw]]
+![[20250108T0720-omvendte-funksjoner 2025-01-08 08.31.20.excalidraw.svg]]
 
 Funksjonene er speilvendt rundt $y = x$
 
@@ -140,7 +140,7 @@ $$
 
 ## Grafisk bevis på at omvendte funksjoner er symmetrisk rundt $y = x$
 
-![[20250108T0720-omvendte-funksjoner 2025-01-08 09.07.19.excalidraw]]
+![[20250108T0720-omvendte-funksjoner 2025-01-08 09.07.19.excalidraw.svg]]
 
 ## Eksempeloppgaver 3
 
@@ -196,7 +196,7 @@ $$
 \end{align}
 $$
 
-![[20250108T0720-omvendte-funksjoner 2025-01-08 09.50.52.excalidraw]]
+![[20250108T0720-omvendte-funksjoner 2025-01-08 09.50.52.excalidraw.svg]]
 
 Denne funksjonen har ikke en omvendt funksjon, fordi den ikke er strengt monoton i hele definisjonsmengden.
 
@@ -288,7 +288,7 @@ $\left( 5, 3 \right)$ og $\left( 8, -2 \right)$
 
 Den lineære funksjonen $f$ går gjennom punktene $\left( 2, -3 \right)$ og $\left( 4, 7 \right)$.
 Tegn grafen til $f$ og graden til den omvendte funksjonen $g$ i det samme koordinatsystemet.
-![[20250108T0720-omvendte-funksjoner 2025-01-08 10.26.03.excalidraw]]
+![[20250108T0720-omvendte-funksjoner 2025-01-08 10.26.03.excalidraw.svg]]
 
 ## Eksempel - oppsummering / repetisjon
 

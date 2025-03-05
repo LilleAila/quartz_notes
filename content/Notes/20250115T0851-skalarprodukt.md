@@ -11,15 +11,15 @@ title: Skalarprodukt
 
 # skalarprodukt
 
-![[20250115T0851-skalarprodukt 2025-01-15 09.52.35.excalidraw]]
+![[20250115T0851-skalarprodukt 2025-01-15 09.52.35.excalidraw.svg]]
 
 Hvis vektorene er noenlunde i samme retning, blir cosinus-verdien positiv. Hvis de spriker fra hverandre, blir cosinus-verdien negativ.
 
 - [ ] TODO: flytte dette inn i notat om sinus / cosinus
 
-![[20250115T0851-skalarprodukt 2025-01-15 10.02.42.excalidraw]]
+![[20250115T0851-skalarprodukt 2025-01-15 10.02.42.excalidraw.svg]]
 
-![[20250115T0851-skalarprodukt 2025-01-15 10.04.44.excalidraw]]
+![[20250115T0851-skalarprodukt 2025-01-15 10.04.44.excalidraw.svg]]
 
 Gitt to vektorer $\vec{a}$ og $\vec{b}$
 La $a$ være vinkelen mellom vektorene.
@@ -31,7 +31,7 @@ $$
 
 Resultatet er en skalar, ikke en vektor. Dette er et slags mål på hvor mye de peker i samme retning.
 
-![[20250115T0851-skalarprodukt 2025-01-15 10.11.18.excalidraw]]
+![[20250115T0851-skalarprodukt 2025-01-15 10.11.18.excalidraw.svg]]
 
 Hvis vektorene står vinkelrette på hverandre, kaller vi dem ortogonale. Det vil si at $\alpha = 90 ^{\circ}$
 

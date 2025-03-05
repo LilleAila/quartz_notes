@@ -17,4 +17,4 @@ Et koordinatsystem krever følgende ting for å bli godkjent:
 - Navn på aksene (x, y)
 - Verdier med lik avstand (1, 2, 3, etc.)
 
-![[20250217T0945-tegning-av-koordinatsystem 2025-02-17 10.47.04.excalidraw]]
+![[20250217T0945-tegning-av-koordinatsystem 2025-02-17 10.47.04.excalidraw.svg]]

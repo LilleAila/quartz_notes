@@ -46,11 +46,9 @@ Gener
 Et gen er en avgrenset del av DNA-molekylet
 Inneholder informasjonen som trengs for å lage et protein.
 Tre basepar om gangen kalles en "triplett".
-Også kalt "kodon"
 En triplett tilsvarer en bestemt aminosyre. Rekkefølgen på triplettene sier hvilken rekkefølge aminosyrene skal være.
 Sier hvilke aminosyrer som skal sitte hvor, og hvordan proteinet til slutt lages.
 Kalles den "genetiske koden".
-Mennesker har 20 000-25 000 gener
 
 Hvis en celle trenger nye proteiner, sendes signal til cellekjernen. Lager en kopi av et gen kalt mRNA (messenger RNA)
 Et enzym blir bruk, leser DNA-et. Finner den tilsvarende basen i baseparet (for eksempel A blir T)
@@ -78,38 +76,3 @@ CG: 28%
 C: 14%
 
 #### 8.2.5
-
-## Celledeling
-
-![20250221T0859-meiose-mitose.png](Assets/20250221T0859-meiose-mitose.png)
-
-Vanlig celledeling kalles mitose, og gir to nøyaktige kopier av cellen. Det er mest aktiv på fosterstadiet, men celler blir produsert hele livet. Skal gi vekst, og erstatte gamle og slitte celler. Kalles også vekstdeling og gir to nøyaktige kopier av morcellen.
-
-Det foregår hele tiden i kroppen, unntatt i kjønnscellene. Tiden mellom celledelinger avhenger av vevstype, og øker med alder. Synlig vet at sår gror saktere, huden eldes.
-
-Først blir arvestoffet kopiert, slik at kromosomene blir doble, til to like kromatider. Hvert doble kromosom kan deles på langs i sentromeren.
-
-![20250221T0735-kromosompar.png](Assets/20250221T0735-kromosompar.png)
-
-Når DNA kopieres, kalles det DNA-replikasjon. Et enzym "klipp" opp DNA-strengen på langs, og nye nukleotider fester seg til de ledige plassene (nitrogenbasene), slik at det blir dannet to nøyaktige kopier og den opprinnelige DNA-strengen, et dobbelt kromosom der kromatidene er bundet til hverandre i sentromeren.
-
-Guanin (G) binder seg til cytosin (C), og tymin (T) vil binde seg til adenin (A)
-
-![20250221T0958-celledeling.gif](Assets/20250221T0958-celledeling.gif)
-
-![20250221T0739-dna-replikasjon.png](Assets/20250221T0739-dna-replikasjon.png)
-
-> [!NOTE]
-> Nukleotid: nitrogenbase, sukkermolekyl og fosfatgruppe. Det DNA og RNA er bygget opp av.
-
-Når cellen deles, blir kromatider dratt fra hverandre ved hjelp av trykke proteintråder (spindler), og inngår i hver sin dattercelle. I menneskeceller er det 46 enkle kromosomer (kromatider), som blir dratt til hver sin side. Cytoplasma med organeller lir fordelt, og cellemembraner (og cellevegg hos planteceller) dannes rundt settene med kromosomer, slik at det dannes to nye datterceller.
-
-Kjønnsceller deles ved meiose. Deling av kjønnsceller skjer i testiklene hos menn og i eggstokkene hos kvinner. Når kjønnsceller dannes, halveres kromosomtallet.
-
-Doble kromosompar stilles opp parvis midt i cellen. Alle kromosomparene blir skilt av spindler, slik at det blir 23 på hver side av cellen. Det dannes to nye celler med halvt kromosomtall. Dette fortsetter og danner flere celler med halvt kromosomtall.
-
-Kromosomer i et par kan bytte noen gener mens de står parvis. De ligger tett nok til hverandre at biter kan brekke av slik at DNA-fragmenter bytter plass. Det kalles overkrysning, og gjør at ingen kjønnsceller blir identiske.
-
-![20250221T0753-meiose.png](Assets/20250221T0753-meiose.png)
-
-Etter at en eggcelle og en sædcelle med 23 kromosomer hver, blir det 46 kromosomer når cellene har smeltet sammen. Etter en eggcelle er befruktet, vil den starte med vanlig celledeling. Dette blir et embryo, der alle celler kopierer de samme kromosomene, før cellene blir spesialisert.
