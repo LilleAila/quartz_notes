@@ -62,6 +62,20 @@ Funksjonen må være en-entydig for at det skal være mulig å finne en omvendt 
 
 Hvis en funksjon er [[20241121T1132-monotoniegenskaper|strengt monoton]] (voksende / avtakende), betyr det at den er en-entydig.
 
+## Omvendte funksjoner i GeoGebra
+
+Med `Speil`:
+![20250305T0830-geogebra-omvendt-funksjon-speil.png](Assets/20250305T0830-geogebra-omvendt-funksjon-speil.png)
+
+Alternativt knappen "Speil objekt om linje":
+![20250305T0831-speil-objekt-om-linje.png](Assets/20250305T0831-speil-objekt-om-linje.png)
+
+Med `Invers`:
+![20250305T0832-geogebra-omvendt-funksjon-invers.png](Assets/20250305T0832-geogebra-omvendt-funksjon-invers.png)
+
+I CAS, med `Invers`:
+![20250305T0833-geogebra-omvendt-funksjon-cas-invers.png](Assets/20250305T0833-geogebra-omvendt-funksjon-cas-invers.png)
+
 ## Eksempel
 
 Oppskrift på sjokoladekake
