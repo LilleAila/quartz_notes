@@ -17,6 +17,9 @@ https://www.bescherelle.com/ - bøyning av verb og slikt - ex. https://conjugais
 
 ## Ting uten et notat å putte i
 
+Bruk av google translate:
+Søk opp verb i infinitiv, ellers gir den ofte feil verbtid (passé simple)
+
 Fransk
 
 - à + le = au
@@ -26,3 +29,8 @@ Fransk
 
 Ubstemt artikkel: Isabelle a des cheveux blonds
 Bestemt artikkel: Les cheveux de Isabella sont blonds
+
+"En": Tidligere beskrevet en ting med "de": "On manque toujours **de** chaussettes".
+Refererer tilbake til dette senere med "en": "Je n'**en** ai même pas eu une seule paire".
+, som i "jeg har ikke fått et eneste par (med sokker)". Kan i noen tilfeller oversettes som "det".
+"y" bruker på samme måte, men når man tidligere har sagt "à", og skal referere tilbake til det. Kan i noen tilfeller oversettes som "der".

@@ -85,6 +85,9 @@ Mennesker har arvestoffet fordelt på 46 kromosomer. Vi har to utgaver av hvert 
 
 Kromosomene i hvert kromosompar har samme størrelse, og samme gener. Kjønnskromosomer er eneste som ikke opptrer i par. Jenter har kombinasjonen XX, mens gutter har XY. Siden en kvinne har to X-kromosomer, vil alle eggceller inneholde et X-kromosom. Hos mannen vil sædcellene enten inneholde X eler Y. Derfor blir det født omtrent like mange gutter som jenter.
 
+Kromosomer i mennesker:
+![20250312T1315-kromosomer.png](Assets/20250312T1315-kromosomer.png)
+
 Det er ingen sammenheng mellom antall kromosomer og hvor avansert en organisme er.
 
 | Art      | Kromosomer |
@@ -96,7 +99,7 @@ Det er ingen sammenheng mellom antall kromosomer og hvor avansert en organisme e
 | Blåhval  | 44         |
 | Mais     | 20         |
 
-## Formering
+## Formerin
 
 Alle levende organismer formerer seg. Nødvendig genetisk informasjon videreføres. Formering skjer kjønnet eller ukjønnet, og begge ulike måtene innebærer deling av celler. Måten kromosomene fordeles i cellekjernen, avkjør hvilken type celledeling det er.
 
@@ -107,6 +110,9 @@ Skjer ved vanlig celledeling (vekstdeling)
 Kalles også mitose.
 
 Det dannes et avkom som er genetisk lik morindividet. Etterkommerne kalles _kloner_. Morcellen gir opphav til to genetisk identiske datterceller. Cellen lager først en kopi av alle DNA-molekylene, før de fordeles i hver sin celle.
+
+For eksempel ved planting av poteter.
+Sauen Dolly.
 
 ### Kjønnet formering
 
@@ -131,7 +137,7 @@ Først blir arvestoffet kopiert, slik at kromosomene blir doble, til to like kro
 
 ![20250221T0735-kromosompar.png](Assets/20250221T0735-kromosompar.png)
 
-Når DNA kopieres, kalles det DNA-replikasjon. Et enzym "klipp" opp DNA-strengen på langs, og nye nukleotider fester seg til de ledige plassene (nitrogenbasene), slik at det blir dannet to nøyaktige kopier og den opprinnelige DNA-strengen, et dobbelt kromosom der kromatidene er bundet til hverandre i sentromeren.
+Når DNA kopieres, kalles det DNA-replikasjon. Et enzym "klipper" opp DNA-strengen på langs, og nye nukleotider fester seg til de ledige plassene (nitrogenbasene), slik at det blir dannet to nøyaktige kopier og den opprinnelige DNA-strengen, et dobbelt kromosom der kromatidene er bundet til hverandre i sentromeren.
 
 Guanin (G) binder seg til cytosin (C), og tymin (T) vil binde seg til adenin (A)
 
@@ -142,7 +148,7 @@ Guanin (G) binder seg til cytosin (C), og tymin (T) vil binde seg til adenin (A)
 > [!NOTE]
 > Nukleotid: nitrogenbase, sukkermolekyl og fosfatgruppe. Det DNA og RNA er bygget opp av.
 
-Når cellen deles, blir kromatider dratt fra hverandre ved hjelp av trykke proteintråder (spindler), og inngår i hver sin dattercelle. I menneskeceller er det 46 enkle kromosomer (kromatider), som blir dratt til hver sin side. Cytoplasma med organeller lir fordelt, og cellemembraner (og cellevegg hos planteceller) dannes rundt settene med kromosomer, slik at det dannes to nye datterceller.
+Når cellen deles, blir kromatider dratt fra hverandre ved hjelp av trykke proteintråder (spindler), og inngår i hver sin dattercelle. I menneskeceller er det 46 enkle kromosomer (kromatider), som blir dratt til hver sin side. Cytoplasma med organeller blir fordelt, og cellemembraner (og cellevegg hos planteceller) dannes rundt settene med kromosomer, slik at det dannes to nye datterceller.
 
 Kjønnsceller deles ved meiose. Deling av kjønnsceller skjer i testiklene hos menn og i eggstokkene hos kvinner. Når kjønnsceller dannes, halveres kromosomtallet.
 
@@ -187,3 +193,17 @@ At genet for lilla blomsterfarge dominerer over genet for hvit blomsterfarge, er
 Gener som er recessive, kommer kun til uttrykk i homozygote individer.
 
 ![20250305T1221-krysningskjema-erteplanter.png](Assets/20250305T1221-krysningskjema-erteplanter.png)
+
+## Arv
+
+Arv der et gen dominerer kalles dominant arv, det motsatte kalles recessivt arv.
+Noen gener arves ikke ved dominant / recessiv arm, resultatet blir noe imellom. Kalles "Ufullstendig dominant arv".
+
+Noen egenskaper arves ved at begge genutgavene kommer til uttrykk hos individet.
+
+![20250312T1312-blodtyper-kodominant-arv.png](Assets/20250312T1312-blodtyper-kodominant-arv.png)
+
+Kjønnsbundet arv er arv som ligger på X-kromosomet.
+Et eksempel er fargeblindhet, som arves gjennom X-kromosomet. Hos kvinner krever det at begge X-kromosomene har recessivt gen for fargesyn, mens for menn må kun ett av kromosomene ha dette, da det kun er ett X-kromosom. Derfor er kvinner ofte bærere av denne egenskapen.
+
+![20250312T1317-fargeblindhet.png](Assets/20250312T1317-fargeblindhet.png)
