@@ -7,7 +7,7 @@ date: "2025-03-04"
 title: Levekår og demografi
 ---
 
-#samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]]
+#samfunnskunnskap [[20240819T0937-samfunnskunnskap|samfunnskunnskap]] [[20250311T1401-det-internasjonale-samfunnet|Det internasjonale samfunnet]]
 
 # levekår og demografi
 

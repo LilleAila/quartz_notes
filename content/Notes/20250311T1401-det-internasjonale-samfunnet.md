@@ -2,10 +2,13 @@
 id: 20250311T1401-det-internasjonale-samfunnet
 aliases:
   - det internasjonale samfunnet
+  - Det internasjonale samfunnet
 tags: []
 date: "2025-03-11"
 title: Det internasjonale samfunnet
 ---
+
+#samfunnskunnskap [[20240819T0937-samfunnskunnskap|Samfunnskunnskap]]
 
 # Det internasjonale samfunnet
 
@@ -50,3 +53,53 @@ Norge kan bestemme toll selv, hvis det er nødvendig.
 
 https://www.nho.no/tema/eos-og-internasjonal-handel/artikler/eos-avtalen--derfor-er-den-viktig-for-norge/10-fordeler-eos-avtalen-gir-oss/
 https://no.wikipedia.org/wiki/EØS
+
+### Oppgave - Konflikter med FN
+
+> [!NOTE] Oppgave
+> Individuelt arbeid: undersøk en konflikt der FN har / har hatt en sentral rolle. Bruk gjerne https://fn.no/konflikter som inspirasjonskilde til valg av konflikt.
+>
+> 1. Lag en oversikt over hvordan FN arbeider / arbeidet i dene konflikten.
+> 2. Hvilke råd og organisasjoner var involvert?
+> 3. Hva ble utfallet?
+
+Libanon. https://fn.no/konflikter/libanon
+
+Maktkamp mellom kristne, sunnimuslimer og sjiamuslimer
+Handler om identitet og politisk representasjon
+Også større maktkamp i Midtøsten (Israel, Syria, Iran og Saudi-Arabia)
+
+---
+
+Kontoret for FNs spesialkoordinator for Libanon (UNSCOL)
+Lederskap og koordinering for FNs arbeid i Libanon, holder til i Beirut
+
+Har hatt fredsstyrker i Libanon siden 23. mars 1978.
+Nøytral sone på grensen mellom Israel og Libanon
+Først satt inn for at Israel skulle trekke seg tilbake fra libanesisk område.
+
+Attentat på statsminister Rafiq Hariri i 2005
+FNs sikkerhetsråd opprettet undersøkelseskommisjon
+Avsluttet arbeid i 2009, Spesialdomstolen for Libanon i Haag åpnet samme år
+Mange forventet at Syria ville få skylden (men de fikk ikke)
+Domstolen ønsket å tiltale medlemmer fra Hizbollah
+Hizbollah og 8. mars-alliansen anklaget domstolen for å være en vestlig kampanje mot dem
+
+Norge
+Sendte først styrker til Libanon i 1978
+22 000 norske soldater frem til 1988, 21 mistet livet
+Bidro også i fredsoperasjon etter krigen mellom Israel og Hizbollah sommeren 2006
+Ikke lenger hatt noen i Libanon etter 2009
+
+Konflikt pågår fortsatt
+
+---
+
+FN sine oppgaver (generelt i alle konflikter):
+
+- fredsavtaler
+- humanitært arbeid
+- dokumentere krigen og menneskerettighetsbrudd
+- foreslå løsninger, megler
+- overvåke våpenhviler, sikre fred
+- ikke veldig mye makt, medlemsland må stemme (Syria med USA og Russland)

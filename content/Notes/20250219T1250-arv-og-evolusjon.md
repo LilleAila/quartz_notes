@@ -99,9 +99,9 @@ Det er ingen sammenheng mellom antall kromosomer og hvor avansert en organisme e
 | Blåhval  | 44         |
 | Mais     | 20         |
 
-## Formerin
+## Formering
 
-Alle levende organismer formerer seg. Nødvendig genetisk informasjon videreføres. Formering skjer kjønnet eller ukjønnet, og begge ulike måtene innebærer deling av celler. Måten kromosomene fordeles i cellekjernen, avkjør hvilken type celledeling det er.
+Alle levende organismer formerer seg. Nødvendig genetisk informasjon videreføres. Formering skjer kjønnet eller ukjønnet, og begge ulike måtene innebærer deling av celler. Måten kromosomene fordeles i cellekjernen, avgjør hvilken type celledeling det er.
 
 ### Ukjønnet formering
 
@@ -121,7 +121,7 @@ Kalles også reduksjonsdeling og meiose.
 Det skjer en befruktning ved at en eggcelle og en sædcelle (to kjønnsceller), smelter sammen.
 For at avkommet skal ha like mange kromosomer som foreldrene, inneholder kjønnsceller halvparten så mange kromosomer som andre celler i kroppen.
 
-Celledelingen som danner kjønnsceller, kalles reduksjonsdeling. Det started med at cellen lager en kopi av ale DNA-molekylene, men cellen går gjennom to runder med delinger. Resultatet er fire kjønnsceller med halvert kromosomtall, der cellene er genetisk ulike fra morcellen.
+Celledelingen som danner kjønnsceller, kalles reduksjonsdeling. Det started med at cellen lager en kopi av alle DNA-molekylene, men cellen går gjennom to runder med delinger. Resultatet er fire kjønnsceller med halvert kromosomtall, der cellene er genetisk ulike fra morcellen.
 
 ![20250305T1203-celledeling-mitose-meiose.png](Assets/20250305T1203-celledeling-mitose-meiose.png)
 
@@ -131,7 +131,7 @@ Celledelingen som danner kjønnsceller, kalles reduksjonsdeling. Det started med
 
 Vanlig celledeling kalles mitose, og gir to nøyaktige kopier av cellen. Det er mest aktiv på fosterstadiet, men celler blir produsert hele livet. Skal gi vekst, og erstatte gamle og slitte celler. Kalles også vekstdeling og gir to nøyaktige kopier av morcellen.
 
-Det foregår hele tiden i kroppen, unntatt i kjønnscellene. Tiden mellom celledelinger avhenger av vevstype, og øker med alder. Synlig vet at sår gror saktere, huden eldes.
+Det foregår hele tiden i kroppen, unntatt i kjønnscellene. Tiden mellom celledelinger avhenger av vevstype, og øker med alder. Synlig ved at sår gror saktere, huden eldes.
 
 Først blir arvestoffet kopiert, slik at kromosomene blir doble, til to like kromatider. Hvert doble kromosom kan deles på langs i sentromeren.
 
