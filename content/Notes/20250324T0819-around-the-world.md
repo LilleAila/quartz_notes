@@ -11,6 +11,8 @@ title: around the world
 
 # around the world
 
+https://docs.google.com/presentation/d/1R1tUxCy6cOZyRixnbaT_ocMdUjJJdKtnklCT92xhpBg/edit?usp=sharing
+
 English is a global language
 British empire
 Colonized many countries
@@ -120,3 +122,47 @@ USA dominating world in many ways
 20th often called the American Century
 Colonies gaining independence
 USA becoming economic superpower
+
+## James Cook and the colonization of Australia
+
+James Coook
+British explorer 1728 - 1779
+"Discovered" Australia
+Mapped out New Zealand
+
+(Asked if anyone knows anything about him)
+
+800 different peoples living in Australia, 780 000
+Lived in peace, 5 hour work days
+
+(Asks to research what the Australian flag means and connect it to the theme, convict felons, etc)
+
+Discovered in 1606
+Colonized 1778 (British lost the US, needed a place to send their prisoners)
+Many felons at that time, because of the industrial revolution. Machines took over peoples' jobs, which created a lot of poverty. Thus, many were forced to steal stuff, and felons were sent to places like Australia.
+
+Self governing commonwealth in 1901, full independence in in 1942
+
+Convict establishment created on the east coast.
+Colonies Western Australia, South Australia, Queensland, New South Wales, Victoria and Tasmania. These 6 went together and created the commonwealth of Australia in 1901, and then complete independence from Britain in 1942.
+
+Immigration
+Convicts transported from Britain and Ireland in 1877 - 1868.
+Led to increase in population
+
+Gold rush from 1851, gold was discovered.
+Gold discovered in Victoria.
+Population growth
+Ecoonomic growth
+
+NZ: Part of New South Wales until 1840
+1840 first british settlement in Wellington, NZ
+Came to an agreement with the native Maori - the treaty og waitangi
+Conflicts about the land breaking the treaty of waitangi, immigration impacting the maori.
+Became a part of the commonwealth in 1907, 6 years after australia.
+Commonwealth nation: mostly self-governed while being a part of the british empire.
+Higher position in the British empire.
+Independence in 1947
+
+https://en.wikipedia.org/wiki/Flag_of_Australia
+https://en.wikipedia.org/wiki/Australian_gold_rushes

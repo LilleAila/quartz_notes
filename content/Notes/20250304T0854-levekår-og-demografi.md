@@ -12,6 +12,7 @@ title: Levekår og demografi
 # levekår og demografi
 
 Demografi - befolkningslære (demo + grafi)
+Demos betyr befolkning, grafi betyr lære
 
 > [!NOTE] Mål
 > Undersøke ulike levekår i forskjellige deler av verden

@@ -46,7 +46,7 @@ Allusjon til trosbekjennelse fra kirken - "Jeg tror på Gud Fader (...)"
 
 ## Personifikasjon
 
-Gi nor livløst eller upersonlig menneskelige egenskaper
+Gi noe livløst eller upersonlig menneskelige egenskaper
 Understreker en følelse eller egenskap for noe abstrakt
 Døden fremstilles som en mann i svart kappe
 Abstrakte ting

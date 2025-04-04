@@ -40,3 +40,6 @@ Il faut travailler
 
 https://www.lawlessfrench.com/grammar/subjunctive/
 Il faut que + subjonctif
+
+Ne + verb + que - "bare"
+Je ne bois que de l'eau - Jeg drikker bare vann

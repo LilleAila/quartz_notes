@@ -11,9 +11,26 @@ title: standardavvik
 
 # standardavvik
 
+Enklest: største tall - minste tall, dele dette på 2. Får da varians på hvor mye verdiene varierer.
+Standardavviket er et bedre mål på dette.
+
 $$
 s = \sqrt{\frac{1}{n-1} \left[ \left( y_{1} - \bar{y} \right)^{2} + \left( y_{2} - \bar{y} \right)^{2} + \dots + \left( y_{n} - \bar{y} \right)^{2} \right]}
 $$
+
+Hvis man har et utvalg av datasettet, bruker man summen av alle differanser mellom tallet og gjennomsnittet (kan bli både positivt og negativt), kvadrert, dele dette på antall verdier, og ta kvadratroten.
+
+Hvis man ikke vet alle måledataene, men har et gjennomsnitt, deler man på antall målinger - 1 ($n-1$). Dette kalles $s$. Med en kjent verdi man skal se varians rundt, deler man på antall målinger ($n$). Dette kalles $\sigma$
+
+## Standardfeil
+
+Mål på hvor stor feilmargin man har.
+
+$$
+SE = \frac{s}{\sqrt{n}}
+$$
+
+Lavere standardfeil tilsvarer mer nøyaktig data.
 
 ## Oppgave 7.38 - forsøk
 
