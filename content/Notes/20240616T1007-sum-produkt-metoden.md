@@ -1,17 +1,15 @@
 ---
 id: 20240616T1007-ken-metoden
 aliases:
-  - ken-metoden
+  - Sum / produkt - metoden
 tags: []
 date: "2024-06-16"
-title: Ken-metoden
+title: Sum / produkt - metoden
 ---
 
 #matte [[20240616T1007-matte|matte]] [[20240616T1007-faktorisering|faktorisering]] [[20240616T1007-andregradslikning|andregradslikning]]
 
-# Ken-metoden
-
-(jeg vet ikke hva den egentlig heter)
+# Sum / produkt - metoden
 
 I uttrykket
 

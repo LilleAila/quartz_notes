@@ -3,8 +3,8 @@ id: 20241028T1011-derivasjonsregler
 aliases:
   - derivasjonsregler
 tags: []
+date: "2024-10-28"
 title: Derivasjonsregler
-date: 2024-10-28
 ---
 
 #matte [[20240616T1007-derivasjon|derivasjon]] [[20241028T1009-definisjonen-av-den-deriverte|definisjonen av den deriverte]]
@@ -24,7 +24,8 @@ $$
 	\left(\cos x\right)' &= -\sin x \\
 	\left( e^{ax} \right)' &= ae^{ax} & \\
 	\left( \ln{x} \right)' &= \frac{1}{x} & \\
-	\left( \log_{n}x \right)' &= \frac{1}{x\ln{n}} &
+	\left( \log_{n}x \right)' &= \frac{1}{x\ln{n}} & \\
+	\left( \sqrt{x} \right)' &= \frac{1}{2 \sqrt{x}} &
 \end{align}
 $$
 
