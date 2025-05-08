@@ -11,7 +11,7 @@ title: Assistert befruktning
 
 # Assistert befruktning
 
-Samlebetegnelse på medisinske metoder som brukes for å befrukte eggceller. 1015% av norske par har vanskeligheter med å få barn på vanlig måte fordi en av partene ikke er befruktningsdyktig. (dårlig sædkvalitet, tette eggledere, problemer med eggløsningen etc). Det er da mulig for paret å søke om assistert befruktning, og 60-70% lykkes med å få barn.
+Samlebetegnelse på medisinske metoder som brukes for å befrukte eggceller. 10-15% av norske par har vanskeligheter med å få barn på vanlig måte fordi en av partene ikke er befruktningsdyktig. (dårlig sædkvalitet, tette eggledere, problemer med eggløsningen etc). Det er da mulig for paret å søke om assistert befruktning, og 60-70% lykkes med å få barn.
 
 - Prøverørsbefruktning / in vitro-fertilisering (IVF)
   Befruktningen skjer utenfor kvinnens kropp, i et laboratorium. Ved vanlig prøverørsbefruktning tilsetter man flere tusen sædceller i en petriskål som inneholder modne eggceller.
