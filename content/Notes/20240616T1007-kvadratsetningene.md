@@ -7,7 +7,7 @@ date: "2024-06-16"
 title: Kvadratsetningene
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-faktorisering|faktorisering]] [[20240616T1007-fullstendig-kvadrat|fullstendig kvadrat]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-faktorisering|faktorisering]] [[20240616T1007-fullstendig-kvadrat|fullstendig kvadrat]]
 
 # Kvadratsetningene
 

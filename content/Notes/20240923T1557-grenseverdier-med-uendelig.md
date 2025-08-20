@@ -7,7 +7,7 @@ title: Grenseverdier med uendelig
 date: 2024-09-23
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240916T0853-grenseverdi|grenseverdi]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240916T0853-grenseverdi|grenseverdi]]
 
 # Grenseverdier med uendelig
 

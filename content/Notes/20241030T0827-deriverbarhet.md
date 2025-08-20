@@ -18,10 +18,10 @@ f' \left( x \right) = \lim_{h \to 0} \frac{f \left( x + h \right) - f \left( x \
 $$
 
 $$
-f' \left( x \right) = \lim_{x \to a} \frac{f \left( a + x - a \right) - f \left( a \right)}{}
+f' \left( x \right) = \lim_{x \to a} \frac{f \left( a + x - a \right) - f \left( a \right)}{x-a}
 $$
 
-$h$ er avstanden mellom $a$ og $x$, så vi kan skrive det som:
+$h$ er avstanden mellom $a$ ©og $x$, så vi kan skrive det som:
 
 $$
 \lim_{x \to a} \frac{f \left( x \right) - f \left( a \right)}{x - a}

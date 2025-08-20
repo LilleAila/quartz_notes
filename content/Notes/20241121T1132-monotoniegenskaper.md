@@ -7,7 +7,7 @@ date: "2024-11-21"
 title: Monotoniegenskaper
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-derivasjon|derivasjon]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-derivasjon|derivasjon]]
 
 # monotoniegenskaper
 

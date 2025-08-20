@@ -2,6 +2,7 @@
 id: 20240616T1007-uregelrette-verb
 aliases:
   - uregelrette verb
+  - Franske uregelrette verb
 tags: []
 date: "2024-06-16"
 title: Franske uregelrette verb

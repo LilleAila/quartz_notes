@@ -8,7 +8,7 @@ title: Sammensatte funksjoner
 date: 2024-11-04
 ---
 
-#matte [[20240616T1007-matte|matte]]
+#matte [[20240616T1007-matte-r1|matte]]
 
 # sammensatte funksjoner
 

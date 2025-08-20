@@ -8,7 +8,7 @@ title: Absoluttverdi
 date: 2024-09-09
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-funksjon|funksjon]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-funksjon|funksjon]]
 
 # absoluttverdi
 

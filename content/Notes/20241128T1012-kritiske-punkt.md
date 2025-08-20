@@ -7,7 +7,7 @@ title: Kritiske punkt
 date: 2024-11-28
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-derivasjon|derivasjon]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-derivasjon|derivasjon]]
 
 # kritiske punkt
 

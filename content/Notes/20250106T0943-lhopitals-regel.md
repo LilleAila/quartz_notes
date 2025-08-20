@@ -7,7 +7,7 @@ date: "2025-01-06"
 title: L'Hôpitals regel
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240916T0853-grenseverdi|grenseverdi]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240916T0853-grenseverdi|grenseverdi]]
 
 # L'Hôpitals regel
 

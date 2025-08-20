@@ -19,7 +19,7 @@ Refleksjon skjer når bølger treffer overgangen mellom to forskjellige stoffer.
 
 ## Brytning
 
-I overgangen mellom to stoffer vil bølgene også brytes. Et eksempel på dette er lys som går fra vann til luft. Ting som befinner seg i vann kan se ut som de er på en annen plass enn det de faktisk er, for eksempel en fisk i vannet. En åre kan se ut som den er knekt når man legger den i vannet. Dette er fordi lyset brytes. Brytning skjer fordi bølgene beveger seg i forskjellig fart i de ulike stoffene, og det fører til at retningen til bølgene blir endret. Elektromagnetiske bølger beveger seg med større fart i luft enn i cann og glass, og derfor blir lysstrålen brutt i overgangen mellom stoffene. Her er eksempler på det i vann:
+I overgangen mellom to stoffer vil bølgene også brytes. Et eksempel på dette er lys som går fra vann til luft. Ting som befinner seg i vann kan se ut som de er på en annen plass enn det de faktisk er, for eksempel en fisk i vannet. En åre kan se ut som den er knekt når man legger den i vannet. Dette er fordi lyset brytes. Brytning skjer fordi bølgene beveger seg i forskjellig fart i de ulike stoffene, og det fører til at retningen til bølgene blir endret. Elektromagnetiske bølger beveger seg med større fart i luft enn i vann og glass, og derfor blir lysstrålen brutt i overgangen mellom stoffene. Her er eksempler på det i vann:
 
 ![20240830T0732-vann-lys-brytning.png](Assets/20240830T0732-vann-lys-brytning.png)
 

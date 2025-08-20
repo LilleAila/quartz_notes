@@ -7,7 +7,7 @@ date: "2024-06-16"
 title: Ekstremalpunkt
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-funksjon|funksjoner]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-funksjon|funksjoner]]
 
 # Ekstremalpunkt
 

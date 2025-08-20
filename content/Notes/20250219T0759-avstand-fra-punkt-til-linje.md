@@ -18,7 +18,7 @@ Avstanden fra punkt $P$ til en linje $m$ er definert som den korteste avstanden 
 > [!NOTE]
 > En linje $m$ går gjennom punktene $A \left( 1, -1 \right)$ og $B \left( 4, 8 \right)$. Finn avstanden fra punktet $P \left( 6, 4 \right)$ til linjen $m$.
 
-![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 09.02.06.excalidraw]]
+![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 09.02.06.excalidraw.svg]]
 
 Vet at vinkelen mellom $PQ$ og $AB$ er $90\degree$, altså er vektorene ortogonale og $\vec{PQ} \perp \vec{AB}$
 Vet også at punktet $Q$ ligger på linjen m, altså er $\vec{AQ} \parallel \vec{AB}$, så man kan gange det med en konstant for å få $\vec{AB}$
@@ -71,7 +71,7 @@ Avstanden fra $P$ til $m$ er $\sqrt{10}$.
 
 Finn avstanden mellom punktet $P \left( 2, 6 \right)$ og linjen $m$ gjennom $A \left( 1, 1 \right)$ og $B \left( 7, 5 \right)$.
 
-![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 09.29.20.excalidraw]]
+![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 09.29.20.excalidraw.svg]]
 
 $$
 \begin{align}
@@ -166,7 +166,7 @@ $$
 A = \frac{1}{2} gh
 $$
 
-![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 10.01.12.excalidraw]]
+![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 10.01.12.excalidraw.svg]]
 
 $$
 \begin{align}
@@ -209,7 +209,7 @@ $$
 \frac{1}{2} \cdot \left| \vec{u} \right| \cdot \left| \vec{v} \right| \cdot \sin{\alpha}
 $$
 
-![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 10.13.55.excalidraw]]
+![[20250219T0759-avstand-fra-punkt-til-linje 2025-02-19 10.13.55.excalidraw.svg]]
 
 Sinus til en vinkel er lik cosinus til komplementærvinkelen (forklares i R2). Dermed får vi
 

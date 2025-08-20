@@ -7,7 +7,7 @@ title: Funksjoner med delt forskrift
 date: 2024-09-09
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-funksjon|funksjon]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-funksjon|funksjon]]
 
 # Funksjoner med delt forskrift
 

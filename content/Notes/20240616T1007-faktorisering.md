@@ -7,7 +7,7 @@ date: "2024-06-16"
 title: Faktorisering
 ---
 
-#matte [[20240616T1007-matte|matte]]
+#matte [[20240616T1007-matte-r1|matte]]
 
 # Faktorisering
 
@@ -19,7 +19,7 @@ $$
 (x-x_{1})(x-x_{2})
 $$
 
-, der $x_{1}$ og $x_{2}$ er løsningene på likningen. Den kan løses for eksempel ved hjelp av [[20240616T1007-abc-formelen|abc-formelen]], [[20240616T1007-ken-metoden|ken-metoden]].
+, der $x_{1}$ og $x_{2}$ er løsningene på likningen. Den kan løses for eksempel ved hjelp av [[20240616T1007-abc-formelen|abc-formelen]], [[20240616T1007-sum-produkt-metoden|ken-metoden]].
 
 ## Eksempel med [[20240616T1007-abc-formelen|abc-formelen]]
 

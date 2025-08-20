@@ -7,7 +7,7 @@ title: Kjerneregelen
 date: 2024-11-11
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20241104T1155-sammensatte-funksjoner|sammensatte funksjoner]] [[20240616T1007-derivasjon|derivasjon]] [[20241028T1011-derivasjonsregler|derivasjonsregler]]
+#matte [[20240616T1007-matte-r1|matte]] [[20241104T1155-sammensatte-funksjoner|sammensatte funksjoner]] [[20240616T1007-derivasjon|derivasjon]] [[20241028T1011-derivasjonsregler|derivasjonsregler]]
 
 # kjerneregelen
 

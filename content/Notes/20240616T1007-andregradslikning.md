@@ -7,7 +7,7 @@ date: "2024-06-16"
 title: Andregradslikninger
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-likning|likning]] [[20240616T1007-andregradsfunksjon|andregradsfunksjon]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-likning|likning]] [[20240616T1007-andregradsfunksjon|andregradsfunksjon]]
 
 # Andregradslikninger
 
@@ -17,7 +17,7 @@ $$
 ax^2 + bx + c = 0
 $$
 
-Disse kan løses ved hjelp av [[20240616T1007-abc-formelen|abc-formelen]], [[20240616T1007-fullstendig-kvadrat|fullstendig kvadrat]] eller [[20240616T1007-ken-metoden|ken-metoden]].
+Disse kan løses ved hjelp av [[20240616T1007-abc-formelen|abc-formelen]], [[20240616T1007-fullstendig-kvadrat|fullstendig kvadrat]] eller [[20240616T1007-sum-produkt-metoden|ken-metoden]].
 
 Her er et eksempel på en [[20240616T1007-andregradsfunksjon|andregradsfunksjon]]. Løsningen på $f(x)=0$, blir $x$-verdiene der grafen krysser $x$-aksen.
 

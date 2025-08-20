@@ -7,7 +7,7 @@ title: Produktregelen
 date: 2024-06-16
 ---
 
-#matte [[20240616T1007-matte|matte]] [[20240616T1007-derivasjon|derivasjon]] [[20241028T1011-derivasjonsregler|derivasjonsregler]]
+#matte [[20240616T1007-matte-r1|matte]] [[20240616T1007-derivasjon|derivasjon]] [[20241028T1011-derivasjonsregler|derivasjonsregler]]
 
 # Produktregelen
 
