@@ -2,6 +2,7 @@
 id: 20240616T1007-andregradslikning
 aliases:
   - andregradslikning
+  - Andregradslikninger
 tags: []
 date: "2024-06-16"
 title: Andregradslikninger
