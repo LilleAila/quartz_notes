@@ -27,3 +27,21 @@ Man skal oppgi svaret med riktig antall gjeldende siffer, men bør likevel bruke
 - Når vi multipliserer eller dividerer størrelser, skal svaret ha like mange gjeldende siffer som størrelsen med færrest gjeldende siffer
 - Når vi subtraherer eller adderer størrelser, skal svaret ha like mange desimaler som størrelsen med færrest desimaler
 - Antall som man vet nøyaktig hvor store er, for eksempel $2$, $\frac{1}{2}$ eller $\pi$, teller ikke med i usikkerhetsvurderingen.
+
+### Eksempel
+
+$$
+293 \pm 20
+$$
+
+Man kan ikke si noe sikkert om $3$ med $20$ som usikkerheten, må derfor skrive
+
+$$
+290 \pm 20
+$$
+
+, men her vet man ikke om $0$ er nøyaktig og skriver derfor på standardform
+
+$$
+2.9 \cdot 10 ^{2} \pm 20
+$$

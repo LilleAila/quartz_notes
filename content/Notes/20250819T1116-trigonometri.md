@@ -97,12 +97,22 @@ $$
 
 ## Radianer
 
-Grader gir lite mening og 360 er ikke basert på noe. Vi bruker heller $\pi$ som et mål på vinkler. Dette kalles radianer, og er basert på forholdet mellom $\pi$ og radius på sirkelen.
+Grader gir lite mening og 360 er ikke basert på noe. Vi bruker heller $\pi$ som et mål på vinkler. Dette kalles radianer, og er basert på forholdet mellom $\pi$ og radius på en enhetssirkel. Det tilsvarer lengden på den delen av sirkelen som er innenfor vinkelen, altså blir $360 \degree = 2\pi$. Forholdet mellom buelengden og radius på sirkelen er absolutt vinkelmål.
+
+$$
+u = \frac{b}{r}
+$$
+
+Radianer er et enhetsløst tall uten enhet, da buelengden og radius måles i samme enhet. Derfor kalles dette absolutt vinkelmål. Radianer må ikke nødvendigvis inneholde $\pi$, men det er vanligvis det i eksakte løsninger. For å omgjøre til grader, erstatter man $\pi$ med $180 \degree$.
 
 $$
 \begin{align}
-  180 \degree &= \pi & \\
+  0 \degree &= 0 & \\
+  30 \degree &= \frac{\pi}{6} & \\
+  45 \degree &= \frac{\pi}{4} & \\
+  60 \degree &= \frac{\pi}{3} & \\
   90 \degree &= \frac{\pi}{2} & \\
+  180 \degree &= \pi & \\
   360 \degree &= 2\pi &
 \end{align}
 $$
