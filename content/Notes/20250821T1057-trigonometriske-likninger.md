@@ -6,7 +6,7 @@ tags: []
 date: "2025-08-21"
 title: trigonometriske likninger
 ---
-o
+
 #matte [[20250819T1116-trigonometri|trigonometri]] [[20240616T1007-likning|Likninger]]
 
 # trigonometriske likninger
@@ -163,6 +163,48 @@ $$
 $$
 
 Løsningene i intervallet $\left[ 0 \degree, 360 \degree \right\rangle$ er $v = 45 \degree \lor v = 315 \degree$.
+
+## Tangens
+
+Gjøres på samme måte som de andre. Hvis man har en løsning for tangens i første kvadrant, vil man også ha en løsning i tredje kvadrant ($\pi + u$). Dette er på grunn av definisjonen $\displaystyle \frac{\sin{u}}{\cos{u}}$.
+
+Tangens kan også defineres som $\displaystyle \frac{\text{motstående}}{\text{hosliggende}}$ i trekanter. Hvis vi da lager en trekant slik at den hosliggende kateten er lik $1$, kan vi lese av $\tan{u}$ som $y$-koordinaten:
+
+![[20250821T1057-trigonometriske-likninger 2025-08-28 10.42.12.excalidraw.svg]]
+
+Noen ganger kan andre likninger skrives om til tangenslikninger:
+
+$$
+\begin{align}
+  \sin{u} + \cos{u} &= 0 & \\
+  \frac{\sin{u}}{\cos{u}} &= \frac{- \cos{u}}{\cos{u}} & \\
+  \tan{u} &= -1 &
+\end{align}
+$$
+
+Man trenger kun én generell løsning med $+ 180 \degree \cdot n$ (eller $+ pi \cdot n$), i stedet for to slik som med $\sin$ og $\cos$:
+
+$$
+\begin{align}
+  \tan{u} &= 1 & \\
+  u &= \tan^{-1}{\left( 1 \right)} & \\
+  u &= 45 \degree + 180 \degree \cdot n & \\
+  &= \frac{\pi}{4} + \pi \cdot n &
+\end{align}
+$$
+
+## Andre uttrykk inne i funksjonen
+
+(merk at mengden $\left[ 0, 4 \right]$ er oppgitt i radianer, selv om det ikke inneholder $\pi$)
+
+$$
+\begin{align}
+  \sin{\left( \pi x \right)} &= \frac{1}{2}, x \in \left[ 0, 4 \right] & \\
+  \pi x &= \sin^{-1}{\frac{1}{2}} & \\
+  \pi x = \frac{\pi}{6} + 2 \pi \cdot n &\lor \pi x = \frac{5\pi}{6} + 2 \pi \cdot n & \\
+  x = \frac{1}{6 + 2n} &\lor x = \frac{5}{6 + 2n} &
+\end{align}
+$$
 
 # Oppgaver (s. 32)
 
@@ -357,3 +399,280 @@ $$
   u = \frac{\pi}{3} &\lor u = \frac{5\pi}{3} &
 \end{align}
 $$
+
+## 1.27
+
+Vi har gitt likningen $\tan{v}=1$. Løs likningen når
+
+**a**
+
+$v \in \mathbb{R}$
+
+$$
+\begin{align}
+  \tan{v} &= 1 & \\
+  v &= \tan^{-1}{v} & \\
+  v &= \frac{\pi}{4} + \pi \cdot n = 45 \degree + 180 \degree \cdot n &
+\end{align}
+$$
+
+**b**
+
+$v \in \left[ 0 \degree, 360 \degree \right\rangle$
+
+Bruker verdiene av $n$ der resultatet blir $< 360 \degree$:
+
+$$
+v = 45 \degree \lor v = 225 \degree
+$$
+
+**c**
+
+$v \in \left[ 0, 2 \pi \right\rangle$
+
+Samme som forrige, men i radianer.
+
+$$
+v = \frac{\pi}{4} \lor v = \frac{5 \pi}{4}
+$$
+
+## 1.28
+
+Løs likningene
+
+**a**
+
+$$
+\begin{align}
+  3 \tan{v} &= \sqrt{3}, v \in \left[ 0 \degree, 360 \degree \right\rangle & \\
+  \tan{v} &= \frac{\sqrt{3}}{3} = \frac{1}{\sqrt{3}} & \\
+  v &= 30 \degree + 180 \degree \cdot n & \\
+  v &= 30 \degree \lor v = 210 \degree &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sqrt{3} \tan{v} &= -3, v \in \left[ - \pi, \pi \right\rangle & \\
+  \tan{v} &= - \frac{\sqrt{3}}{3} = - \sqrt{3} & \\
+  v &= \frac{2\pi}{3} + \pi \cdot n, n \in \mathbb{Z} & \leftarrow \text{den siste delen der er ikke egentlig nødvendig} \\
+  v &= \frac{-\pi}{3} \lor v = \frac{2\pi}{3} &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  \tan{v} &= 0, v \in \left[ -180 \degree, 180 \degree \right\rangle & \\
+  v &= 0 \degree + 180 \degree \cdot n & \\
+  v &= -180 \degree \lor v = 0 \degree &
+\end{align}
+$$
+
+## 1.29
+
+**a**
+
+$$
+\begin{align}
+  \tan{v} &= 0.5, v \in \left[ 0, 2\pi \right\rangle & \\
+  v &= \tan^{-1}{\left( 0.5 \right)} \approx 0.463 + \pi \cdot n & \\
+  v &\approx 0.463 \lor v \approx 3.605 &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  3 \tan{v} &= -2, v \in \left[ 0 \degree, 360 \degree \right] & \\
+  \tan{v} &= - \frac{2}{3} & \\
+  v &\approx 33.69 \degree + 180 \degree \cdot n & \\
+  v &\approx 33.69 \degree \lor v \approx 213.69 &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  5 \tan{v} &= 7, v \in \left[ - \pi, \pi \right\rangle & \\
+  \tan{v} &= \frac{7}{5} & \\
+  v &\approx 0.95 + \pi \cdot n & \\
+  v &\approx -2.19 \lor v \approx 0.95 &
+\end{align}
+$$
+
+**d**
+
+$$
+\begin{align}
+  \tan{v} &= 0.36, v \in \left[ -180 \degree, 180 \degree \right\rangle & \\
+  v &\approx 19.79 \degree + 180 \degree \cdot n & \\
+  v &\approx -160.21 \degree \lor v \approx 19.79 \degree &
+\end{align}
+$$
+
+## 1.98
+
+Vi har gitt likningen $\tan{v} = -1$. Løs likningen når
+
+**a**
+
+$v \in \mathbb{R}$
+
+$$
+\begin{align}
+  \tan{v} &= -1 & \\
+  v &= \frac{3\pi}{4} + \pi \cdot n &
+\end{align}
+$$
+
+**b**
+
+$v \in \left[ 0 \degree, 360 \degree \right\rangle$
+
+$$
+\begin{align}
+  v &= 135 \degree + 180 \degree \cdot n & \\
+  v &= 135 \degree \lor v = 315 \degree &
+\end{align}
+$$
+
+**c**
+
+$v \in \left[ 0, 2 \pi \right\rangle$
+
+$$
+\begin{align}
+  v &= \frac{3\pi}{4} + \pi \cdot n & \\
+  v &= \frac{3\pi}{4} \lor v = \frac{7\pi}{4} &
+\end{align}
+$$
+
+## 1.99
+
+Løs likningene:
+
+**a**
+
+$$
+\begin{align}
+  \tan{v} &= \frac{\sqrt{3}}{3}, v \in \left[ 0, 2\pi \right\rangle & \\
+  \tan{v} &= \frac{1}{\sqrt{3}} & \\
+  v &= \frac{\pi}{6} + \pi \cdot n & \\
+  v &= \frac{\pi}{6} \lor v = \frac{7\pi}{6} &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sqrt{3} \tan{v} - 3 &= 0, v \in \left[ -360 \degree, 0 \degree \right\rangle & \\
+  \tan{v} &= \frac{3}{\sqrt{3}} = \sqrt{3} & \\
+  v &= 60 \degree + 180 \degree \cdot n & \\
+  v &= -300 \degree \lor v = -120 \degree &
+\end{align}
+$$
+
+## 1.100
+
+Løs likningene:
+
+**a**
+
+$$
+\begin{align}
+  3 \sin{\left( 2x \right)} &= 2, x \in \left[ -\pi, \pi \right\rangle & \\
+  \sin{\left( 2x \right)} &= \frac{2}{3} & \\
+  2x &= \sin^{-1}{\frac{2}{3}} & \\
+  2x \approx 0.7 + \pi \cdot n &\lor 2x \approx 2.4 + \pi \cdot n & \\
+  x \approx 0.35 + \frac{\pi}{2} \cdot n &\lor x \approx 1.2 + \frac{\pi}{2} \cdot n & \\
+  x \approx -2.79 \lor x \approx -1.22 &\lor x \approx 0.35 \lor x \approx 1.92 &
+  % 2x &\approx 41.8 \degree + 360 \degree \cdot n \lor 2x \approx 138.2 \degree + 360 \degree \cdot n & \\
+  % x &\approx 20.9 \degree + 180 \degree \cdot n \lor x \approx 69.1 \degree + 180 \degree \cdot n & \\
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  2 \cos{x} - 1 &= \frac{1}{4}, x \in \left[ 0 \degree, 360 \degree \right\rangle & \\
+  \cos{x} &= \frac{5}{8} & \\
+  x \approx 51.3 \degree + 360 \degree \cdot n &\lor x \approx 308.7 \degree + 360 \degree \cdot n & \\
+  x \approx 51.3 &\lor x \approx 308.7 &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  \tan{x} &= 3.47, x \in \left[ 0, 2 \pi \right\rangle & \\
+  x &\approx 1.29 + \pi \cdot n & \\
+  x &\approx 1.29 \lor x \approx 4.43 &
+\end{align}
+$$
+
+## 1.101
+
+Finn en generell løsning av likningene:
+
+**a**
+
+$$
+\begin{align}
+  2 \sin{\left( \frac{\pi}{8}x \right)} &= \sqrt{3} & \\
+  \sin{\left( \frac{\pi}{8}x \right)} &= \frac{\sqrt{3}}{2} & \\
+  \frac{\pi}{8}x = \frac{\pi}{3} + 2\pi \cdot n &\lor \frac{\pi}{8}x = \frac{2\pi}{3} + 2\pi \cdot n & \\
+  \pi x = \frac{8\pi}{3} + 16\pi \cdot n &\lor \pi x = \frac{16\pi}{3} + 16\pi \cdot n & \\
+  x = \frac{8}{3} + 16n &\lor x = \frac{16}{3} + 16n &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \cos{\left( 2x + \frac{\pi}{3} \right)} &= \frac{\sqrt{2}}{2} & \\
+  2x + \frac{\pi}{3} = \frac{\pi}{4} + 2\pi \cdot n &\lor 2x + \frac{\pi}{3} = \frac{7\pi}{4} + 2\pi \cdot n & \\
+  2x + \frac{4\pi}{12} = \frac{3\pi}{12} + 2\pi \cdot n &\lor 2x + \frac{4\pi}{12} = \frac{21\pi}{12} + 2\pi \cdot n & \\
+  2x = - \frac{\pi}{12} + 2\pi \cdot n &\lor 2x = \frac{17\pi}{12} + 2\pi \cdot n & \\
+  x = - \frac{\pi}{24} + \pi \cdot n &\lor x = \frac{17\pi}{24} + \pi \cdot n &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  \sin{\left( 3x - \frac{\pi}{4} \right)} &= - \frac{1}{2} & \\
+  3x - \frac{\pi}{4} &= \sin^{-1}{\left( - \frac{1}{2} \right)} & \\
+  3x - \frac{\pi}{4} &= -\sin^{-1}{\left( \frac{1}{2} \right)} & \\
+  3x - \frac{\pi}{4} = - \frac{\pi}{6} + 2\pi \cdot n &\lor 3x - \frac{\pi}{4} = - \frac{5\pi}{6} + 2\pi \cdot n & \\
+  3x - \frac{3\pi}{12} = - \frac{2\pi}{12} + 2\pi \cdot n &\lor 3x - \frac{3\pi}{12} = - \frac{10\pi}{12} + 2\pi \cdot n & \\
+  3x = \frac{\pi}{12} + 2\pi \cdot n &\lor 3x = - \frac{7\pi}{12} + 2\pi \cdot n & \\
+  x = \frac{\pi}{36} + \frac{2}{3} \pi \cdot n &\lor x = - \frac{7\pi}{36} + \frac{2}{3} \pi \cdot n &
+\end{align}
+$$
+
+## 1.102
+
+Hvor mange løsninger kan likningen under maksimalt ha?
+
+$$
+\tan{\left( 3u + \frac{\pi}{6} \right)} = 0.6, u \in \left[ 0, 20\pi \right\rangle
+$$
+
+$2\pi$ tilsvarer ett omløp, altså er $20\pi$ lik $10$ omløp. En likning på formen $\tan{x} = y$ kan ha to løsninger i hvert omløp. Her er $u$ multiplisert med $3$, så det finnes tre ganger så mange løsninger.
+
+$$
+10 \cdot 2 \cdot 3 = 60
+$$
+
+Likningen kan maksimalt ha $60$ løsninger.

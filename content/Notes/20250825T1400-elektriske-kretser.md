@@ -53,7 +53,9 @@ Motstand fargekodes slik:
 
 ![motstand](Assets/20250825T1415-motstand.png)
 
-### Motstand i seriekobling
+## Seriekobling
+
+### Motstand
 
 Motstanden i en seriekobling er lik summen av motstanden til de ulike komponentene.
 
@@ -61,13 +63,21 @@ $$
 R = R_{1} + R_{2} + \dots + R_{n}
 $$
 
-### Motstand i parallellkobling
+## Parallellkobling
+
+### Motstand
 
 Motstanden i en parallellkobling er gitt ved formelen
 
 $$
 R = \left( \frac{1}{R_{1}} + \frac{1}{R_{2}} + \dots + \frac{1}{R_{n}} \right)^{-1}
 $$
+
+For eksempel, hvis man har to like motstander koblet parallelt, vil den totale motstanden være halvparten så mye som en enkelt motstand, fordi strømmen har dobbelt så mange veier å gå.
+
+Totalresistansen $R$ i en parallellkobling er alltid mindre enn den minste av de tilkoblede resistansene.
+
+---
 
 I en krets med to parallellkoblede motstander på $220 \Omega$, vil den totale motstanden være
 
@@ -98,6 +108,14 @@ Beskriver forholdet mellom strøm, spenning og motstand. Formelen for motstand u
 $$
 U = I \cdot R
 $$
+
+### Strøm
+
+Strømmen $I$ i en parallellkobling er lik summen av av alle strømmene. I et grenpunkt er summen av alle inngående strømmer lik summen av alle utgående strømmer.
+
+### Spenning
+
+Delspenningene i en parallellkobling er alltid lik hovedspenningen
 
 ## Koblingsbrett
 
