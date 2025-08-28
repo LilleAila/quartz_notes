@@ -39,13 +39,13 @@ En spenningskilde som leverer konstant psenning kalles en likespenningskilde (DC
 
 ## Motstand
 
-Motstand beskriver hvor lett ladningen kan strømme gjennom en leder. En tykk kobbertråd vil ha lavere motstand, enn en tynn kobbertråd. I tillegg til en lengre tråd ha høyere motstand enn en kortere tråd. Som mål for motstanden i et materiale, bruker vi resistans (symbol $R$, måles i $\ohm$).
+Motstand beskriver hvor lett ladningen kan strømme gjennom en leder. En tykk kobbertråd vil ha lavere motstand, enn en tynn kobbertråd. I tillegg til en lengre tråd ha høyere motstand enn en kortere tråd. Som mål for motstanden i et materiale, bruker vi resistans (symbol $R$, måles i $\Omega$).
 
 $$
 R = \frac{U}{I}
 $$
 
-Det vil si at $1 \ohm = 1 \frac{V}{A}$
+Det vil si at $1 \Omega = 1 \frac{V}{A}$
 
 En krets blir kortsluttet hvis man ikke har noe motstand mellom polene på spenningskilden. Dette er ikke ønskelig og vil skape mye varme og tømme batteriet for ladning. Man vil derfor ha en motstand i kretsen.
 
@@ -69,14 +69,14 @@ $$
 R = \left( \frac{1}{R_{1}} + \frac{1}{R_{2}} + \dots + \frac{1}{R_{n}} \right)^{-1}
 $$
 
-I en krets med to parallellkoblede motstander på $220 \ohm$, vil den totale motstanden være
+I en krets med to parallellkoblede motstander på $220 \Omega$, vil den totale motstanden være
 
 $$
 \begin{align}
-  R &= \left( \frac{1}{220\ohm} + \frac{1}{220 \ohm} \right)^{-1} & \\
-  &= \left( \frac{2}{220\ohm} \right)^{-1} & \\
-  &= \frac{220\ohm}{2} & \\
-  &= 110\ohm &
+  R &= \left( \frac{1}{220\Omega} + \frac{1}{220 \Omega} \right)^{-1} & \\
+  &= \left( \frac{2}{220\Omega} \right)^{-1} & \\
+  &= \frac{220\Omega}{2} & \\
+  &= 110\Omega &
 \end{align}
 $$
 
@@ -85,7 +85,7 @@ Bruker et batteri med en kjent spenning på $9V$. Kan da bruke ohms lov til å f
 $$
 \begin{align}
   I &= \frac{U}{R} & \\
-  &= \frac{9 V}{110 \ohm} & \\
+  &= \frac{9 V}{110 \Omega} & \\
   &\approx 0.081 A & \\
   &\approx 8 mA &
 \end{align}

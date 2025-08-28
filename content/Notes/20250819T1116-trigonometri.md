@@ -23,13 +23,13 @@ $$
 
 ## Viktige verdier
 
-| $\angle u \degree$ | $\sin u$             | $\cos u$             | $\tan u$             |
-| ------------------ | -------------------- | -------------------- | -------------------- |
-| $0 \degree$        | $0$                  | $1$                  | $0$                  |
-| $30 \degree$       | $\frac{1}{2}$        | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{3}}$ |
-| $45 \degree$       | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | $1$                  |
-| $60 \degree$       | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$        | $\sqrt{3}$           |
-| $90 \degree$       | $1$                  | $0$                  | udef                 |
+| $\angle u \degree$ | $\angle u$      | $\sin u$             | $\cos u$             | $\tan u$             |
+| ------------------ | --------------- | -------------------- | -------------------- | -------------------- |
+| $0 \degree$        | $0$             | $0$                  | $1$                  | $0$                  |
+| $30 \degree$       | $\frac{\pi}{6}$ | $\frac{1}{2}$        | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{3}}$ |
+| $45 \degree$       | $\frac{\pi}{4}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | $1$                  |
+| $60 \degree$       | $\frac{\pi}{3}$ | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$        | $\sqrt{3}$           |
+| $90 \degree$       | $\frac{\pi}{2}$ | $1$                  | $0$                  | udef                 |
 
 > [!NOTE]
 > Se s. 17 i læreboken

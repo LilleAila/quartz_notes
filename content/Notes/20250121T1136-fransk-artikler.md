@@ -55,7 +55,7 @@ Théo adore faire la cuisine. Souvent il fait des pizzas pour ses amis. Il aime 
 
 Son copain Amidou ne mange pas de jambon parce qu'il est musulman. Quand Amidou mange avec Théo, ils mangent des pizzas avec de la crème fraîche, de l'oignon, de l'ail, du fromage et du bœuf haché. Parfois il mettent de l'ananas sur la pizza.
 
-## Oppgave 6a
+## Oppgave 6a (p. 15)
 
 > [!NOTE] Oppgave
 > Vour êtes le professeur de français, et vous allez faire un petit cours sur les articles. Préparez-le avec de bons examples, et présentez-le à votre classe.

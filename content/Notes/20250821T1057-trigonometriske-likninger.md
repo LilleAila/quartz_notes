@@ -6,7 +6,7 @@ tags: []
 date: "2025-08-21"
 title: trigonometriske likninger
 ---
-
+o
 #matte [[20250819T1116-trigonometri|trigonometri]] [[20240616T1007-likning|Likninger]]
 
 # trigonometriske likninger
@@ -163,3 +163,197 @@ $$
 $$
 
 Løsningene i intervallet $\left[ 0 \degree, 360 \degree \right\rangle$ er $v = 45 \degree \lor v = 315 \degree$.
+
+# Oppgaver (s. 32)
+
+## 1.19
+
+Løs likningene når du får vite at vinklene ligger i første omløp. Oppgi svaret i grader.
+
+**a**
+
+$$
+\begin{align}
+  \sin{u} &= \frac{\sqrt{2}}{2} & \\
+  u &= \sin^{-1} \left( \frac{\sqrt{2}}{2} \right) & \leftarrow \text{denne linjen er ikke nødvendig for enkle uttrykk} \\
+  u = \frac{\pi}{4} + 2 \pi \cdot n &\lor u = \frac{3 \pi}{4} + 2 \pi \cdot n & \\
+  u < 2 \pi \implies & \underline{\underline{u = \frac{\pi}{4} \lor u = \frac{3 \pi}{4}}} & \text{oops jeg glemte i grader}
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sin{u} &= - \frac{1}{2} & \\
+  u &= \sin^{-1} \left( \frac{1}{2} \right) & \\
+  u = 210 \degree + 360 \degree \cdot n &\lor u = 330 \degree + 360 \degree \cdot n & \\
+  u < 360 \degree \implies & \underline{\underline{u = 210 \degree \lor u = 330 \degree}} &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  \sin{u} &= 1 & \\
+  u &= 90 \degree + 360 \degree \cdot n & \\
+  u < 360 \degree \implies & \underline{\underline{u = 90 \degree}} &
+\end{align}
+$$
+
+## 1.20
+
+Løs likningene:
+
+**a**
+
+$$
+\begin{align}
+  2 \sin{v} + \sqrt{2} &= 0, v \in \left[ 0, 2 \pi \right\rangle & \\
+  \sin{v} &= - \frac{\sqrt{2}}{2} & \\
+  v = \frac{5\pi}{4} + 2\pi \cdot n &\lor v = \frac{7\pi}{4} + 2\pi \cdot n & \\
+  v \in \left[ 0, 2\pi \right\rangle \implies & v = \frac{5\pi}{4} \lor v = \frac{7\pi}{4} &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sin{v} &= - \frac{\sqrt{3}}{2}, v \in \left[ 0 \degree, 360 \degree \right\rangle & \\
+  v = 150 \degree + 360 \degree \cdot n &\lor v = 300 \degree + 360 \degree \cdot n & \\
+  v \in \left[ 0 \degree, 360 \degree \right\rangle \implies & \underline{\underline{v = 150 \degree \lor v = 300 \degree}} &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  3 \sin{v} + 3 &= 0, v \in \left[ 0, 2 \pi \right\rangle & \\
+  \sin{v} &= 1 & \\
+  v &= \frac{\pi}{2} + 2\pi \cdot n & \\
+  v \in \left[ 0, 2 \pi \right\rangle \implies & \underline{\underline{v = \frac{\pi}{2}}} &
+\end{align}
+$$
+
+## 1.21
+
+**a**
+
+Grafisk: Bruker GeoGebra. Tegner opp en enhetssirkel (`Sirkel((0, 0), 1)`) og finner skjæringspunkter mellom $y=0.32$ og sirkelen. Finner deretter vinkelen med vinkel-verktøyet. Merk at resultatet blir i grader og må konverteres hvis svaret skal være i radianer. Dette kan gjøres globalt under "Algebra"-seksjonen i innstillinger.
+CAS: Løser likningssettet `sin(u)=0.32` og `u<2pi`
+
+**b**
+
+Grafisk: samme som forrige
+CAS: Samme som forrige, men konverterer til grader med å dele på `°` (alt+o)
+
+**c**
+
+Grafisk: samme som forrige. Merk at vinkelen skal måles slik at man velger punktene mot klokken.
+CAS: Samme som første
+
+**d**
+
+Grafisk: Ser at $3 \sin{u} = \frac{7}{2} \implies \sin{u} = \frac{7}{6}$. Vet at dette ikke vil gi noe gyldig svar, da verdien av $\sin{u}$ må være $\leq 1$. Hvis jeg fortsetter med å prøve å tegne en linje og finne skjæringspunkter, ser jeg at det ikke finnes noen løsning.
+CAS: Får ingen løsninger med `Løs({$1, $2})`
+
+## 1.22
+
+Tabellen viser tilnærmingsverdier for sinus til noen utvalgte vinkler. Vi bruker av $\pi \approx 3.14$.
+
+| $v$ (i grader) | $v$ (i radianer) | $\sin{v}$ |
+| -------------- | ---------------- | --------- |
+| $40 \degree$   | $0.70$           | $0.64$    |
+| $53 \degree$   | $0.93$           | $0.80$    |
+| $74 \degree$   | $1.29$           | $0.96$    |
+
+**a**
+
+$$
+\begin{align}
+  \sin{v} &= 0.8, v \in \left[ 0 \degree, 360 \degree \right\rangle & \\
+  v = 53 \degree &\lor v = 127 \degree &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sin{v} &= 0.64, v \in \left[ 0 \degree, 360 \degree \right\rangle & \\
+  v = 40 \degree &\lor v = 140 \degree &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  \sin{v} &= 0.96, v \in \left[ 0 \degree, 720 \degree \right\rangle & \\
+  v = 74 \degree \lor v = 106 \degree &\lor v = 434 \degree \lor v = 466 &
+\end{align}
+$$
+
+**d**
+
+$$
+\begin{align}
+  \sin{v} &= 0.8, v \in \left[ 0, 2 \pi \right\rangle & \\
+  v = 0.93 &\lor v = 2.21 &
+\end{align}
+$$
+
+**e**
+
+$$
+\begin{align}
+  \sin{v} &= 0.64, v \in \left[ -2 \pi, 0 \right\rangle & \\
+  v = -5.58 &\lor v = -3.84 &
+\end{align}
+$$
+
+**f**
+
+$$
+\begin{align}
+  \sin{v} &= 0.96, v \in \left[ 0, 2\pi \right] & \\
+  v = 1.29 &\lor v = 1.85 &
+\end{align}
+$$
+
+## 1.23
+
+Løs likningene
+
+**a**
+
+$$
+\begin{align}
+  \cos{u} &= \frac{\sqrt{3}}{2} & \\
+  u = \frac{\pi}{6} + 2\pi \cdot n &\lor u = \frac{11\pi}{6} + 2\pi \cdot n & \\
+  v \in \left[ 0, 2\pi \right] \implies &u = \frac{\pi}{6} \lor u = \frac{11\pi}{6} &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sqrt{2} \cos{u} + 2 &= 1, u \in \left[ 0 \degree, 360 \degree \right\rangle & \\
+  \cos{u} &= - \frac{\sqrt{2}}{2} & \\
+  u = 225 \degree &\lor u = 135 \degree &
+\end{align}
+$$
+
+**c**
+
+$$
+\begin{align}
+  2 \cos{u} - 1 &= 0, u \in \left[ 0, 2 \pi \right\rangle & \\
+  \cos{u} &= \frac{1}{2} & \\
+  u = \frac{\pi}{3} &\lor u = \frac{5\pi}{3} &
+\end{align}
+$$
