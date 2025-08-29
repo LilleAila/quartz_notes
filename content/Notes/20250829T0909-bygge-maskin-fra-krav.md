@@ -24,6 +24,8 @@ Da dette er en bedrift har jeg regnet med priser ekskludert MVA.
 - RAM
   Jeg har valgt 64GB (2x32GB) fordi dette skal være godt nok til 4K redigering. For at dette skal være raskest mulig, har jeg brukt DDR5-6000 og ikke noe tregere som DDR-4800 selv om dette er billigere.
   Å bruke to ramm-pinner er optimalt fordi dette blir raskere enn 4x16GB da det er færre kanaler å bytte mellom.
+- Strømforsyning
+  Alle komponentene bruker totalt like under 600W. Derfor velger jeg en 750W strømforsyning fordi strømforsyninger alltid jobber mest effektivt med opptil 80% ytelse, i tillegg til at dette gir litt rom for fremtidige oppgraderinger.
 - Lagring
   Kingston NV3 er ikke kjent for å være den beste SSD-en, men den er ganske grei og ikke veldig dårlig.
   Legger til 4TB med HDD lagring for ferdige prosjekter. Dette går litt over budsjettet.
