@@ -23,7 +23,7 @@ Da dette er en bedrift har jeg regnet med priser ekskludert MVA.
   Helst skulle jeg valgt et grafikkort fra AMD her, men jeg har valgt en RTX 5070 grunnet kompatibilitet. NVidia sine grafikkort er generelt kjent for å være bedre støttet enn AMD sine grafikkort for videoredigering. Dette gjelder spesielt i davinci resolve, men gjelder trolig også premiere pro.
 - RAM
   Jeg har valgt 64GB (2x32GB) fordi dette skal være godt nok til 4K redigering. For at dette skal være raskest mulig, har jeg brukt DDR5-6000 og ikke noe tregere som DDR-4800 selv om dette er billigere.
-  Å bruke to ramm-pinner er optimalt fordi dette blir raskere enn 4x16GB da det er færre kanaler å bytte mellom.
+  Å bruke to ram-pinner er optimalt fordi dette blir raskere enn 4x16GB da det er færre kanaler å bytte mellom.
 - Strømforsyning
   Alle komponentene bruker totalt like under 600W. Derfor velger jeg en 750W strømforsyning fordi strømforsyninger alltid jobber mest effektivt med opptil 80% ytelse, i tillegg til at dette gir litt rom for fremtidige oppgraderinger.
 - Lagring
