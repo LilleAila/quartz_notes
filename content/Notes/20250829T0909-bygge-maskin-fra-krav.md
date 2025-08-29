@@ -4,7 +4,7 @@ aliases:
   - Bygge maskin fra krav
 tags: []
 date: "2025-08-29"
-title: bygge-maskin-fra-krav
+title: Bygge maskin fra krav
 ---
 
 #it1 [[20250829T0902-it1|it1]]
