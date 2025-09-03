@@ -203,3 +203,19 @@ $$
 > Merk at CAS gir alltid den laveste vinkelen, så man må sette `v := 2pi - acos(-2/3)` for å få den riktige vinkelen, da denne har samme $\cos$-verdi. Legg merke til delen med `2pi -`
 
 ![[Pasted image 20250902120251.png]]
+
+## 1.38
+
+Vinkel $u$ ligger i tredje kvadrant, og $\tan{u} = \sqrt{3}$.
+
+**a**
+
+Bestem $\sin{u}$ og $\cos{u}$ ved regning.
+
+$$
+\begin{align}
+  \tan{u} &= \frac{\sin{u}}{\cos{u}} & \\
+  \frac{\sin{u}}{\cos{u}} &= \sqrt{3} &
+\end{align}
+$$
+
