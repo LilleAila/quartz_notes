@@ -60,7 +60,7 @@ Motstand fargekodes slik:
 Bruker et datasheet for en generell grønn LED (light-emitting diode): https://www.farnell.com/datasheets/2724776.pdf
 Det spiller ikke noen rolle nøyaktig hvilken.
 
-![[Pasted image 20250904085940.png]]
+![[Pasted image 20250904085940.png]],.
 
 Finner spenningstap (forward voltage, her $3.2\,\mathrm{V}$)
 Finner strøm (her $20\,\mathrm{mA}$)
