@@ -53,6 +53,54 @@ Motstand fargekodes slik:
 
 ![motstand](Assets/20250825T1415-motstand.png)
 
+### Finne riktig resistans
+
+> Skal finne riktig motstand til grønn diode
+
+Bruker et datasheet for en generell grønn LED (light-emitting diode): https://www.farnell.com/datasheets/2724776.pdf
+Det spiller ikke noen rolle nøyaktig hvilken.
+
+![[Pasted image 20250904085940.png]]
+
+Finner spenningstap (forward voltage, her $3.2\,\mathrm{V}$)
+Finner strøm (her $20\,\mathrm{mA}$)
+
+$$
+\begin{align}
+  V_{\text{total}} &= 9\,\mathrm{V} & \\
+  V_{\text{motstand}} &= V_{\text{total} - V_{\text{LED}}} & \\
+  &= 9\,\mathrm{V} - 3.2\,\mathrm{V} & \\
+  &= 5.8\,\mathrm{V} &
+\end{align}
+$$
+
+Vet da at det er $5.8\,\mathrm{V}$ igjen som må brukes i motstand. Bruker da ohms lov til å regne ut riktig resistans:
+
+$$
+\begin{align}
+  U &= IR & \\
+  R &= \frac{U}{I} & \\
+  &= \frac{5.8\,\mathrm{V}}{20\,\mathrm{mA}} & \\
+  &= \frac{5.8\,\mathrm{V}}{0.02\,\mathrm{A}} & \\
+  &= 290 \,\Omega &
+\end{align}
+$$
+
+> [!NOTE]
+> Merk at uttrykket kan forenkles som følger:
+>
+> $$
+> \frac{R_{\text{total}} - R_{\text{LED}}}{I}
+> $$
+>
+> For den grønne dioden og et $9\,\mathrm{V}$ blir det:
+>
+> $$
+> \frac{9\,\mathrm{V} - 3.2\,\mathrm{V}}{20\,\mathrm{mA}} = 290 \,\Omega
+> $$
+
+Man vil alltid heller ha for mye enn for lite motstand.
+
 ## Seriekobling
 
 ### Motstand
