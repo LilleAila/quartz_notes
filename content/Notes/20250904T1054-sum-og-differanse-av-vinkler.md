@@ -11,8 +11,6 @@ title: sum og differanse av vinkler
 
 # sum og differanse av vinkler
 
-## Definisjon ved skalarprodukt
-
 Tegner opp en enhetssirkel med to vinkler som vektorer fra $O$ til et punkt på sirkellinjen.
 
 ![[2025-09-04 2025-09-04 10.40.06.excalidraw.svg]]
@@ -107,3 +105,121 @@ $$
   &= 1 - 2 \sin^{2}{u} &
 \end{align}
 $$
+
+# Oppgaver (s. 50)
+
+## 1.45
+
+> Bestem eksakte verdier for
+
+**a**
+
+> $\sin{75\degree}$
+
+$$
+\begin{align}
+  \sin{75\degree} &= \sin{\left( 45 \degree + 30 \degree \right)} & \\
+  &= \sin{45\degree} \cdot \cos{30 \degree} + \cos{45 \degree} \cdot \sin{30 \degree} & \\
+  &= \frac{\sqrt{2}}{2} \cdot \frac{\sqrt{3}}{2} + \frac{\sqrt{2}}{2} \cdot \frac{1}{2} & \\
+  &= \frac{\sqrt{6} + \sqrt{2}}{4} &
+\end{align}
+$$
+
+**b**
+
+> $\cos{75 \degree}$
+
+$$
+\begin{align}
+  \cos{75\degree} &= \cos{\left( 45\degree + 30 \degree \right)} & \\
+  &= \cos{45\degree} \cdot \cos{30\degree} - \sin{45\degree} \cdot \sin{30\degree} & \\
+  &= \frac{\sqrt{2}}{2} \cdot \frac{\sqrt{3}}{2} - \frac{\sqrt{2}}{2} \cdot \frac{1}{2} & \\
+  &= \frac{\sqrt{6} - \sqrt{2}}{4} &
+\end{align}
+$$
+
+**c**
+
+> $\tan{75 \degree}$
+
+$$
+\begin{align}
+  \tan{75 \degree} &= \frac{\sin{75 \degree}}{\cos{75\degree}} & \\
+  &= \frac{\frac{\sqrt{6} + \sqrt{2}}{4}}{\frac{\sqrt{6} - \sqrt{2}}{4}} & \\
+  &= \frac{\sqrt{6} + \sqrt{2}}{\sqrt{6} - \sqrt{2}} & \\
+  &= \frac{\left( \sqrt{6} + \sqrt{2} \right)^{2}}{\sqrt{6}^{2} - \sqrt{2}^{2}} & \\
+  &= \frac{6 + 2 \sqrt{12} + 2}{4} & \\
+  &= 2 + \frac{\sqrt{12}}{4} & \\
+  &= 2 + \sqrt{3} &
+\end{align}
+$$
+
+## 1.46
+
+> Bestem eksakte verdier for
+
+**a**
+
+> $\sin{105 \degree}$
+
+$$
+\begin{align}
+  \sin{105 \degree} &= \sin{45 \degree + 60 \degree} & \\
+  &= \sin{45 \degree} \cdot \cos{60 \degree} + \cos{45 \degree} \cdot \sin{60 \degree} & \\
+  &= \frac{\sqrt{2}}{2} \cdot \frac{1}{2} + \frac{\sqrt{2}}{2} \cdot \frac{\sqrt{3}}{2} & \\
+  &= \frac{\sqrt{2} + \sqrt{6}}{4} &
+\end{align}
+$$
+
+**b**
+
+> $\cos{105 \degree}$
+
+$$
+\begin{align}
+  \cos{105 \degree} &= \cos{45 \degree + 60 \degree} & \\
+  &= \cos{45 \degree} \cdot \cos{60 \degree} - \sin{45 \degree} \cdot \sin{60 \degree} & \\
+  &= \frac{\sqrt{2}}{2} \cdot \frac{1}{2} - \frac{\sqrt{2}}{2} \cdot \frac{\sqrt{3}}{2} & \\
+  &= \frac{\sqrt{2} - \sqrt{6}}{4} &
+\end{align}
+$$
+
+**c**
+
+> $\tan{105 \degree}$
+
+$$
+\begin{align}
+  \tan{105 \degree} &= \frac{\sin{105 \degree}}{\cos{105 \degree}} & \\
+  &= \frac{\frac{\sqrt{2} + \sqrt{6}}{4}}{\frac{\sqrt{2} - \sqrt{6}}{4}} & \\
+  &= \frac{\sqrt{2} + \sqrt{6}}{\sqrt{2} - \sqrt{6}} & \\
+  &= \frac{2 + 2 \sqrt{12} + 6}{-4} & \\
+  &= -2 - \sqrt{3} &
+\end{align}
+$$
+
+## 1.47
+
+> Forenkle uttrykkene
+
+**a**
+
+$$
+\begin{align}
+  \sin{\left( v + 60 \degree \right)} + \cos{\left( v + 30 \degree \right)} &= \sin{v} \cdot \cos{60 \degree} + \cos{v} \cdot \sin{60\degree} + \cos{v} \cdot \cos{30\degree} - \sin{v} \cdot \sin{30\degree} & \\
+  &= \sin{v} \cdot \frac{1}{2} + \cos{v} \cdot \frac{\sqrt{3}}{2} + \cos{v} \cdot \frac{\sqrt{3}}{2} - \sin{v} \cdot \frac{1}{2} & \\
+  &= \sqrt{3} \cos{v} &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \sin{\left( v + \frac{\pi }{4} \right)} - \cos{\left( v - \frac{\pi }{4} \right)} &= \sin{v} \cdot \cos{\frac{\pi }{4}} + \cos{v} \cdot \sin{\frac{\pi }{4}} - \left( \cos{v} \cdot \cos{\frac{\pi }{4}} + \sin{v} \cdot \sin{\frac{\pi }{4}} \right) & \\
+  &= \sin{v} \cdot \frac{\sqrt{2}}{2} + \cos{v} \cdot \frac{\sqrt{2}}{2} - \cos{v} \cdot \frac{\sqrt{2}}{2} - \sin{v} \cdot \frac{\sqrt{2}}{2} & \\
+  &= 0 &
+\end{align}
+$$
+
+## 1.48
