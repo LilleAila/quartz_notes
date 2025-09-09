@@ -206,6 +206,64 @@ $$
 \end{align}
 $$
 
+## Sammensatte likninger
+
+$$
+\begin{align}
+  \sin^{2}{x} - \frac{3}{2} \sin{x} - 1 &= 0 & \\
+  z &= \sin{x} & \\
+  z^{2} - \frac{3}{2} z - 1 &= 0 & \\
+  \left( z - 2 \right) \left( z + \frac{1}{2} \right) &= 0 & \\
+  \sin{x} &= 2 & \text{sin kan ikke være > 1} \\
+  \sin{x} &= - \frac{1}{2} & \\
+  x = 210 \degree &\lor x = 330 \degree & \text{(innenfor første omløp)}
+\end{align}
+$$
+
+---
+
+"Veien om tangens". Forutsetter at både $\sin{}$ og $\cos{}$ er med samme vinkel.
+
+$$
+\begin{align}
+  \sqrt{3} \sin{\left( 2x \right)} + 3 \cos{\left( 2x \right)} &= 0 & \\
+  \sin{\left( 2x \right)} &= - \frac{3}{\sqrt{3}} \cos{\left( 2x \right)} & \\
+  \frac{\sin{\left( 2x \right)}}{\cos{\left( 2x \right)}} &= - \frac{3}{\sqrt{3}} \frac{\cos{\left( 2x \right)}}{\cos{\left( 2x \right)}} & \\
+  \tan{\left( 2x \right)} &= - \frac{3}{\sqrt{3}} = - \sqrt{3} & \\
+  2x &= - \frac{\pi}{3} + \pi \cdot n & \\
+  x &= - \frac{\pi}{6} + \frac{\pi}{2} \cdot n &
+\end{align}
+$$
+
+---
+
+Bruker [[20250902T1113-enhetsformelen|enhetsformelen]]
+
+$$
+\begin{align}
+  3 \sin^{2}{x} - 5 \sin{x} \cos{x} + 6 \cos^{2}{x} &= 2 & \\
+  3 \sin^{2}{x} - 5 \sin{x} \cos{x} + 6 \cos^{2}{x} &= 2 \sin^{2}{x} + 2\cos^{2}{x} & \\
+  \sin^{2}{x} - 5 \sin{x} \cos{x} + 4 \cos^{2}{x} &= 0 & \\
+  \frac{\sin^{2}{x}}{\cos^{2}{x}} - \frac{5\sin{x}\cos{x}}{\cos^{2}{x}} + \frac{4\cos^{2}{x}}{\cos^{2}{x}} &= 0 & \\
+  \tan^{2}{x} - 5\tan{x} + 4 &= 0 &
+\end{align}
+$$
+
+---
+
+Ulike vinkler? Kan bruke [[20250904T1054-sum-og-differanse-av-vinkler|sum og differanse av vinkler]] og så [[20250902T1113-enhetsformelen|enhetsformelen]]. Man kan ikke bruke veien om tangens med to ulike vinkler.
+
+$$
+\begin{align}
+  \sin{\left( x \right)} - \cos{\left( 2x \right)} &= 0 & \\
+  \sin{\left( x \right)} - \cos{\left( x + x \right)} &= 0 & \\
+  \sin{\left( x \right)} - \left( \cos{x} \cdot \cos{x} - \sin{x} \cdot \sin{x} \right) &= 0 & \\
+  \sin{\left( x \right)} - \cos^{2}{x} + \sin^{2}{x} &= 0 & \\
+  \sin{x} - \left( 1 - \sin^{2}{x} \right) + \sin^{2}{x} &= 0 & \\
+  2\sin^{2}{x} + \sin{x} - 1 &= 0 &
+\end{align}
+$$
+
 # Oppgaver (s. 32)
 
 ## 1.19
