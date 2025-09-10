@@ -734,3 +734,19 @@ $$
 $$
 
 Likningen kan maksimalt ha $60$ løsninger.
+
+## 1.127 (s. 66)
+
+> Løs likningene for hånd, bruk et digitalt verktøy til å finne nødvendige trigonometriske verdier.
+
+**a**
+
+$$
+\begin{align}
+  \sin^{2}{x} + 2 \sin{x} \cos{x} - 3 \cos^{2}{x} &= 0 & , x \in \mathbb{R} \\
+  \tan^{2}{x} + 2 \tan{x} - 3 &= 0 & \\
+  \left( \tan{x} + 3 \right) \left( \tan{x} - 1 \right) &= 0 & \\
+  \tan{x} = -3 &\lor \tan{x} = 1 & \\
+  x \approx -1.25 + \pi \cdot n &\lor x = \frac{\pi}{4} + \pi \cdot n &
+\end{align}
+$$

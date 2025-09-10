@@ -57,7 +57,8 @@ $$
   \sin{\left( u \pm v \right)} &= \sin{u} \cdot \cos{v} \pm \cos{u} \cdot \sin{v} & \\[1cm]
   \sin{\left( 2u \right)} &= 2 \left( \sin{u} \cdot \cos{u} \right) & \\
   \cos{\left( 2u \right)} &= \cos^{2}{u} - \sin^{2}{u} & \\
+  &= 1 - 2\sin^{2}{u} & \\
   &= 2 \cos^{2}{u} - 1 & \\
-  &= 1 - 2\sin^{2}{u} &
+  \tan{\left( 2u \right)} &= \frac{2\tan{u}}{1 - \tan^{2}{u}} &
 \end{align}
 $$
