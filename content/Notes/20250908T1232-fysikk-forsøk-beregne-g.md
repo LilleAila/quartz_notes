@@ -26,12 +26,14 @@ $$
 Får at $g=10$. For å beregne usikkerheten, ser jeg på de ulike verdiene jeg fikk.
 
 $$
-\left( 10.01-9.78 \right) = 0.115
+\left( 10.44-9.78 \right) = 0.33
 $$
 
 $$
-g = 10 \pm 0.1
+g = 10 \pm 0.3
 $$
+
+Dette er innenfor tabellverdien på $9.81$.
 
 ## Løsning 2
 
