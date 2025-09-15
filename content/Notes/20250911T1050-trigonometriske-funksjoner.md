@@ -59,6 +59,8 @@ Når man endrer $\varphi$, blir grafen forskjøvet horisontalt med $-\varphi$ en
 Når man endrer på $A$, blir grafen vertikalt strukket med en faktor $A$ i $y$-retning.
 Når man endrer på $c$, blir grafen strukket i $x$-retning.
 
+Man kan beskrive horisontal forskyvning som at funksjonen blir forskjøvet med $-\frac{\varphi}{b}$.
+
 > [!NOTE]
 > La $f$ være en funksjon.
 > Når $k > 1$: Grafen til $g \left( x \right) = f \left( k \cdot x \right)$ er komprimert med en faktor $k$ i $x$-retning.
@@ -125,4 +127,3 @@ $$
 > - Amplituden er $A$
 > - Perioden er $p = \frac{2 \pi }{c}$
 > - Skjæringspunktet med likevektslinjen er $x = - \frac{\varphi}{c}$ (på vei opp), og $x = - \frac{\varphi + \pi }{c}$ (på vei ned).
-

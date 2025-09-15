@@ -39,3 +39,10 @@ Palasskulturen gikk til grunne rundt 1200 f.kr, uten at vi vet hvorfor. Vi har i
   - Aristoteles
   - Aleksander den store
 - Mytologi
+
+> [!NOTE] Hva er et moderne demokrati?
+>
+> - Ytringsfrihet
+> - Maktfordeling
+> - Rettferdighet
+> - Stemmerett
