@@ -40,9 +40,37 @@ Palasskulturen gikk til grunne rundt 1200 f.kr, uten at vi vet hvorfor. Vi har i
   - Aleksander den store
 - Mytologi
 
-> [!NOTE] Hva er et moderne demokrati?
->
-> - Ytringsfrihet
-> - Maktfordeling
-> - Rettferdighet
-> - Stemmerett
+## Perserkrigene
+
+Perserriket var demokratisk, de var glad i krig 👍
+
+## Athen
+
+Det moderne demokratiet startet i Athen.
+
+Borgere var definert som: en fri mann, 18 år gammel, athensk avstamming, ha deltatt i militæret (2 år), må være mann.
+300 000 bodde i Athen, omtrent 30 000 (10%) hadde stemmerett
+
+Athen hadde et direkte demokrati, der folket er med å direkte stemme på enkeltsaker. I Norge har vi et representativt demokrati der vi stemmer på partier. Borgere kunne delta i folkeforsamlingen. De møttes 40 ganger i året. Mange tusen møtte opp, det måtte være ca 6 000 for å være stemmedyktig. Stemming ble gjort via håndsopprekning.
+
+Ostrakisme: en sikkerhetsventil for å unngå at en enkelt person skulle få for mye makt, bli en diktator. De hadde et hemmelig valg. Hvis et flertall bestående av minst 6 000 bestemte for at en person skulle forvises, ble de det.
+
+Rådet: de som la rem sakene til folkeforsamlingen.
+
+Idiot: opprinnelig betydning er en som ikke deltar i det politiske systemet.
+
+Kvinner hadde ikke stemmerett, men kunne påvirke de som kunne stemme.
+Metoiker: tilflyttere, hadde heller ikke stemmerett
+
+## Sparta
+
+Oligarki. Ikke demoratisk. Et fåtalls styre. Her er det en liten gruppe mennesker som bestemmer.
+Hadde også en folkeforsamling, et råd og to konger.
+Rådet er valgt blant eliten, og folksitter for livstid. Folkeforsamlingen er forventet til å alltid gå med på og vedta det rådet foreslår.
+
+Eforane: embetsmenn, valgt av folkeforsamlingen.
+
+Borgerideal: disponert, fryktløse, underkastelse
+Spartanske fellesskap var viktige enn en enkeltpersons liv.
+
+Kvinner kunne delta til mye større grad enn i Athen, men kvinners jobb var å få unger.
