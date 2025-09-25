@@ -60,6 +60,7 @@ $$
 $$
 
 Direkte som koordinater:
+
 $$
 \begin{align}
   \vec{p} = \left[ 1, 2 \right] &\land \vec{q} = \left[ 3, 1 \right] & \\
@@ -71,6 +72,7 @@ I CAS:
 ![20250217T1001-cas-vektor-addisjon.png](Assets/20250217T1001-cas-vektor-addisjon.png)
 
 Med enhetsvektorer:
+
 $$
 \begin{align}
   \left[ x_{1}, y_{1} \right] + \left[ x_{2}, y_{2} \right] &= \left( x_{1} \cdot \vec{e_{x}} + y_{1} \cdot \vec{e_{y}} \right) \left[ x_{2} \cdot \vec{e_{x}} + y_{2} \cdot \vec{e_{y}} \right] & \\
@@ -82,7 +84,7 @@ Subtraksjon gjøres på samme måte.
 
 ## Dekomponere vektorer
 
-Hvis vi har en vekter $\vec{u}$ og to andre vektorer $\vec{a}$ og $\vec{b}$ der $\vec{a} \not\parallel \vec{b}$, kan vi altid skrive $\vec{u}$ som en sum av vektorer som er multipler av $\vec{a}$ og $\vec{b}$.
+Hvis vi har en vektor $\vec{u}$ og to andre vektorer $\vec{a}$ og $\vec{b}$ der $\vec{a} \not\parallel \vec{b}$, kan vi alltid skrive $\vec{u}$ som en sum av vektorer som er multipler av $\vec{a}$ og $\vec{b}$.
 
 ## Posisjonsvektor
 
@@ -176,8 +178,10 @@ Lengden av linjestykket, eller vektoren som går fra punktet og som står vinkel
 > [!NOTE]
 > Tverrvektor
 > To vektorer som står ortogonale på hverandre og som er like lange.
+>
 > $$
 > \vec{u} \perp \vec{v} \land \left| \vec{u} \right| = \left| \vec{v} \right|
 > $$
+>
 > Bruker det fra tidligere:
 > $\vec{v} = \left[ a, b \right] \land \vec{u} = \left[ b, -a \right]$
