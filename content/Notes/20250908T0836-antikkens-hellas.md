@@ -74,3 +74,9 @@ Borgerideal: disponert, fryktløse, underkastelse
 Spartanske fellesskap var viktige enn en enkeltpersons liv.
 
 Kvinner kunne delta til mye større grad enn i Athen, men kvinners jobb var å få unger.
+
+## Aleksander den store
+
+Erobret store områder som ble gjort til en del av sitt rike fra makedonia og hellas, via egypt, til indusdalen.
+
+Foreningen av gresk, egyptisk og mesopotamisk kultur ble kalt hellenismen.

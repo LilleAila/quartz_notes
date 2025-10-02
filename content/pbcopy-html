@@ -1,0 +1,7 @@
+#!/bin/bash
+# pbcopy-html: copy HTML from stdin to clipboard as HTML
+
+osascript <<'APPLESCRIPT'
+set htmlText to do shell script "cat"
+set the clipboard to htmlText as «class HTML»
+APPLESCRIPT

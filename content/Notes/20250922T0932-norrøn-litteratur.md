@@ -37,3 +37,35 @@ Oppgaver
 2.
 
 3.
+
+---
+
+Sagaer
+
+Typiske sagatrekk:
+Motiv: Konflikt og samarbeid mellom mektige ætter på island
+Tema: kamp mot skjebnen, kamp om makt, ære, ettermæle, arv, troskap, svik, hat, hevn og kjærlighet
+Fortelleren står utenfor handlingen og er objektiv
+Handlingen blir fortalt kronologisk. I innledningen fortelles det om tid og sted for begivenhetene, personene og slekten deres blir introdusert. Slekten blir introdusert langt tilbake og gjerne tilbake til første personen som kom til Norge.
+Det hoppes over uviktige handlinger i historien.
+Helten er kraftig og med godt utseende, men har ofte en eller to feil som gjerne fører til hans død.
+Det er ikke skildringer av natur og miljø med mindre dette gir status.
+Følelser skildres nesten ikke, og ofte er det kun en setning for sterke følelser.
+Setningene er korte og presist, det er mye bruk av underdrivelse og sarkasme.
+
+Det er ofte dikt inni sagaene, dette kalles skaldekvadene.
+
+---
+
+Sagaen om Gunnlaug omrstunge.
+
+**5.**
+Gunnlaug ormstunge. Faren ville ikke at han skulle reise men han gjorde likevel, ble tatt imot av Torstein.
+
+**8.**
+
+Gunnlaug vil be om å rofrlove seg med Helga. Det ble fortalt at Gunnlaug var vinglete og kverulant. Han hadde fått Helga om han var som sin far. Torstein og Illuge ble enige om at hun skulle være lovet til han etter han reiste hvis han var tilbake innen en frist (3 år) men måtte komme seg ut og danne seg.
+
+**15.**
+
+Fedrene er de som bestemmer hvem datteren skal gifte seg med.
