@@ -68,4 +68,24 @@ Gunnlaug vil be om å rofrlove seg med Helga. Det ble fortalt at Gunnlaug var vi
 
 **15.**
 
-Fedrene er de som bestemmer hvem datteren skal gifte seg med.
+> Fedrene er de som bestemmer hvem datteren skal gifte seg med.
+
+**16.**
+
+Koom for sent fordi han var i danmark og danskene truet engelskmennene. Gunnlaug var lojal mot kongen og kunne derfor ikke dra derfra.
+
+**17.**
+
+Sloss med tord. Vinner men får foten ut av ledd. Frampek om at det kommer til å gå slik med Helga.
+
+**18.**
+
+Ravn og Helga giftet seg men ingen av de hadde mye glede av det.
+
+**19.**
+
+> Holmgang: en slags tvekamp mellom to folk som venligvis ble utkjempet på en holme
+
+Hadde holmgang mot hverandre. Ravn sitt sverd ble ødelagt, Gunnlaug ble litt skadet. Begge mente derfor at den andre hadde tapt og holmgangen ble avsluttet. Like etter ble det bestet at det ikke lenger skulle gjøres holmgang på island, og dette ble den siste holmgangen på Island. Gunnlaug og Ravn ble da enige om å reise til Norge og gå på holm.
+
+Dette var i løpet av overgangen til kristendommen, med helt ulike verdier i forhold til brutaliteten før det.
