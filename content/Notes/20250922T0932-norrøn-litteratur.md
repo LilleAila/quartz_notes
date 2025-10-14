@@ -54,38 +54,3 @@ Følelser skildres nesten ikke, og ofte er det kun en setning for sterke følels
 Setningene er korte og presist, det er mye bruk av underdrivelse og sarkasme.
 
 Det er ofte dikt inni sagaene, dette kalles skaldekvadene.
-
----
-
-Sagaen om Gunnlaug omrstunge.
-
-**5.**
-Gunnlaug ormstunge. Faren ville ikke at han skulle reise men han gjorde likevel, ble tatt imot av Torstein.
-
-**8.**
-
-Gunnlaug vil be om å rofrlove seg med Helga. Det ble fortalt at Gunnlaug var vinglete og kverulant. Han hadde fått Helga om han var som sin far. Torstein og Illuge ble enige om at hun skulle være lovet til han etter han reiste hvis han var tilbake innen en frist (3 år) men måtte komme seg ut og danne seg.
-
-**15.**
-
-> Fedrene er de som bestemmer hvem datteren skal gifte seg med.
-
-**16.**
-
-Koom for sent fordi han var i danmark og danskene truet engelskmennene. Gunnlaug var lojal mot kongen og kunne derfor ikke dra derfra.
-
-**17.**
-
-Sloss med tord. Vinner men får foten ut av ledd. Frampek om at det kommer til å gå slik med Helga.
-
-**18.**
-
-Ravn og Helga giftet seg men ingen av de hadde mye glede av det.
-
-**19.**
-
-> Holmgang: en slags tvekamp mellom to folk som venligvis ble utkjempet på en holme
-
-Hadde holmgang mot hverandre. Ravn sitt sverd ble ødelagt, Gunnlaug ble litt skadet. Begge mente derfor at den andre hadde tapt og holmgangen ble avsluttet. Like etter ble det bestet at det ikke lenger skulle gjøres holmgang på island, og dette ble den siste holmgangen på Island. Gunnlaug og Ravn ble da enige om å reise til Norge og gå på holm.
-
-Dette var i løpet av overgangen til kristendommen, med helt ulike verdier i forhold til brutaliteten før det.

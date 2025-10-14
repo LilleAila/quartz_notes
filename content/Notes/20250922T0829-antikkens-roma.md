@@ -22,7 +22,7 @@ Dette var et oligarki, altså et fåtallsvelde.
 
 Folkeforsamling:
 
-- Senatet: rådgivende. Her satt representanter for de rikeste familiene. De drøftet og avgjorde de fleste viktige saker selv om de ikke hadde formell beslutningsmyndighet. Selv om oppgaven i teorien var å gi råt til folkeforsamlingen og embetsmenn, var det i praksis de som styrte.
+- Senatet: rådgivende. Her satt representanter for de rikeste familiene. De drøftet og avgjorde de fleste viktige saker selv om de ikke hadde formell beslutningsmyndighet. Selv om oppgaven i teorien var å gi råd til folkeforsamlingen og embetsmenn, var det i praksis de som styrte.
 - Folkeforsamlingen: Gjorde avgjørelser om krig og fred, valgte embetsmenn og vedtok eller forkastet lovforslag. Borgere over 18 år kunne møte. Var organisert ulikt etter hvilke saker som behandles. Ved valg til de viktigste embetene og ved avstemninger om krig og fred var de delt inn i 193 stemmegrupper etter formue, der de rike hadde flest stemmegrupper og dermed større innflytelse. Ved lovgivning og valg av lavere embetsmenn var borgerne inndelt i 35 stemmegrupper etter bosted. Tok som regel bare stilling tils aker som senatat hadde godkjent på forhånd. Falt gradvis bort ettersom riket ble større og større og det ble vanskelig å finne steder med plass til alle bogerne.
 
 Borgere:
@@ -49,3 +49,20 @@ Romerretten: et lovsystem de hadde som man fremdeles finner spor av i dagens lov
 Hadde god infrastruktur, mye fordi de hadde slaver.
 
 "Brød og sirkus": hvis folket er underholdt og ikke blir sultne, kan de med makten gjøre hva de vil med makten sin uten opprør
+
+---
+
+> [!NOTE]
+> De fleste bevarte tekster fra antikkens roma fvar skrevet av og for de rikeste, og derfor vet vi lite om de som ikke var i eliten.
+
+De fleste bode i svært små leiligheter på kun ett rom, og var derfor avhengig av offentlige fasiliteter som for eksempel felles toaletter. De fleste hadde heller ikke kjøkkenutstyr hjemme.
+
+## Romerriket
+
+Julius Cæsar var en hærfører, og soldater var vanligvis lojale til hærføreren heller enn til romerriket. Senatet likte ikke at Cæsar drev krigføring på egen hånd uten å konsultere dem, men han var populær blant soldatene fordi han belønnet dem godt. Han sørget for at folk som var lojale mot ham fikk plasser i senatet og andre viktige posisjoner, og fikk på den måten senatet til å godkjenne han som konsul flere år på rad, også som enekonsul. Erklærte seg som enehersker pålivstid i 44 f. kr, og da gikk en gruppe senatorer sammen om å myrde han. Dette minnet for mye om det forhatte kongebegrepet.
+
+Videre fulgte en maktkamp der Oktavian, Cæsars adoptivsøkk og arving, gikk seirende ut. Oktavian styrte reomerriket i mange år fordi han var klokere og lot republ9ikkens gamle institusjoner bestå, og unngikk å kalle seg noe som kunne minne om enehersker. Brukte begrepet "princept senatus" (den første i senatet) om seg selv.
+
+Oktavian fikk i 27 f. kr ærestittelen Augustus, som betyr den opphøyde. Kalte seg selv Cæsar Augustus fra faren sin, og etterfølgerne hans valgte å titulere seg Cæsar. Dette er etymologien til begrepet "keiser". Han regnes som grunnleggeren av Pax Romana, en periode på 200 år med fred innad i riket.
+
+![20251013T0854-romerrike-utvidelse.png](Assets/20251013T0854-romerrike-utvidelse.png)
