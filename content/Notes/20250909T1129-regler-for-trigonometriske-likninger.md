@@ -62,3 +62,15 @@ $$
   \tan{\left( 2u \right)} &= \frac{2\tan{u}}{1 - \tan^{2}{u}} &
 \end{align}
 $$
+
+## [[20250916T1105-harmoniske-svingninger|harmoniske svingninger]]
+
+$$
+\begin{align}
+  f \left( x \right) &= a \cdot \sin{\left( cx \right)} + b \cdot \cos{\left( cx \right)} & \\
+  &= A \cdot \sin{\left( cx + \varphi \right)} & \\
+  A &= \sqrt{a^{2} + b^{2}} & \\
+  \frac{a}{A} = \cos{\varphi} &\land \frac{b}{A} = \sin{\varphi} & \\
+  \tan{\varphi} &= \frac{b}{a} &
+\end{align}
+$$
