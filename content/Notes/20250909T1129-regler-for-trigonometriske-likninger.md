@@ -67,6 +67,18 @@ $$
 
 $$
 \begin{align}
+  f \left( x \right) &= A \sin{\left( cx + \varphi \right)} + d &
+\end{align}
+$$
+
+- Likevektslinje $y = s$
+- Amplitude $A$
+- Periode $p = \frac{2 \pi}{c}$
+- Horisontal forskyvning $\varphi$
+- Skjærer likevektslinjen på $x = - \frac{\varphi}{c}$ og $x = - \frac{\varphi + \pi}{c}$.
+
+$$
+\begin{align}
   f \left( x \right) &= a \cdot \sin{\left( cx \right)} + b \cdot \cos{\left( cx \right)} & \\
   &= A \cdot \sin{\left( cx + \varphi \right)} & \\
   A &= \sqrt{a^{2} + b^{2}} & \\
