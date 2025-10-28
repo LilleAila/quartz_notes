@@ -80,3 +80,31 @@ Livegne var bønder som ikke var slaver, men var bundet til jorden sin og kunne 
 Religionen var kristendommen og gud sto i sentrum. Man tenkte at gur hadde gitt to svert - ett til paven og ett til kongen eller keiseren der disse to hadde makten.
 
 Føydalsamfunnet var mannsdominert og kvinner var juridisk klart underordnet menn. De kunne giftes bort for å inngå allanser med andre slekter. Hvis en føydalherre var bortreist, for eksempel i krig, hadde husfruen et midlertidig ansvar for godset. Hvis han døde, overtok hun føydalherrens jord og rettigheter, og satt påd isse til hun giftet seg igjen. Mange kvinner ble enker og gift på nytt flere ganger i løpet av livet. Alternativet til å bli giftet bort var ofte å bli sendt til kloster.
+
+## Middelalderen
+
+Middelalderen deles vanligvis inn i tre deler - fødselen, modningen og nedgangen / tidlig middelalder, høymiddelalderen og senmiddelalderen. Disse intervallene blir valgt basert på fellestrekk i tidsperioden, men det er forenklet og vil ikke alltid være representativt.
+
+Noen vil heller kalle alle delene for den "lange middelalderen".
+Periodiseringen er hovedsakelig basert på vesteuropeisk historie, spesielt Frankrike og Italia.
+
+Bilder er en viktig kilde til å vite noe om fortiden. For eksempel er bayeauxteppet en kilde vi kan bruke som fremstiller Vilhelm av Normandies invasjon i England. Likevel kan bilder overdrive eller utelate informasjon, og krever tolkning som kan være subejktivt og ulikt det de tenkte på den tiden det ble laget.
+
+### Tidlig middelalder
+
+Kalles ofte "de mørke århundrer".
+
+Vestromerrikets fall, folkevandringstiden, dannelse av germanske riker, fremvekst av islam, imperiet til Karl den store, angrep fra vikinger etc
+
+### Høymiddelalderen
+
+> 1000 - 1300
+
+Varmere, forbedringer i jordbruk, befolkning og byvekst, handel
+
+### Senmiddelalderen
+
+> 1300-1500
+
+Kdrise, nedgang og omveltning. Svartedøden, befolkningsreduksjon, klimaforverring, hundreårskrigen.
+Overgang til renessansen og tidlig moderne tid
