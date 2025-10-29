@@ -24,7 +24,16 @@ Brukes om hendelser som nettop har skjedd.
 - Le professeur vient de répondre à un élève. - Læreren svarte en elev
 - Est-ce que tu ne viens pas de parler avec la prof? - Snakket du ikke nettop med læreren?
 
-## Venir
+- Je viens de visiter Dakar.
+- Tu te viens d'aller en France?
+- L'avion viens de partir.
+- Vous venez de manger des fruits, les filles?
+- Ma grand-mère viens de mourir.
+- On vient de parlr avec notre cousine au Sénégal.
+- Tes livres sénégalais vient d'arriver.
+- Nous viens de vendre notre maison à Saly.
+
+## Conjugaison de venir
 
 - Je viens
 - Tu viens
