@@ -1,0 +1,111 @@
+---
+id: 20251110T1037-bevegelsesmengde
+aliases:
+  - bevegelsesmengde
+tags: []
+date: "2025-11-10"
+title: bevegelsesmengde
+---
+
+#fysikk [[20250820T0820-fysikk-1|fysikk 1]]
+
+# bevegelsesmengde
+
+Bevegelsesmengden er en størrelse definert som
+
+$$
+\vec{p} = m \vec{v} \,\left[ \mathrm{kg \frac{m}{s}} \right]
+$$
+
+Bevegelsesmengde er alltid bevart, uavhengig av alle eksterne faktorer som blant annet friksjon, i motsetning til for eksempel mekanisk energi.
+
+Newtons andre lov var opprinnelig formulert ved hjelp av bevegelsesmengde:
+
+$$
+\sum F = \frac{\Delta p}{\Delta t} = \frac{mv - mv_{0}}{t} = m \cdot \frac{v - v_{0}}{t} = m \cdot a
+$$
+
+Man kan også bruke dette som følger. Det kalles også "impuls" ($I$):
+
+$$
+\sum F \cdot \Delta t = \Delta p = I
+$$
+
+Man kan også si at
+
+$$
+\sum F = p' \left( t \right)
+$$
+
+# Oppgaver
+
+## 5.05 (s. 151)
+
+Kristoffer kaster en basketball fra høyden $1.8 \,\mathrm{m}$j over gulvet slik at den får farten $9.8 \,\mathrm{\frac{m}{s}}$ rett oppover. Ballen har massen $0.63 \,\mathrm{kg}$.
+
+**a**
+
+> Hva er bevegelsesmengden til balen idet den kastes?
+
+$$
+\begin{align}
+  p &= m v & \\
+  &= 0.63 \cdot 9.8 & \\
+  &= 6.173 = 6.2 &
+\end{align}
+$$
+
+**b**
+
+> Hvor lang tid tar det før bevegelsesmengden til ballen er halvert?
+
+$$
+\begin{align}
+  v &= a \cdot t + v_{0} & \\
+  4.9 &= -9.81 t + 9.8 & \\
+  t &= 0.49 &
+\end{align}
+$$
+
+**c**
+
+> Hva er bevegelsesmengden til ballen rett før den treffer bakken?
+
+$$
+\begin{align}
+  2 \cdot -9.81 \cdot -1.8 &= v^{2} - 9.8^{2} & \\
+  v &= \pm 11.461 & \\
+  p &= m \cdot v = -7.2 &
+\end{align}
+$$
+
+Setter negativ da jeg vet at den går nedover og satte positiv retning opp.
+
+**d**
+
+> Hvor stor er den totale endringen i bevegelsesmengden til ballen?
+
+$$
+\Delta p = 6.2 - \left( -7.2 \right) = 13.4 \,\mathrm{kg \frac{m}{s}}
+$$
+
+## 5.06
+
+**a**
+
+> Hvor stor er bevegelsesmengden før og etter kollisjonen?
+
+$$
+\begin{align}
+  p_{0} &= 0.8 \cdot 0.35 = 0.28 & \\
+  p_{1} &= -0.4 \cdot 0.35 = -0.14 &
+\end{align}
+$$
+
+**b**
+
+> Hvor stor var endringen i bevegelsesmengde i kollisjonen?
+
+$$
+\Delta p = -0.14 - 0.28 = -0.42
+$$
