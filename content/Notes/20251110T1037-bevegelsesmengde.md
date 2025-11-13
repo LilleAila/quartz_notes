@@ -7,7 +7,7 @@ date: "2025-11-10"
 title: bevegelsesmengde
 ---
 
-#fysikk [[20250820T0820-fysikk-1|fysikk 1]]
+#fysikk [[20250820T0820-fysikk-1|fysikk 1]] [[20250827T0824-bevegelse|bevegelse]] [[20250910T0834-krefter|krefter]]
 
 # bevegelsesmengde
 
@@ -108,4 +108,44 @@ $$
 
 $$
 \Delta p = -0.14 - 0.28 = -0.42
+$$
+
+## 5.07
+
+**a**
+
+> Utled Newtons 2. lov uttrykt ved bevegelsesmengde.
+
+$$
+\begin{align}
+  \sum F &= \lim_{\Delta t \to 0} \frac{\Delta p}{\Delta t} & \\
+  &= p' \left( t \right) & \\
+  &= \left( m \left( t \right) \cdot v \left( t \right) \right) & \\
+  &= m' \left( t \right) \cdot v \left( t \right) + m \left( t \right) \cdot v' \left( t \right) & \\
+  & \text{Antar konstant masse:} & \\
+  \sum F &= m \cdot a \left( t \right) &
+\end{align}
+$$
+
+**b**
+
+$$
+\begin{align}
+  \left[ \mathrm{N} \right] &= \left[ \mathrm{\frac{kg \frac{m}{s}}{s}} \right] & \\
+  \left[ \mathrm{Ns} \right] &= \left[ \mathrm{kg \frac{m}{s}} \right] &
+\end{align}
+$$
+
+**c**
+
+> Uttrykk Newtons 1. lov med bevegelsesmengde
+
+$$
+\begin{align}
+  v' \left( t \right) &= 0 & \\
+  \sum F &= p' \left( t \right) & \\
+  &= m \cdot 0 & \\
+  &= 0 & \\
+  v' \left( t \right) = 0 &\implies \sum F = 0 &
+\end{align}
 $$
