@@ -14,7 +14,7 @@ date: 2024-10-18
 Alt levende består av karbon. Det er i plast, kull, olje og alt biologisk. Det er i plast, kull, olje og alt biologisk.
 
 $$
-\LARGE \prescript{12}{6}{C}
+\LARGE {}^{12}_{6}\mathrm{C}
 $$
 
 Diamant, grafitt består av rent karbon.
