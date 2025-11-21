@@ -37,6 +37,10 @@ $$
 \sum F = p' \left( t \right)
 $$
 
+## Støt
+
+Et støt er elastisk hvis den totale kinetiske energien til systemet er bevart. Om den kinetiske energien bilr omgjort til andre energiformer i støtet, er det uelastisk.
+
 # Oppgaver
 
 ## 5.05 (s. 151)
@@ -147,5 +151,48 @@ $$
   &= m \cdot 0 & \\
   &= 0 & \\
   v' \left( t \right) = 0 &\implies \sum F = 0 &
+\end{align}
+$$
+
+## 5.08
+
+Et legeme har massen $0.75 \,\mathrm{kg}$ og beveger seg med bevegelsesmengden $10 \,\mathrm{kg \frac{m}{s}}$ når det blir påvirket av kraftsummen $\sum F = 5.0 \,\mathrm{N}$ i bevegelsesretningen. Kraftsummen opphører etter $4.0 \,\mathrm{s}$.
+
+**a**
+
+> Hvor mye endres bevegelsesmengden totalt?
+
+$$
+\begin{align}
+  \sum F &= \frac{\Delta p}{\Delta t} & \\
+  5 \,\mathrm{N} &= \frac{\Delta p}{4 \,\mathrm{s}} & \\
+  \Delta p &= 20 \,\mathrm{kg \frac{m}{s}} &
+\end{align}
+$$
+
+**b**
+
+> Hvor stor ble farten?
+
+$$
+\begin{align}
+  p &= p_{0} + \Delta p & \\
+  p &= 10 + 20 = 30 \,\mathrm{kg \frac{m}{s}} & \\
+  p &= m v & \\
+  v &= \frac{p}{m} & \\
+  v &= \frac{30}{0.75} = 40 \,\mathrm{\frac{m}{s}} &
+\end{align}
+$$
+
+**c**
+
+> Hvor langt forflyttet legemet seg på de fire sekundene?
+
+$$
+\begin{align}
+  s &= \frac{1}{2} \left( v + v_{0} \right)t & \\
+  s &= \frac{1}{2} \left( 40 + \frac{10}{0.75} \right) \cdot 4 & \\
+  s &= 106.6667 & \\
+  &\approx 0.11 \cdot 10^{3} \,\mathrm{m} = 0.11 \,\mathrm{km} &
 \end{align}
 $$
