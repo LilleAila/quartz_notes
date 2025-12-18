@@ -28,7 +28,7 @@ Med avoir
 
 "jeg hadde danset"
 
-- Riwan avait déjà rencontré Rama qhand je suis arrivé
+- Riwan avait déjà rencontré Rama quand je suis arrivé
 - Abdoulaye avait fini ses recherches sur l'histoire coloniale quand ses copains sont arrivés chez lui.
 - Les eélèves aavaient tout de suite comprendu l'exercice.
 - La france avait voulu donner son indépendance au Senégal.
@@ -48,14 +48,14 @@ Med être
 "jeg hadde gått"
 
 - On était arrivé à Dakar sans problèmes
-- Elle s'était levée t^t ce jour-là
+- Elle s'était levée tôt ce jour-là
 - Mariama était allée au marché de Salmarin pour acheter du poisson
 - Les Français ne s'étaient pas intéressé à l'indépendance du Sénégal.
 - Vous étiez déjà parti quand je suis arrivé
 
 ---
 
-- La grand-mère d'Abdoulaye était dékà alée au marché de poissons quand elle est parti à la place.
+- La grand-mère d'Abdoulaye était déjà allée au marché de poissons quand elle est parti à la place.
 - Mariama avait déjà mangé un thiep boudienne quand elle a bu du jus de fruits do baobab.
 - Abdoulaye avait déjà appris à lire et à écrire quand il a entré à l'école.
 - Les Français étaient déjà parti du Sénégal quand les grands-parents d'Abdoulaye sont émigré en France.

@@ -102,6 +102,51 @@ Vestromerrikets fall, folkevandringstiden, dannelse av germanske riker, fremveks
 
 Varmere, forbedringer i jordbruk, befolkning og byvekst, handel
 
+Folketallet steg fra rundt 25-30 millioner ril 80 millioner i Europa.
+Økt jordbruksproduksjon, mer handel og større byer.
+Den vestlige kongemakten blir videreført i det tysk-romerske riket.
+Vilhelm samler makten i England.
+Magna Carta som sier at kongen må forholde seg til et parlament - konstitusjonelt monarki og parlamentarisme der kongen ikke sitter med all makten
+Investiturstriden ga mer makt til kirken.
+
+Fagbegreper
+
+- Landsbyfellesskap
+- Bondekommunalisme
+  Bønder går gjerne sammen og finner ut av problemer på denne måten ved å ta beslutninger sammen ob jordbruk, beiterett etc.
+- Trebruksdrift
+  Et jordbruksystem der dyrkbar mark ble delt i tre skifter. Vårhvete, høsthvete og brakklagt.
+- Det ottonske system
+  En styringsmodell fra det tysk-romerske riket der keiseren lot biskoper bruke områder slik at de fikk makt og jord, men ikke kunne arve dette videre.
+- Privatkirkeordningen
+  Verdslige herrer hadde eiendomsrett til kirker som sto på deres jord og kunne utnevne prester etc og styre kirkens inntekter.
+- Lerkmannsinvestitur
+  Ikke kirkelige folk utnevner biskoper heller enn kirken.
+- Danelag
+  Områder under dansk kontroll som norge.
+- Magna Carta
+  Handler om at kongen må forholde seg til andre sin makt enn sin egen.
+- Dualisme
+  Den verdslige og geistlige makten hadde en enighet om at de var den øverste makt på ulike områder
+- Bannlysing
+  Holdt utenfor kirken
+- Konkordatet i Worms
+  Kompromisset til de to over. Kirken bestemmer hvem som er biskoper, men kongen skal være til stede under prossessen.
+
+Statsutvikling
+
+Øket jordbruksproduksjon og folketall
+Større byer og mer handel
+Mer avgifter og toll til kongen
+Lønn til embetsmenn og leiesoldater
+Mindre avhengig av kronvasaller
+Fastere styringsapparat og sentraladministrasjon
+Territorialstater
+
+Hundreårskrigen (1337-1453)
+Det østromerske rikets fall (1453)
+Det store skismaet (1378)
+
 ### Senmiddelalderen
 
 > 1300-1500
