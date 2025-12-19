@@ -53,3 +53,34 @@ $$
   &= \ln{\left| x^{2} + 1 \right|} &
 \end{align}
 $$
+
+# Oppgaver
+
+## Eksempel s. 247
+
+$$
+\begin{align}
+  \int 2xe^{x^{2}}\,dx & & \\
+  u &= x^{2} & \\
+  u' &= 2x & \\
+  \int 2xe^{x^{2}} \,dx &= \int u' \cdot e^{u} \frac{du}{u'} & \\
+  &= \int e^{u} \,du & \\
+  &= e^{u} + C & \\
+  &= e^{x^{2}} + C &
+\end{align}
+$$
+
+## Eksempel 17
+
+$$
+\begin{align}
+  \int \sin{\left( 4x + 5 \right)} \,dx & & \\
+  u &= 4x + 5 & \\
+  \frac{du}{dx} &= 4 & \\
+  dx &= \frac{du}{4} & \\
+  \int \sin{\left( 4x + 5 \right)} \,dx &= \int \sin{u} \cdot \frac{du}{4} & \\
+  &= \int \frac{\sin{u}}{4} \,du & \\
+  &= -\frac{1}{4} \cos{u} + C & \\
+  &= -\frac{1}{4} \cos{\left( 4x + 5 \right)} + C &
+\end{align}
+$$
