@@ -11,6 +11,10 @@ title: oppsummering av integrasjonsmetoder
 
 # oppsummering av integrasjonsmetoder
 
+## Valg av integrasjonsmetode
+
+Substitusjon er vanligvis den enkleste metoden for integrasjon og er derfor foretrukket i tilfeller det det kan være mulig å bruke flere metoder. Delvis integrasjon vil man bruke der man har to uttrykk som er multiplisert. Delbrøkoppspalting brukes om man har en brøk der nevneren har høyere grad enn telleren. Det er også mulig å først gjøre polynomdivisjon for å få et slikt uttrykk og deretter bruke delbrøkoppspalting, men dette er ofte tungvindt hvis man heller kunne brukt substitusjon eller delvis integrasjon.
+
 ## [[20251211T1235-delvis-integrasjon|delvis integrasjon]]
 
 $$
