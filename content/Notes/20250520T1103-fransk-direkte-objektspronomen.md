@@ -13,6 +13,8 @@ title: fransk direkte objektspronomen
 
 Objektspronomen står foran verbet.
 
+Direkte objektspronoen:
+
 - 1. person entall - me / m'
 - 2. person entall - te / t'
 - 3. person entall hankjønn - le / l'
@@ -20,6 +22,13 @@ Objektspronomen står foran verbet.
 - 1. person flertall - nous
 - 2. person flertall - vous
 - 3. person flertall - les
+
+- 1. person entall - me / m'
+- 2. person entall - te/t'
+- 3. person entall - lui
+- 1. person flertall - nous
+- 2. person flertall - vous
+- 3. person flertall - leur
 
 ---
 

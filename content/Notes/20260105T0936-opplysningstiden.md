@@ -27,7 +27,7 @@ Under opplysningstiden vokste det frem et verdensbilde basert på fornuft og vit
 
 Dette verdensbildet skiller seg fra synet kirken hadde der de mente at religion og gud sin vilje styrte verden, mens i opplsyningstiden la man vekt på fornuft og menneskelig erfaring.
 
-4. Hva kjennetegner Ludvis Holbergs liv og dikting?
+4. Hva kjennetegner Ludvig Holbergs liv og dikting?
 
 Han var en dansk-norsk forfatter på 1700-tallet som er kjent for å skrive satiriske komedier som kritiserte samfunnet, og å bruke humor og ironi for å formidle samfunnskritiske budskap.
 
@@ -53,7 +53,7 @@ Når myndigheter eller andre med makt kontrollerer hva man kan skrive.
 
 10. Hva slage frihet var studentene i Norske Selskab opptatt av?
 
-De var opptatt av ytringsfrihet og nasjonal frihet og ønsket å kunne skrive og nsakke fritt uten sensur.
+De var opptatt av ytringsfrihet og nasjonal frihet og ønsket å kunne skrive og snakke fritt uten sensur.
 
 11. Nevn noen eksempler på tekster medlemmene i Norske Selskab skrev.
 
