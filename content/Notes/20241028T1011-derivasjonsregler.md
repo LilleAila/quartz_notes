@@ -28,5 +28,3 @@ $$
 	\left( \sqrt{x} \right)' &= \frac{1}{2 \sqrt{x}} &
 \end{align}
 $$
-
-Mange av dem er beskrevet i [[20240616T1007-3blue1brown|3blue1brown]] sine videoer.
