@@ -13,7 +13,7 @@ title: elektriske kretser
 
 ## Ladninger
 
-Det finnes positive (+) og negative (-) ladninger. Gjenstander med ulik ladning tiltrekkes og gjenstander med samme ladning frastøter hverandre. Elektrisk ladning ($Q$) måles i columb ($C$). $Q_{\text{elektron}} = -6.02 \cdot 10^{-19} C$
+Det finnes positive (+) og negative (-) ladninger. Gjenstander med ulik ladning tiltrekkes og gjenstander med samme ladning frastøter hverandre. Elektrisk ladning ($Q$) måles i coulomb ($C$). $Q_{\text{elektron}} = -6.02 \cdot 10^{-19} C$
 
 ## Strøm
 
