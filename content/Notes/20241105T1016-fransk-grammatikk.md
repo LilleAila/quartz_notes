@@ -30,11 +30,6 @@ Fransk
 Ubstemt artikkel: Isabelle a des cheveux blonds
 Bestemt artikkel: Les cheveux de Isabella sont blonds
 
-"En": Tidligere beskrevet en ting med "de": "On manque toujours **de** chaussettes".
-Refererer tilbake til dette senere med "en": "Je n'**en** ai même pas eu une seule paire".
-, som i "jeg har ikke fått et eneste par (med sokker)". Kan i noen tilfeller oversettes som "det".
-"y" bruker på samme måte, men når man tidligere har sagt "à", og skal referere tilbake til det. Kan i noen tilfeller oversettes som "der".
-
 Il faut + infinitiv - Man må / det trengs / det er nødvendig
 Il faut travailler
 
