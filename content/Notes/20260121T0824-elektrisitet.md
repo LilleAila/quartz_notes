@@ -55,7 +55,7 @@ $$
 
 Dette gjelder når man har ren konstant resistant. Motstander med konstant resistans og som følger Ohms lov kalles ohmske motstander.
 
-## Kirchoffs 1. lov
+## Kirchhoffs 1. lov
 
 I en parallellkobling er summen av alle strømmene inn i et forgreiningspunkt lik summen av alle strømmene ut av forgreiningspunktet.
 
@@ -63,7 +63,7 @@ $$
 \sum I_{\text{inn}} = \sum I_{\text{ut}}
 $$
 
-## Kirchoffs 2. lov
+## Kirchhoffs 2. lov
 
 I en lukket strømkrets er summen av spenningene over komponentene i kretsen lik polspenningen til spenningskildene.
 
@@ -83,4 +83,4 @@ $$
 R = \left( \sum_{i=0}^{n} R_{i}^{-1} \right)^{-1}
 $$
 
-Om en lyspære slutter å lyse i en parallellkobling, vil den andre fortsette å lyse siden den delen av kretsen er fortsatt lukket. Spenningen i alle grenene av en parallellkobling er alltid lik. Strømmen er definert ved kirchoffs 1. lov.
+Om en lyspære slutter å lyse i en parallellkobling, vil den andre fortsette å lyse siden den delen av kretsen er fortsatt lukket. Spenningen i alle grenene av en parallellkobling er alltid lik. Strømmen er definert ved kirchhoffs 1. lov.
