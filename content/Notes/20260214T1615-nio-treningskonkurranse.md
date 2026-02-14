@@ -40,7 +40,7 @@ Man kan enten gå den vanlige veien og betale normal pris. Alternativt kan man b
 
 Når man beregner `dp[6][2]` kan dette avhenge av `dp[3][1]`. Altså har man to måter å bruke en kant der en kant fra `3 -> 6` vil bli enten `dp[6][k] = dp[3] + vekt` eller `dp[6][k+1] = dp[3]`. Så i stedet for å se på hver node én gang, ser man på hver node `v` ganger (`v` er antall tilgjengelige gratisbilletter)
 
-Da får man tid $O \left( nv \log_{nv} \right)$ i stedet for $O \left( n \log_{n} \right)$ som ved vanlig dijkstra
+Da får man tid $O \left( nv \log{nv} \right)$ i stedet for $O \left( n \log{n} \right)$ som ved vanlig dijkstra
 
 ---
 
@@ -142,3 +142,5 @@ Hver kombinasjon vil gi en avstand som er den maksimale. Vi velger det paret som
 
 > [!NOTE]
 > Disse for oppgave 5 ble litt rotete siden det tok meg litt lengre tid å forstå 😭
+
+Ofte når det er lave tall som $k \leq 7$ i oppgaven betyr det at de vil at vi skal se på en løsning som er $2^{k}$ eller lignende.
