@@ -12,7 +12,7 @@ title: nio treningskonkurranse
 > Her er mine notater fra teams møtet
 > jeg hadde ikke tid til å faktisk gjøre konkurransen lol men jeg tok notater fra møtet likevel
 
-Antall frys av screenshare ila møtet: 14
+Antall frys av screenshare ila møtet: 15
 
 ---
 
@@ -66,6 +66,12 @@ altså får køen format
 > yooo jeg tenkte basicly det samme bare at han forklarte med en dp table men jeg tror at resultatet vil bli det samme på en måte
 
 ## 4 - reven
+
+> [!NOTE]
+> Relevante programmerings ting:
+>
+> - Meet in the middle
+> - Bitmask DP
 
 En rev kan bære to høns, og hvert gjemmested kan inneholde kun én høne før han må gå tilbake til hønsehuset. Man vil da forsøke å minimere avstanden. Merk at etter man har levert ut alle høns vil man ikke trenge å gå tilbake igjen. Man får gitt at $n$ er ganske liten her. I de andre oppgavene har man kunnet ha mer grådige algoritmer, men her må man tilsynelatende ha noe litt mer brute force-aktig.
 
