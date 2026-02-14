@@ -16,5 +16,5 @@ Når man integrerer en funksjon får man enheten $y \cdot x$, for eksempel om $x
 Man kan finne den gjennomsnittlige funksjoneverdien til en funksjon i et intervall ved
 
 $$
-\bar{f \left( x \right)} = \frac{\int_{a}^{b} f \left( x \right)}{b - a}
+\overline{f \left( x \right)} = \frac{\int_{a}^{b} f \left( x \right)}{b - a}
 $$

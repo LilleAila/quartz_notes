@@ -84,3 +84,65 @@ R = \left( \sum_{i=0}^{n} R_{i}^{-1} \right)^{-1}
 $$
 
 Om en lyspære slutter å lyse i en parallellkobling, vil den andre fortsette å lyse siden den delen av kretsen er fortsatt lukket. Spenningen i alle grenene av en parallellkobling er alltid lik. Strømmen er definert ved kirchhoffs 1. lov.
+
+## Elektrisk energi og effekt
+
+Har at strømmen er $I = \frac{q}{t}$ og spenningen er $U = \frac{W}{q}$.
+
+$$
+\begin{align}
+  q &= I \cdot t & \\
+  U &= \frac{W}{I \cdot t} & \\
+  W &= U \cdot I \cdot t &
+\end{align}
+$$
+
+Dette definerer elektrisk arbeid som den elektriske kraften utfører for å flytte ladningen gjennom et elektrisk komponent eller en krets. Kan finne elektrisk effekt ved
+
+$$
+P = \frac{W}{t} = U \cdot I \, \left[ W \right]
+$$
+
+# Oppgaver
+
+## 7.40 (s. 220)
+
+Et solcellepanel gir en elektrisk effekt på $100\,\mathrm{W}$ og en spenning på $12 \,\mathrm{V}$.
+
+**a**
+
+> Hvor mye strøm gir solcellepanelet?
+
+$$
+\begin{align}
+  P &= U \cdot I & \\
+  100 &= 12 \cdot I & \\
+  I &= \frac{100}{12} & \\
+  I &\approx 8.333 &
+\end{align}
+$$
+
+**b**
+
+> Hvor mye energi leverer solcellepanelet i løpet av ett døgn?
+
+$$
+\begin{align}
+  W &= P \cdot t & \\
+  &= 100 \cdot 60 \cdot 60 \cdot 24 & \\
+  &= 8640000 \,\mathrm{J} & \\
+  &= 8.6 \cdot 10^{6} \,\mathrm{J} = 2.4 \cdot 10^{3} \,\mathrm{Wh} &
+\end{align}
+$$
+
+**c**
+
+Virkningsgraden til solcellepanelet er $18\%$. Hvor stor er den innstrålte effekten fra solen på solcellepanelet?
+
+$$
+\begin{align}
+  \eta &= 0.18 & \\
+  0.18 &= \frac{100}{P} & \\
+  P &= \frac{100}{0.18} = 555.5 \,\mathrm{W} = 5.5 \cdot 10^{2} \,\mathrm{W} &
+\end{align}
+$$
