@@ -3,7 +3,7 @@ id: 20260204T0932-atommodeller
 aliases:
   - atommodeller
 tags: []
-date: 2026-02-04
+date: "2026-02-04"
 title: atommodeller
 ---
 
@@ -83,6 +83,8 @@ $$
 $$
 
 Schrödingers modell kalles ofte elektronskymodellen. Bølgefunksjonene som beskriver de stasjonære tilstandene / energinivåene i atomet gir ulike tredimensjonale former som viser hvor det er mest sannsynlig å finne elektronet i de ulike tilstandene.
+
+Bølgefunksjonen $\left| \psi \left( x, t \right) \right|^{2}$ beskriver sannsynligheten for at en måling vil vise at elektronen befinner seg i punktet $x$ ved tiden $t$.
 
 To elektroner kan ikke være i samme kvantemekaniske tilstand. I hver orbital er det plass til to elektroner. I tillegg til ladning og masse har elektroner en til egenskap som kalles spinn. Som ladning finnes det to varianter: spinn-opp og spinn-ned. I hver orbital er det mulig å ha et elektron med spill-opp og ett elektron med spinn-ned. Dette er grunnlaget for at elektronene har en skallstruktur.
 
@@ -184,3 +186,98 @@ TODO
 > Beskriv Schrödingers atommodell. Hva skiller denne modellen fra Bohrs modell?
 
 Schrödingers atommodell, ofte kalt elektronskymodellen, beskriver sannsynligheten til at et elektron er i en viss kvantemekanisk tilstand. Altså beskriver den ikke den nøyaktige posisjonen til et elektron, men hvor det er mest sannsynlig at det befinner seg.
+
+## 8.36
+
+> [!NOTE] Oppgave
+> Kvadratet av bølgefunksjonen til $\mathrm{1s}$-skallet til hydrogen er
+>
+> $$
+> \left| \psi \right|^{2} = \frac{1}{\pi a_{0}^{3}} e^{-2 r a_{0}^{-1}}
+> $$
+>
+> der $r$ er avstanden til sentrum av hydrogenkjernen og $a_{0}$ kalles Bohr-radien og er $0.0529 \,\mathrm{nm}$.
+>
+> Sannsynligheten for å finne elektronet i en gitt avstand fra kjernen er da gitt ved
+>
+> $$
+> P \left( r \right) = \frac{4r^{2}}{\pi a_{0}^{3}} e^{-2ra_{0}^{-1}}
+> $$
+>
+> Tegn grafen til kvadratet av bølgefunksjonen og sannsynlighetsfunksjonen. Hvilken avstand er det mest sannsynlig å finne elektronet ved? Hvilket punkt er det mest sannsynlig å finne elektronet i? Er det noe sted elektronet ikke kan være?
+
+<!-- Erstatter først enheten for $y$-aksen ved å sette inn $a=1$ i stedet for $a_{0}=0.0529\,\mathrm{nm}$ slik at enheten for $y$-aksen blir $\frac{1}{a_{0}^{3}}$. Videre gjør vi det samme for $x$-aksen ved å sette inn $1$ for $a_{0}$ slik at enheten til $x$-aksen da blir  -->
+
+Setter først en ny $r$ til å være lik $r a_{0}$. Får da:
+
+$$
+\left| \psi \right|^{2} = \frac{1}{\pi a_{0}^{3}} e^{-2ra_{0}a_{0}^{-1}} = \frac{1}{\pi a_{0}^{3}} e^{-2r}
+$$
+
+Da blir enheten for $x$-aksen $ra_{0}^{-1}$. Videre trekker jeg ut $a_{0}^{-3}$ slik at jeg får
+
+$$
+\left| \psi \right|^{2} = \frac{1}{\pi} e^{-2r}
+$$
+
+Der enheten for $y$-aksen blir $\frac{1}{a_{0}^{3}}$. Får da denne grafen:
+
+![20260216T1219-bøkgefunksjon.png](Assets/20260216T1219-bøkgefunksjon.png)
+
+---
+
+Gjør det samme for at tallene skal bli enklere å jobbe med ved å substituere $r$ med $r a_{0}$:
+
+$$
+P \left( r \right) = \frac{4 r^{2} a_{0}^{2}}{a_{0}^{3}} e^{-2ra_{0}a_{0}^{-1}} = \frac{4r^{2}}{a_{0}}e^{-2r}
+$$
+
+Og enheten for $x$-aksen blir da $ra_{0}^{-1}$ i stedet for $r$. Videre trekker vi nå ut $a_{0}^{-1}$ fra nevneren i brøken slik at enheten for $y$-aksen blir $a_{0}^{-1}$ og vi får da
+
+$$
+P \left( r \right) = 4r^{2} r^{-2r}
+$$
+
+![20260216T1219-sannsynlighet.png](Assets/20260216T1219-sannsynlighet.png)
+
+---
+
+Finner først den mest sannsynlige radiusen ved å finne toppunktet til sannsynlighetsfunksjonen via derivasjon:
+
+$$
+\begin{align}
+  P \left( r \right) &= \frac{4r^{2}}{\pi a_{0}^{3}} \cdot e^{-2ra_{0}^{-1}} & \\
+  P' \left( r \right) &= \frac{4r^{2}}{\pi a_{0}^{3}} \cdot -2a_{0}^{-1} e^{-2ra_{0}^{-1}} + \frac{8r}{\pi a_{0}^{3}} \cdot e^{-2ra_{0}^{-1}} & \\
+  &= \frac{-8r^{2}a_{0}^{-1}e^{-2ra_{0}^{-1}}}{\pi a_{0}^{3}} + \frac{8re^{-2ra_{0}^{-1}}}{\pi a_{0}^{3}} & \\
+  &= \frac{-8r^{2}e^{-2ra_{0}^{-1}}}{\pi a_{0}^{4}} + \frac{8re^{-2ra_{0}^{-1}}}{\pi a_{0}^{3}} & \\
+  &= \frac{-8r^{2}e^{-2ra_{0}^{-1}}}{\pi a_{0}^{4}} + \frac{8a_{0}re^{-2ra_{0}^{-1}}}{\pi a_{0}^{4}} & \\
+  &= \frac{8a_{0}re^{-2ra_{0}^{-1}} - 8r^{2}e^{-2ra_{0}^{-1}}}{\pi a_{0}^{4}} & \\
+  &= \frac{8re^{-2ra_{0}^{-1}} \cdot \left( a_{0} - r \right)}{\pi a_{0}^{4}} & \\
+  P' \left( x \right) &= 0 & \\
+  \frac{8re^{-2ra_{0}^{-1}} \cdot \left( a_{0} - r \right)}{\pi a_{0}^{4}} &= 0 & \\
+  a_{0} - r &= 0 & \\
+  r &= a_{0} &
+\end{align}
+$$
+
+Altså er den mest sannsynlige avstanden lik Bohr-avstanden, $0.0529 \,\mathrm{nm}$
+
+---
+
+Deretter må jeg finne toppunktet til $\psi \left( r \right)^{2}$. Funksjonen er definert ved:
+
+$$
+\psi \left( r \right)^{2} = \frac{1}{\pi a_{0}^{3}} e^{-2ra_{0}^{-1}}
+$$
+
+Jeg vet at funksjonen $f \left( x \right) = e^{-x}$ er strengt avtakende for hele definisjonsmengden. Dermed vil også $\psi \left( r \right)^{2}$ være strengt avtakende. Det vil si at det første punktet i definisjonsmengden vil være toppunktet til funksjonen. Vi har at $D_{\psi^{2}} = \left[ 0, \rightarrow \right\rangle$. Dermed har vi at toppunktet til $\left| \psi \right|^{2}$ er $r=0$. Det vil si at det er størst stannsynlighet for at et elektron befinner seg i kjernen.
+
+> [!NOTE] Hvorfor er de to svarene ulike?
+> Vi får da altså at den mest sannsynlige avstanden fra kjernen er lik $a_{0}$, mens det mest sannsynlige punktet er i kjernen. Dette er fordi det kun finnes et enkelt punkt i kjernen. Dette er det individuelle punktet som har høyest sannsynlighet. Likevel er det størst sannsynlighet for å finne et elektron med en avstand $r=a_{0}$ fra kjernen. Dette skyldes at selv om det er lavere sannsynlighet per punkt, finnes det flere punkter i denne radien. Den totale sannsynligheten blir økt med $r^{2}$, samtidig som den synker med $e^{-2ra_{0}^{-1}}$. Disse to utligner hverandre ved $r=a_{0}$, som er den radien med størst sannsynlighet for å finne et elektron.
+
+> [!NOTE] Hvorfor tar man kvadratet av bølgefunksjonen?
+> Bølgefunksjonen $\psi$ har ingen fysisk betydning i seg selv. Per definisjon er $\psi$ en kompleks funksjon som beskriver elektronets kvantetilstand. Dette kan man ikke måle direkte i et eksperiment. Man vil kunne få negative verdier som vil være umulig når man tenker på sannsynlighet, og man vil kunne få komplekse verdier som ikke vil ha noen fysisk betyrning. Derfor kan vi ikke bruke funksjonen direkte. Vi bruker da $\left| \psi \right|^{2}$. Dette vil alltid gi et reelt og positivt tall som vi kan bruke for sannsynlighet og i fysikken.
+>
+> Man kan da bruke $\left| \psi \left( \vec{r} \right) \right|^{2} \,dV$ som gir sannsynligheten for å finne elektronet i volumet $dV$ rundt punktet $\vec{r}$. Altså er $\left| \psi \right|^{2}$ sannsynlighetstetthet. Hvis man har gitt en bølgefunksjon, la oss si $\sin{x}$, vil denne svinge over og under $0$. Et utslag kan da være både over og under null. Hvis man faktisk vil vite hvor mye det er må man bruke energien, som er proporsjonal med kvadratet av høyden.
+
+## 8.37
