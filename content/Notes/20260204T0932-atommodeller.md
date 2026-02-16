@@ -279,5 +279,11 @@ Jeg vet at funksjonen $f \left( x \right) = e^{-x}$ er strengt avtakende for hel
 > Bølgefunksjonen $\psi$ har ingen fysisk betydning i seg selv. Per definisjon er $\psi$ en kompleks funksjon som beskriver elektronets kvantetilstand. Dette kan man ikke måle direkte i et eksperiment. Man vil kunne få negative verdier som vil være umulig når man tenker på sannsynlighet, og man vil kunne få komplekse verdier som ikke vil ha noen fysisk betyrning. Derfor kan vi ikke bruke funksjonen direkte. Vi bruker da $\left| \psi \right|^{2}$. Dette vil alltid gi et reelt og positivt tall som vi kan bruke for sannsynlighet og i fysikken.
 >
 > Man kan da bruke $\left| \psi \left( \vec{r} \right) \right|^{2} \,dV$ som gir sannsynligheten for å finne elektronet i volumet $dV$ rundt punktet $\vec{r}$. Altså er $\left| \psi \right|^{2}$ sannsynlighetstetthet. Hvis man har gitt en bølgefunksjon, la oss si $\sin{x}$, vil denne svinge over og under $0$. Et utslag kan da være både over og under null. Hvis man faktisk vil vite hvor mye det er må man bruke energien, som er proporsjonal med kvadratet av høyden.
+>
+> Per definisjon er Schrödinger-likningen og kvantemekanikken formulert slik at integrasjon ev $\left| \psi \right|^{2}$ over hele rommet vil gi $1$, altså $100\%$ sannsynlighet for at en partikkel befinner seg innenfor hele rommet. Altså $\displaystyle \int \left| \psi \right|^{2} \,dV = 1$. $\left| \psi \right|^{2}$ er proporsjonal med tettheten av sannsynlighet, mens $\left| \psi \right|$ bare er amplituden. Dette tar ikke hensyn til faseinformasjon som påvirker sannsynligheten for eksempel ved interferens. For eksempel hvis to bølger med ulik fase interfererer vil $\left| \psi_{1} + \psi_{2} \right|^{2} \neq \left| \psi_{1} \right|^{2} + \left| \psi_{2} \right|^{2}$. Altså har vi
+>
+> - $\psi$ -> bølgefunksjonen (kompleks)
+> - $\left| \psi \right|$ -> amplitude, men kun for enkle bølger og mister faseinformasjonen
+> - $\left| \psi \right|^{2}$ -> sannsynlighetstetthet som tar hensyn til fase og interferens.
 
 ## 8.37
