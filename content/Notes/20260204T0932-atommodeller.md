@@ -235,7 +235,7 @@ $$
 Og enheten for $x$-aksen blir da $ra_{0}^{-1}$ i stedet for $r$. Videre trekker vi nå ut $a_{0}^{-1}$ fra nevneren i brøken slik at enheten for $y$-aksen blir $a_{0}^{-1}$ og vi får da
 
 $$
-P \left( r \right) = 4r^{2} r^{-2r}
+P \left( r \right) = 4r^{2} e^{-2r}
 $$
 
 ![20260216T1219-sannsynlighet.png](Assets/20260216T1219-sannsynlighet.png)

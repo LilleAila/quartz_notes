@@ -38,3 +38,9 @@ I tillegg fikk vi BME280 til å fungere med en annen arduino:
 ![20260212T1007-bme280-arduino.png](Assets/20260212T1007-bme280-arduino.png)
 
 Neste time vil vi kombinere de to programmene for å logge temperatur og fuktighet. Det som gjenstår nå handler om de sensorene som vi ikke har bestilt enda, så da blir det ikke så mye vi kan jobbe med fysisk. Da vil jeg heller fortsette å jobbe med å formulere kravspesifikasjonene.
+
+## 2025-02-16
+
+Vi har slått sammen de to programmene slik at det nå logges reell data til CSV-filen. Vi har nå i praksis skrevet alt grunnlaget vi trenger for å kunne utvide koden senere med flere sensorer, og må bare vente til disse kommer for å kunne implementere resten. Jeg har også begynt å lese litt i dokumentasjonen på hvordan jeg bruker TEMT6000 og KY07 (lys og lydsensorene).
+
+Videre har vi sett litt på dataen fra testmålingene og jeg har tenkt på hva som kan være lurt å undersøke.
