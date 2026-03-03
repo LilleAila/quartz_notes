@@ -55,3 +55,26 @@ Jeg har noen ideer for å få et bedre resultat, blant annet
 - Sammenligne med en grunnverdi i steder for å logge den absolutte verdien fra sensoren. Vi har fortsatt det samme problemet med at sensoren er litt unøyaktig på små forskjeller i støynivået, men dette vil kanskje gi en litt mer brukbar måling.
 - Forsterke signalet fra sensoren. Da ville vi nok trengt å kjøpe inn forsterkere i tillegg til disse lydsensorene. Jeg tenkte da på noe sånt som LM358 eller LM486. Jeg er usikker på om disse er lett tilgjengelig i Norge eller ikke. Her burde vi da også bruke kort ledninger og muligens en 0.1µF for å redusere elektrisk støy fra omgivelsene.
 - Bruke en annen sensormodul. Da tenkte jeg noe sånt som en MAX9814 eller kanskje en INMP441 I2S (denne er tilgjengelig her: https://www.fibel.no/product/inmp441-i2s-mikrofon). Dette virker som den beste løsningen. Vi kunne nok også ha fått en normal mikrofon til å fungere, men dette vil nok bli dyrere.
+
+## 2026-03-01
+
+Loddet først diverse sensorer (10 av hver type) slik at det skal bli enklere for de andre. Av disse tok jeg et par av TEMT600 og IMNP441 til dette prosjektet.
+
+![20260302T1524-soldered-sensors.png](Assets/20260302T1524-soldered-sensors.png)
+
+Deretter brukte jeg den resterende tiden på å feilsøke og koble opp IMNP441 mikrofonen. Dette var ganske mye mer komplisert enn KY-037, da den sender data over I2S. Jeg endte til slutt opp med å få noe som fungerte der jeg koblet
+
+- L/R -> GND (GND og VCC to choose between L/R channel. Using left here)
+- WS -> D3 (world select)
+- SCK -> D2 (serial clock)
+- GND -> GND
+- VDD -> VCC (3.3V)
+- SD -> A6 (serial data)
+
+Dette var vanskelig å finne dokumentasjon, men ved hjelp av pinout: https://docs.arduino.cc/resources/pinouts/ABX00019-full-pinout.pdf samt KI (ChatGPT og google gemini, sistnevnte var den som til slutt ga riktig svar). Til slutt fikk jeg til å koble opp, og plottet gjennomsnittet hver 500 millisekunder som ga følgende resultat der jeg lagde litt lyder:
+
+![20260302T1524-serial-plotter.png](Assets/20260302T1524-serial-plotter.png)
+
+Jeg fikk ikke tid til å teste den veldig mye, men det ser ved første øyekast ut som om den klarer enkelt å oppfatte høye lyder som klapping. Det ser også ut som om den klarer bedr eå oppfatte små forskjeller i hvor høyt man snakker, som ikke var mulig med KY-037. Derfor tror jeg det vil være mulig for oss å bruke denne sensoren videre i prosjektet. Jeg noterte noen muligheter for bedre datainnsamling som jeg kan se på neste gang. For øyeblikket har jeg som jeg nevnte et glidende gjennomsnitt, og jeg tror egentlig at dette vil være den beste verdien å bruke med tanke på det vi vil måle, siden vi ikke har lyst til å vite plutselige høye lyder men heller bare det generelle støynivået gjennom timen. Neste gang skal jeg da prøve litt av dette, og prøve å kombinere de ulike programmene til ett program. Jeg blir også nødt til å prøve med TEMT6000, men dette ser ut som det vil bli drastisk enklere enn dette, så det skal gå relativt fort.
+
+Da har vi alle sensorene vi skal trenge (lyd, lys og temperatur + luftfuktighet) og skal kunne begynne å gjøre reelle målinger. Før vi setter dette i "produksjon" vil jeg også lodde sammen ledningene på SD shield slik at det ikke ligger løst og det ikke er noen fare for at en sensor blir koblet ut midt i en måling.

@@ -11,7 +11,7 @@ title: Romgeometri - parameterfremstilling
 
 # Romgeometri - parameterfremstilling
 
-Fungerer i praksis nøyaktig det samme som [[20250312T0723-parameterframstilling|parameterframstilling]] i to dimensjoner. I det kartesiske koordinatsystemet kan man lage en parameterfremstilling som en linje ved
+Fungerer i praksis nøyaktig det samme som [[20250312T0723-parameterframstilling|parameterframstilling]] i to dimensjoner. I det kartesiske koordinatsystemet kan man lage en parameterfremstilling som en linje ved hjelp av et vilkårlig punkt på linjen og en vilkårlig retningsvektor.
 
 $$
 \begin{align}
@@ -47,3 +47,47 @@ $$
   \end{cases}, t \in \left[ 0, 2 \pi \right] &
 \end{align}
 $$
+
+## Vinkel mellom linjer
+
+Man finner vinkelen mellom retningsvektorene. Det finnes to muligheter for resultatet. Man velger da den som er $\leq90\degree$. Det vil si at hvis vi får en vinkel over $90\degree$, må vi heller ta $180\degree - \angle u$. Altså har vi at vinkelem $\angle v$ mellom to linjer er
+
+$$
+\begin{align}
+  u > 90\degree & \implies v = 180\degree - u & \\
+  u \leq 90\degree &\implies v = u &
+\end{align}
+$$
+
+## Vinkel mellom linje og plan
+
+Man finner vinkelen mellom linjen og normalvektoren til planet. Altså vil vi ikke vinne $\angle u$, men vi må kompensere for at vi bruker normalvektoren i stedet for en retningevektor for en linje. Altså har vi at
+
+$$
+\begin{align}
+  u < 90\degree &\implies v = 90\degree - u & \\
+  u \geq 90\degree &\implies v = u - 90\degree &
+\end{align}
+$$
+
+Eller generelt:
+
+$$
+v = \left| 90\degree - u \right|
+$$
+
+## Avstand fra punkt til linje
+
+Vi har gitt en linnje $l$, og et punkt $P$. Vi lager et punkt $Q$ på linjen $l$ slik at vektoren $\vec{QP}$ står ortogonalt på linjen. Vi vet at $\vec{QP}$ er parallell med en normalvektor til linjen. Kan da sette opp en parameterfremstilling med kun én ukjent, t:
+
+$$
+Q = \begin{cases}
+  x = x_{0} + at \\
+  y = y_{0} + bt \\
+  z = z_{0} + ct
+\end{cases}
+$$
+
+---
+
+Vi kan også definere en funksjon slik at $\left| \vec{QP} \right| = a \left( t \right)$, og bruke $a' \left( t \right) = 0$ for å finne den minste mulige lengden på $\vec{QP}$.
