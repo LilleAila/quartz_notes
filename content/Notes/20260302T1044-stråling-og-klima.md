@@ -60,3 +60,155 @@ P = \sigma T^{4} \cdot 4 \pi R^{2}
 $$
 
 For å finne innstrålingstettheten på jorden, kan man tenke seg et kuleskall med radius lik avstanden $d$ fra solen til jorden. Strålingen $P$ fra solen vil være jevnt fordelt utover hele kuleskallet, med overflateareal $4 \pi d^{2}$. Innstrålingstettheten i et gitt punkt på dette kuleskallet blir $I_{s} = \frac{P}{4 \pi d^{2}}$. Merk at dette vil gi innstrålingstettheten til et eksakt punkt og ikke til hele jorden, men dette blir negligerbart når $d$ er så stor.
+
+Vi kan bruke Stefan-Boltzmanns lov og får da
+
+$$
+\begin{align}
+  P &= \sigma T^{4} \cdot 4 \pi R^{2} & \\
+  I_{s} &= \frac{P}{4 \pi d^{2}} & \\
+  &= \frac{\sigma T^{4} \cdot 4 \pi R^{2}}{4 \pi d^{2}} & \\
+  &= \frac{\sigma T^{4} R^{2}}{d^{2}} & \\
+  &= 1384 \,\mathrm{W m^{-2}} &
+\end{align}
+$$
+
+Man kan finne den totale innstrålte effekten fra solen på jordens overflate ved å multiplisere med tverrsnittarealet:
+
+$$
+\begin{align}
+  P_{inn} &= I_{s} \cdot \pi r_{j}^{2} & \\
+  &= 1.7659 \cdot 10^{17} \,\mathrm{W} &
+\end{align}
+$$
+
+> [!NOTE]
+> $r_{j}$ er jordradien, lik omtrent $6.371 \cdot 10^{6} \,\mathrm{m}$
+
+---
+
+Etter hvert vil et legeme oppnå en stabil temperatur, der energien som sendes ut, blir lik energien som sendes inn. Da er det oppnådd strålingsbalanse.
+
+$$
+P_{\text{inn}} = P_{\text{ut}}
+$$
+
+Et legeme der det er strålingsbalanse vil da ha en stabil temperatur.
+
+Eksempel 9-6:
+
+Regner jorden som et svart legeme, og kan da bruke Stefan-Boltzmanns lov:
+
+$$
+P_{\text{ut}} = \sigma T^{4} \cdot 4 \pi R^{2}
+$$
+
+Ved strålingsbalanse vil den utstrålte effekten fra jorden være lik den innstrålte effekten fra solen.
+
+$$
+\begin{align}
+  P_{\text{ut}} &= P_{\text{inn}} & \\
+  \sigma T^{4} \cdot 4 \pi r^{2} &= P_{\text{inn}} & \\
+  T^{4} &= \frac{P_{\text{inn}}}{\sigma 4 \pi r^{2}} & \\
+  T &= \sqrt[4]{\frac{P_{\text{inn}}}{\sigma 4 \pi r^{2}}} & \\
+  T &= \sqrt[4]{\frac{1.7659 \cdot 10^{17} \,\mathrm{W}}{4 \pi \cdot \left( 6.371 \cdot 10^{6} \,\mathrm{m} \right)^{2} \cdot 5.67 \cdot 10^{-8} \,\mathrm{W m^{-2}K^{-4}}}} & \\
+  T &= 280 \,\mathrm{\left( W^{1-1}m^{-2 - \left( -2 \right)}K^{4} \right)^{\frac{1}{4}}} = 280 \,\mathrm{K} & \\
+  &= 7 \,\mathrm{\degree C} &
+\end{align}
+$$
+
+---
+
+For de fleste legemer reflekteres noe av strålingen. Solen kan betraktes som et sort legeme, men jorden reflekterer mye mer av strålingen. Dette er mye grunnet lyse flekker på overflaten og rundt jorden som reflekterer deler av sollyset som treffer dem, blant annet lyse skyer og is. Dette beskrives ved hjelp av albedo, som er et tall i intervallet $\left[ 0, 1 \right]$. Symboler et $\alpha$ (alfa). Ordet kommer fra _hvithet_, og en flate som reflekterer all stråling vil ha albedo $1$, mens et svart legeme vil ha $\alpha = 0$. Jordens albedo ligger i gjennomsnitt på $\alpha = 0.33$.
+
+| Overflate   |  Albedo $\alpha$ |
+| ----------- | ---------------- |
+| Jord        | $0.17$           |
+| Grønt gress | $0.25$           |
+| Åpent hav   | $0.06$           |
+| Asfalt      | $0.04-0.12$      |
+| Sjøis       | $0.5-0.7$        |
+| Løvskog     | $0.15-0.18$      |
+| Barskog     | $0.08-0.15$      |
+| Ørkensand   | $0.40$           |
+| Nysnø       | $0.80$           |
+
+For å ta hensyn til albedo, kan man sette dette inn i uttrykket for den innstrålte effekten:
+
+$$
+P_{\text{inn}} = I_{s} \cdot \pi \cdot r_{j}^{2} \cdot \left( 1 - \alpha \right)
+$$
+
+Bruker da dette resultlatet for å få en bedre verdi for gjennomsnittstemperaturen på jorden ved strålingsbalanse:
+
+$$
+\begin{align}
+  P_{\text{inn}} &= 1.7659 \cdot 10^{17} \,\mathrm{W} \cdot \left( 1 - \alpha \right) & \\
+  &= 1.7569 \cdot 10^{17} \,\mathrm{W} &  \cdot \left( 1 - 0.33 \right) \\
+  &= 1.1831 \cdot 10^{17} \,\mathrm{W} & \\
+  T &= \sqrt[4]{\frac{P_{\text{inn}}}{\sigma 4 \pi r_{j}^{2}}} & \\
+  &= \sqrt[4]{\frac{1.1831 \cdot 10^{17} \,\mathrm{W}}{4 \pi \cdot \left( 6.371 \cdot 10^{6} \,\mathrm{m} \right)^{2} \cdot 5.67 \cdot 10^{-8} \,\mathrm{Wm^{-2}K^{-4}}}} & \\
+  &= 253 \,\mathrm{K} = -20 \,\mathrm{\degree C} &
+\end{align}
+$$
+
+Ser at den beregnede temperaturen blir mye lavere i forhold til det vi observerer når man regner med albedo.
+
+---
+
+Man må regne med drivhuseffekten for å få en bedre modell. Drivhuseffekten handler om at mer av energien blir værende inne i atmosfæren. Solen slipper lett gjennom gassene i atmosfæren, men gassmolekylene hindrer den del av energien fra jorden i å komme seg ut igjen. Energien som kommer inn fra solen og energien som kommer ut fra jordens overflate er like store når jorden har strålingsbalanse, men men strålingen er ved ulike bølgelengder. Solstrålingen er sterkest ved synlig lys, mens varmestrålingen for jorden er for det meste i den infraføre delen av spekteret. Dette kan vi visualisere med planckkurvene:
+
+![20260304T0912-jorden-solen-planckkurve.png](Assets/20260304T0912-jorden-solen-planckkurve.png)
+
+Solenergien slipper inn, men varmestrålingen slipper ikke like lett ut fra jorden. Ettersom temperaturen øker, er det mer og mer stråling, og dette fortsetter å øke til energien som slipper inn er like stor som energien som slipper ut.
+
+Noen av gassene i atmosfæren slipper sollyset gjennom, men absorberer varmestrålingen fra jordoverflaten. Atomene blir eksitert, og deretter sendes strålingen ut igjen i alle retninger. Mye av denne vil da bli sendt tilbake til jordoverflaten. Dette har med energinivåene til elektronet som gjør at noen bølgelengder ikke absorberes. Derfor må temperaturen for at jorden skal ha strålingsbalanse være høyere, og vi ser at dette er nødvendig for å ha liv på jorden.
+
+Slike gasser kalles drivhusgasser. Molekylær vibrasjonsenergi finnes spesielt i den infrarøde delen av spekteret, så det er disse energiovergangene som fører til drivhuseffekten. Moelkyler med to like atomer har ikke vibrasjonsenergi, og absorberer ikke i dette området. $N_{2}$ og $O_{2}$ er de vanligste gassene i atmosfæren, men bidrar altså ikke til drivhuseffekten.
+
+Gasser som $H_{2}0$, $CO_{2}$, $CH_{4}$, $N_{2}O$ og $O_{3}$ er de viktigste drivhusgassene.
+
+![20260304T0926-drivhusgass-absorpsjon.png](Assets/20260304T0926-drivhusgass-absorpsjon.png)
+
+Her ser vi at $70-75\%$ av den innkommende strålingen fra solen slipper inn, mens bare $15-30\%$ av den utgående varmestrålingen kommer ut.
+
+---
+
+> [!NOTE]
+> Man kan da lage en modell som tar hensyn til atmosfæren til jorden. Jeg forenkler og antar at atmosfæren består av ett lag med samme temperatur $T_{a}$, at all innstrålt effekt fra solen $I_{s}$ slipper inn, albedoen er $\alpha = 0.33$ og at $80\%$ av den infraføre strålingen blir absorbert i atmosfæren på grunn av drivhuseffekten. Atmosfæren regnes som et grått legeme der emissiviteten er $\varepsilon = 0.80$. Et slikt grått legeme sender ut stråling med strålingstettheten $\varepsilon \sigma T_{a}^{4}$.
+
+Regner med at arealet til den siden av atmosværen som vender inn mot jorden og den delen som vender ut mot verdensrommet alle er lik $A$. Solstrålingen freffer en sirkel med jordens radius, som tilsvarer en fjerdedel av jordens overflateareal.
+
+Strålingsbalansen for jorden:
+
+$$
+\begin{align}
+  P_{\text{inn}} &= P_{\text{ut}} & \\
+  I_{s} \left( 1 - \alpha \right) \cdot \frac{A}{4} + \varepsilon \sigma T_{a}^{4} \cdot A &= \sigma T_{j}^{4} \cdot A & \\
+  \frac{1}{4} I_{s} \left( 1 - \alpha \right) + \varepsilon \sigma T_{a}^{4} &= \sigma T_{j}^{4} &
+\end{align}
+$$
+
+Strålingsbalansen for atmosfæren:
+
+$$
+\begin{align}
+  P_{\text{inn}} &= P_{\text{ut}} & \\
+  \varepsilon \sigma T_{j}^{4} \cdot A &= \varepsilon \sigma T_{a}^{4} \cdot A + \varepsilon \sigma T_{a}^{4} \cdot A & \\
+  T_{j}^{4} &= 2T_{a}^{4} &
+\end{align}
+$$
+
+Løser dette likningssettet med de to ukjente $T_{a}$ og $T_{j}$. Dette kan gjøres i CAS, og man får da
+
+$$
+T_{a} = 240.85 \land T_{j} = 286.43
+$$
+
+Man får altså
+
+$$
+T_{j} = 286.43 \,\mathrm{K} = 13 \,\mathrm{\degree C}
+$$
+
+Denne modellen gir et mye bedre resultat enn den forrige, som er nesten det samme som det observerte. Dette kalles ettlagsmodellen fordi den modellerer atmosfæren som ett lag. Dette er fortsatt en veldig forenklet modell i forhold til virkeligheten.
