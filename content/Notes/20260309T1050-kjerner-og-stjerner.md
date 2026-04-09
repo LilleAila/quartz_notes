@@ -58,4 +58,10 @@ $$
 \mathrm{{}_{0}^{1} n \to {}_{1}^{1} p + {}_{-1}^{0}e + {}_{0}^{0}\bar{v}_{e}}
 $$
 
-Her blir det dannet et proton, men også et elektron $\mathrm{{}_{-1}^{0} e}$ og et _antinøytrino_ $\mathrm{{}_{0}^{0}\bar{v}_{e}}$
+Her blir det dannet et proton, men også et elektron $\mathrm{{}_{-1}^{0} e}$ og et _antinøytrino_ $\mathrm{{}_{0}^{0}\bar{v}_{e}}$. Dette kan forklares ved hjelp av masse-energi-loven og de tre følgenre lovene:
+
+- Antall nukleoner er alltid bevart.
+- Elektrisk ladning er alltid bevart.
+- Antall leproner er bevart.
+
+Leptoner er lette partikler som ikke blir påvirket av den sterke kjernekraften. De er elementærpartikler, som vil si at de ikke kan deles opp i mindre partikler. Nøytrinoer har ingen elektrisk ladning, og har en ekstremt lav masse. Denne er negligerbar i alle tilfeller vi ser på i fysikk 1. Partikkelen som blir dannet i reaksjonen over er et antinøytrino. En antipartikkel vil si en partikkel med samme masse, men motsatt ladning. Alle nukleoner har for eksempel nukleontall $+1$, og alle leptoner har leptontall $+1$. Når to antipartikler kolliderer, vil begge forsvinne, og massen deres omdannes til energi. En slik reaksjon kalles annihilasjon. I det forrige eksempelet må reaksjonen også inneholde en partikkel med leptontall $-1$ på høyre side siden elektronet har leptontall $1$. Det er dette som er et antinøytrino.
