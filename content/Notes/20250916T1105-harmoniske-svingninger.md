@@ -20,7 +20,7 @@ $$
 - Grafen har samme form som grafen til $\sin{x}$
 - Variabelen $A$ strekker grafen i $y$-retning (tilsvarer amplitude)
 - Variabelen $c$ strekker grafen i $x$-retning (relaterer til funksjonens periode)
-- Variebelen $\varphi$ forskyver grafen i $x$-retning
+- Variabelen $\varphi$ forskyver grafen i $x$-retning
 - Variabelen $d$ forskyver grafen i $y$-retning (tilsvarer likevektslinjen)
 
 ---
