@@ -80,3 +80,33 @@ Dikterene:
 - Ivar Aasen skrev dansk i de språklige skriftene sine, men brukte landsmålet som dikter.
 - Bjørnstjerne Bjørnson var positiv til landsmålet som ungdom, men ble tilhenger av fornorsking i det meste av livet sitt. Da han ble eldre, ble han svært konservativ og tok avstand fra fornorsking.
 - Ibsen, Kielland, Lie og Skram ga ut bøkene sine i Danmark, og vi vinner derfor lite fornorsking om dem.
+
+---
+
+Språkdebatten på 1900-tallet handler om at det var mye debatt mellom om man skulle bruke bokmål eller nynorsk. Staten ønsket å ha ett skriftspråk. Derfor forsøkte de å opprette et nytt skriftspråk kalt samnorsk som skulle erstatte både nynorsk og bokmål. De prøvde å innføre dette, men det lyktes ikke. Verken de som skrev bokmål eller nynorsk godtok dette, og derfor endte vi opp med at de to skriftspråkene ble likestilt. Vi forsøkte å blande begge til et enkelt språk, men det var for annerledes fra begge til til at man kunne bruke det. Man er sterkt tilknyttet til skriftspråket som en del av identiteten sin og vil derfor ikke gi slipp på det.
+
+## Tekst fra Arnulf Øverland (s. 494, intertekst vg2)
+
+1. Hvordan mener Øverland at språklig utvikling skal foregå?
+
+Han mener at den språklige utviklingen i Norge skal foregå helt natuglig, og hvis vi tvinger den frem stlik som staten forsøkte å gjøre under utviklingen av samnorsk, vil dette ikke fungere og man vil bare miste den språklige identititeten sin fordi det blir for brått ulikt i forhold til begge partene som eksisterte fra før.
+
+2. Hva mener Øverland om språket i skolebøkene?
+
+Han skriver at det vil være så ulikt fra det foreldrene kan fra før og hvordan man snakker at foreldrene ikke vil ønske at sine barn lærer dette nye språket. Han mener at det er kunstig og unaturlig of oppfordrer foreldrene til å vise motstand mot det.
+
+3. Øverland skriver at "bokmål er ikke noe språk, men en sjikane, en unørt nedvurdering av det folk man vil påtvinge dette offentlige klovneri!". Prøv å formulere dette med dine egne ord. Er du enig eller uenig med ham?
+
+Det nye skriftspråket bokmål er ikke lenger et språk som reflekterer kulturen og talespråket til folket, men en stor påtvunget endring som ikke lenger har noen sammenheng med det folket er vant med fra før.
+
+4. Hva mener han med at ma ikke skal bruke "skammelige lovknep mot hverandre"?
+
+Han mener at når man prøvde å innføre samnorsk, brukte staten loven på en måte som var urettferdig mot folket ved å mot deres vilje innføre dette som det påkrevde skriftspråket uten å tenke på kulturen og hvordan den naturlige utviklingen av et skriftspråk burde foregå.
+
+5. Prøv å formulere det språksynet som kommer fram her.
+
+Øverland har et språksyn om at språket må få lov til å ha en naturlig utvikling uten noen påtvungen påvirkning av loven.
+
+6. beskriv argumentasjonen til Øverland. Hvilke appellformer finner du?
+
+Han bruker spesielt mye patos i teksten der han bruker følelser for å få fram poenget sitt om alt som er dårlig med samnorsk. Her skriver han spesielt om kulturen og hvor stor endring det er og da hvor mye av identiteten man vil miste etter en slik drastisk endring. I tillegg bruker han også mange logosargumenter ved å skrive om hvor mange ulemper det har å bli påtvunger et språk og spesielt om hvordan de ville naturlig blitt til ett.

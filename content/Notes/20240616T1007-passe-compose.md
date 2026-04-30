@@ -2,6 +2,7 @@
 id: 20240616T1007-passe-compose
 aliases:
   - passé composé
+  - Passé Composé
 tags: []
 date: "2024-06-16"
 title: Passé Composé
@@ -17,7 +18,7 @@ Det bøyde verbet kalles "participe passé". Dette er likt som på norsk: "har g
 
 > J'ai parlé
 > Tu as fini
-> Ils ont repondu
+> Ils ont répondu
 > Je me suis lavé(e)
 > Je suis allé(e)
 

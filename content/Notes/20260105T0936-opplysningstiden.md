@@ -7,7 +7,7 @@ date: "2026-01-05"
 title: opplysningstiden
 ---
 
-#norsk [[20240901T0808-norsk|Norsk]]
+#norsk [[20250820T1422-norsk-vg2|norsk vg2]]
 
 # opplysningstiden
 
