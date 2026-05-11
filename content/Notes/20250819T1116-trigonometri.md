@@ -6,7 +6,7 @@ tags: []
 date: "2025-08-19"
 title: trigonometri
 ---
-j
+
 #matte [[20250526T1040-matte-r2|Matte R2]]
 
 # trigonometri
