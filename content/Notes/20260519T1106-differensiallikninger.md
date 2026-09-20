@@ -133,3 +133,123 @@ $$
   y &= e^{-F \left( x \right)} \int g \left( x \right) \cdot e^{F \left( x \right)} \,dx &
 \end{align}
 $$
+
+## Differensiallikninger av andre orden
+
+$$
+y'' + f \left( x \right) \cdot y' + g \left( x \right) \cdot y = h \left( x \right)
+$$
+
+En slik likning har ingen generell løsning.
+
+$h \left( x \right) = 0 \iff \text{Homogen likning}$
+
+$f \left( x \right)$ og $g \left( x \right)$ er konstanter $b$ og $c$ der $b \in \mathbb{R}$ og $c \in \mathbb{R}$. Altså har uttrykket konstante koeffisienter. Vi kan da forenkle til:
+
+$$
+y'' + b \cdot y' + c \cdot y = 0
+$$
+
+Dette er en homogen andreordens lineær differensiallikning med konstante koeffisienter, som har en generell løsning.
+
+$$
+\begin{align}
+  y &= e^{rx} & \\
+  y' &= r e^{rx} & \\
+  y'' &= r^{2} e^{rx} & \\
+  r^{2} \cdot e^{rx} + b \cdot r \cdot e^{rx} + c \cdot e^{rx} &= 0 & \\
+  e^{rx} \left( r^{2} + b \cdot r + c \right) &= 0 & \\
+  r^{2} + b \cdot r + c &= 0 &
+\end{align}
+$$
+
+Dette er den karakteristiske likningen for en slik differensiallikning. Dette er en enkel andregradslikning der man kan finne $r$ og skrive dette inn i uttrykket for $y$. Man kan da finne 2, 1 eller 2 komplekse løsninger
+
+### Eksempler
+
+$$
+y'' + y' - 6y = 0
+$$
+
+#### a)
+
+> Vis at $r_{1} = -3$ og $r_{2} = 2$
+
+$$
+\begin{align}
+  r^{2} + r - 6c &= 0 & \\
+  \left( r - 2 \right) \left( r + 3 \right) &= 0 & \\
+  r_{1} = -3 &\lor r_{2} = 2 &
+\end{align}
+$$
+
+#### b)
+
+> Vis at $y_{1} = e^{-3x}$ og $y_{2} = e^{2x}$
+
+$$
+\begin{align}
+  y &= e^{rx} & \\
+  y_{1} = e^{-3x} &\lor y_{2} = e^{2x} &
+\end{align}
+$$
+
+#### c)
+
+> Vis at $y = C_{1} e^{-3x} + C_{2} r^{2x}$ er en løsning for likningen.
+
+$$
+\begin{align}
+  y &= C_{1} e^{r_{1}x} + C_{2} e^{r_{2}x} & \\
+  y' &= C_{1} \cdot r_{1} \cdot e^{r_{1} x} + C_{2} \cdot r_{2} \cdot e^{r_{2}x} & \\
+  y'' &= C_{1} \cdot r_{1}^{2} \cdot e^{r_{1}x} + C_{2} \cdot r_{2}^{2} \cdot e^{r_{2}x} & \\
+  \left( C_{1} \cdot r_{1}^{2} \cdot e^{r_{1}x} + C_{2} \cdot r_{2}^{2} \cdot e^{r_{2}x} \right) + b \left( C_{1} \cdot r_{1} \cdot e^{r_{1}x} + C_{2} \cdot r_{2} \cdot e^{r_{2}x} \right) + c \left( C_{1}e^{r_{1}x} + C_{2}e^{r_{2}x} \right) &= 0 & \\
+  \left( C_{1} \cdot \left( -3 \right)^{2} \cdot e^{-3x} + 2 \cdot 2^{2} \cdot e^{2x} \right) + C_{2} \cdot \left( -3 \right) \cdot e^{-3x} + C_{2} \cdot 2 \cdot e^{2x} - 6 \left( C_{1}e^{-3x} + C_{2}e^{2x} \right) &= 0 &
+\end{align}
+$$
+
+Får til slutt at dette er sant, jeg gidder ikke å gjøre hele greien lol
+
+### Generelt
+
+Om $a \cdot y'' + b \cdot y' + c = 0$, har vi $a r^{2} + br + c = 0$.
+
+Med to løsninger for den karakteristiske likningen, får man
+
+$$
+y = c_{1} \cdot e^{r_{1}x} + C_{2} \cdot e^{r_{2}x}
+$$
+
+Med én løsning for $r$, får man
+
+$$
+y = C_{1} \cdot x \cdot e^{rx} + C_{2} \cdot e^{rx}
+$$
+
+### Komplekse løsninger!
+
+Vi har at
+
+$$
+i = \sqrt{-1} \implies i^{2} = -1
+$$
+
+Dette definerer komplekse tall. Vi kan da bruke:
+
+$$
+\begin{align}
+  y'' - 6y' + 25y &= 0 & \\
+  r^{2} - 6r + 25r &= 0 & \\
+  r &= \frac{6 \pm \sqrt{36 - 100}}{2} & \\
+  r &= \frac{6 \pm \sqrt{-64}}{2} & \\
+  r &= \frac{6 \pm \sqrt{64} \sqrt{-1}}{2} & \\
+  r &= \frac{6 \pm 8i}{2} & \\
+  r &= 3 \pm 4i &
+\end{align}
+$$
+
+Komplekse tall har en imaginær del og en reell del. Vi kan kalle den reelle delen $A$ og den imaginære delen for $B$. Man får da denne løsningen på differensiallikningen. Merk at denne løsningen er reell, selv om vi har fått en kompleks $r$ fra den karakteristiske likningen.
+
+$$
+y = e^{Ax} \left( C_{1} \cdot \sin{Bx} + C_{2} \cdot \cos{Bx} \right)
+$$
